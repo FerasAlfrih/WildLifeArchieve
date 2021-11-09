@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Testudines",
+    "Family": "Testudinidae",
+    "Genus": "Geochelone",
+    "Scientific Name": "Geochelone elegans",
+    "Main Prey": "Grasses, Fruits, Flowers",
+    "Fun Fact": "Popular in the exotic pet trade!",
+    "Distinctive Feature": "High domed, star patterned protective shell",
+    "Habitat": "Dry scrub forest",
+    "Predators": "Birds, Reptiles, Humans",
+    "Diet": "Herbivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grasses",
+    "Type": "Reptile",
+    "Average Clutch Size": "7",
+    "Slogan": "Popular in the exotic pet trade!",
+    "Colour": "BrownYellowBlackTanGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "0.3 mph",
+    "Lifespan": "30 - 80 years",
+    "Weight": "1.3kg - 2.2kg (3lbs - 4.9lbs)",
+    "Length": "20cm - 30cm (8in - 12in)",
+    "Name": "Indian Star Tortoise",
+    "Status": "Vulnerable",
+    "locations": [
+        "Asia"
+    ]
+}

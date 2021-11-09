@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Hominidae",
+    "Genus": "Gorilla",
+    "Main Prey": "Leaves, Fruit, Flowers",
+    "Fun Fact": "The biggest of the world's primates!",
+    "Habitat": "Rainforest and dense jungle",
+    "Predators": "Human, Leopard, Crocodile",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Leaves",
+    "Type": "Mammal",
+    "Slogan": "The biggest of the world's primates!",
+    "Colour": "GreyBlack",
+    "Skin Type": "Hair",
+    "Top Speed": "25 mph",
+    "Lifespan": "35-50 years",
+    "Weight": "100-200kg (220-440lbs)",
+    "Name": "Gorilla",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa"
+    ]
+}

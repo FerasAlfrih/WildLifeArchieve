@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Cetacea",
+    "Family": "Delphinidae",
+    "Genus": "Tursiops",
+    "Scientific Name": "Tursiops Truncatus",
+    "Main Prey": "Fish, Shrimp, Squid",
+    "Distinctive Feature": "Large dorsal fins and communicate using whistling",
+    "Habitat": "Warm harbours and bays",
+    "Predators": "Human, Sharks, Killer Whale",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Pod",
+    "Favorite Food": "Fish",
+    "Type": "Mammal",
+    "Slogan": "Stays in groups from 15 to 2,000 in number!'",
+    "Colour": "Light GreyDark Grey",
+    "Skin Type": "Smooth",
+    "Top Speed": "21 mph",
+    "Lifespan": "20 - 35 years",
+    "Weight": "200kg - 300kg (440lbs - 660lbs)",
+    "Length": "2.5m - 4m (8ft - 13ft)",
+    "Name": "Bottlenose Dolphin",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

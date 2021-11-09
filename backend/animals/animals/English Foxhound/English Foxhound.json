@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "English Foxhounds were bred to work and live in a pack. Because of this, this breed is happiest when they are around other dogs.",
+    "Temperament": "Friendly, independent, affectionate",
+    "Diet": "Omnivore",
+    "Colour": "BlackWhiteTanMulti-colored",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 13 years",
+    "Weight": "75 pounds",
+    "Name": "English Foxhound",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

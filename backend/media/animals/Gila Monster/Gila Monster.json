@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Helodermatidae",
+    "Genus": "Heloderma",
+    "Scientific Name": "Heloderma suspectum",
+    "Main Prey": "Eggs, Small Mammals, Birds and Reptiles",
+    "Fun Fact": "It's tail acts as a fat storage facility!",
+    "Habitat": "Shrubland, desert and woodland",
+    "Predators": "Humans, Coyotes, Birds Of Prey",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Eggs",
+    "Type": "Reptile",
+    "Average Clutch Size": "8",
+    "Slogan": "It's tail acts as a fat storage facility!",
+    "Colour": "BrownGreyBlackWhiteTan",
+    "Skin Type": "Scales",
+    "Top Speed": "15 mph",
+    "Lifespan": "20-30 years",
+    "Weight": "1.3-2.2kg (3-5lbs)",
+    "Name": "Gila Monster",
+    "Status": "Near Threatened",
+    "locations": [
+        "North-America"
+    ]
+}

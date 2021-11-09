@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Lemuridae",
+    "Scientific Name": "Lemur Catta",
+    "Main Prey": "Fruit, Leaves, Insects",
+    "Habitat": "Dry forest and tropical jungle",
+    "Predators": "Hawk, Fossa, Wild dogs",
+    "Diet": "Omnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Group",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Natively found on the island of Madagascar!",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "12 mph",
+    "Lifespan": "10-14 years",
+    "Weight": "0.03-10kg (0.06-22lbs)",
+    "Name": "Lemur",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa"
+    ]
+}

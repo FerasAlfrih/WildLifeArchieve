@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Strong, friendly and devoted",
+    "Training": "Should be trained from an early age in a patient and understanding way",
+    "Water type": "Saltwater",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Boston Terrier",
+    "Slogan": "Friendly, lovable and very strong!",
+    "Group": "Mastiff",
+    "Colour": "BrownGreyRedBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Name": "Boston Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

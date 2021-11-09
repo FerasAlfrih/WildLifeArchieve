@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "The oldest breed of cat in the world!",
+    "Distinctive Feature": "Silky fur and almond shaped eyes",
+    "Other Name(s)": "aka Aby or Abys for short",
+    "Temperament": "Intelligent and curious",
+    "Training": "Easy",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Type": "Shorthair",
+    "Common Name": "Abyssinian cat",
+    "Slogan": "The oldest breed of cat in the world!",
+    "Group": "Cat",
+    "Colour": "BrownGreyBlackWhiteBeige",
+    "Skin Type": "Hair",
+    "Lifespan": "13-15 years",
+    "Weight": "6-10 lbs",
+    "Name": "Abyssinian",
+    "Status": "Not Listed",
+    "locations": [
+        "Africa"
+    ]
+}

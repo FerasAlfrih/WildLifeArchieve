@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "English Setters were first bred between 400 and 500 years ago.",
+    "Temperament": "Friendly, affectionate, and gentle",
+    "Diet": "Omnivore",
+    "Colour": "BlueOrangeChestnutMulti-coloredOlive-Grey",
+    "Skin Type": "Hair",
+    "Lifespan": "11 to 15 years",
+    "Weight": "80 pounds",
+    "Name": "English Setter",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The word feisty derived from this type of dog.",
+    "Temperament": "Fearless, spirited, and friendly",
+    "Diet": "Omnivore",
+    "Colour": "BrownWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "15 – 18 years",
+    "Weight": "30 lbs",
+    "Name": "Feist",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

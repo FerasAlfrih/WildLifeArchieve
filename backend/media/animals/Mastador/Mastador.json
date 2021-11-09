@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Mastador gets its enormous size from its Mastiff parent",
+    "Temperament": "Friendly, active, and intelligent",
+    "Diet": "Omnivore",
+    "Colour": "BrownYellowBlackBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "160 lbs",
+    "Name": "Mastador",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

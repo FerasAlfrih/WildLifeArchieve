@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "Active, intelligent and playful!",
+    "Other Name(s)": "Fox Cat, Longhaired Abyssinian",
+    "Temperament": "Active, curious and playful",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Common Name": "Somali cat",
+    "Slogan": "Active, intelligent and playful!",
+    "Group": "Longhair",
+    "Colour": "BrownFawnBlackWhiteCreamGingerGolden",
+    "Skin Type": "Hair",
+    "Lifespan": "9-16 years",
+    "Weight": "6-13lbs",
+    "Name": "Somali",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

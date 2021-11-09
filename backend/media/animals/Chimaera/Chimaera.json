@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Chimaeraformes",
+    "Scientific Name": "Chimaeraformes",
+    "Prey": "Molluscs, crabs, marine worms",
+    "Fun Fact": "Also called ghost shark",
+    "Biggest Threat": "Commercial fishing trawlers",
+    "Most Distinctive Feature": "Dead eyes, fleshy snouts",
+    "Other Name(s)": "Rabbitfish, rat fish, ghost shark",
+    "Gestation Period": "6-12 months",
+    "Water Type": "Salt",
+    "Habitat": "Deep ocean",
+    "Predators": "Humans, sharks, larger fish",
+    "Diet": "Carnivore",
+    "Type": "Chimaeraformes",
+    "Common Name": "Chimaera, ghost shar",
+    "Number Of Species": "48",
+    "Colour": "BrownGreyWhite",
+    "Skin Type": "Smooth",
+    "Lifespan": "~30 years",
+    "Weight": "Up to 5 lbs.",
+    "Length": "1-5 ft.",
+    "Name": "Chimaera",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

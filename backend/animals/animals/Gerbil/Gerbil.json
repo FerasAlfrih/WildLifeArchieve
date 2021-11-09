@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Rodentia",
+    "Family": "Muridae",
+    "Genus": "Gerbillinae",
+    "Scientific Name": "Gerbillinae",
+    "Main Prey": "Seeds, Fruit, Nuts",
+    "Habitat": "Dry deserts",
+    "Predators": "Birds, Snakes, Wildcats",
+    "Diet": "Omnivore",
+    "Average Litter Size": "8",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Seeds",
+    "Type": "Mammal",
+    "Slogan": "Originally known as the Desert Rat!",
+    "Colour": "BrownGreyBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "4 mph",
+    "Lifespan": "3-5 years",
+    "Weight": "56.6113g (2-4oz)",
+    "Name": "Gerbil",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia"
+    ]
+}

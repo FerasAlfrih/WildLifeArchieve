@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Bos",
+    "Scientific Name": "Bos grunniens",
+    "Main Prey": "Grass, Herbs, Mosses",
+    "Name Of Young": "Calf",
+    "Habitat": "Alpine meadows and open hills",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "There are only a few left in the wild!",
+    "Colour": "BrownBlackWhite",
+    "Skin Type": "Hair",
+    "Top Speed": "25 mph",
+    "Lifespan": "15-20 years",
+    "Weight": "300-1,000kg (661-2,200lbs)",
+    "Name": "Yak",
+    "Status": "Near Threatened",
+    "locations": [
+        "Asia",
+        "Eurasia"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Otariidae",
+    "Scientific Name": "Otariidae",
+    "Main Prey": "Fish, Crabs, Squid",
+    "Habitat": "Coastal waters and rocky shorelines",
+    "Predators": "Human, Sharks, Killer Whale",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Fish",
+    "Type": "Mammal",
+    "Slogan": "It's flippers allow it to walk on the land",
+    "Colour": "BrownGreyTan",
+    "Skin Type": "Fur",
+    "Top Speed": "27 mph",
+    "Lifespan": "15-22 years",
+    "Weight": "300-1,000kg (660-2,200lbs)",
+    "Name": "Sea Lion",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

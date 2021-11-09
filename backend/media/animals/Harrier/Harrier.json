@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Harriers used to be called hare hounds as they were originally bred to hunt hares.",
+    "Diet": "Omnivore",
+    "Common Name": "Harrier",
+    "Slogan": "Cheerful, tolerant and sweet-tempered!",
+    "Group": "Hound",
+    "Skin Type": "Hair",
+    "Lifespan": "10 – 12 years",
+    "Weight": "27kg (60lbs)",
+    "Name": "Harrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

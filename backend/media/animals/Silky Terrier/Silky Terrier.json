@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Silky terriers can be trained to participate in many events, including herding, agility, rally, tracking and fly ball.",
+    "Temperament": "Proud and opinionated",
+    "Diet": "Omnivore",
+    "Colour": "GreyBlueBlackTanSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "12 – 15 years",
+    "Weight": "10 lbs",
+    "Name": "Silky Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Carcharhiniformes",
+    "Family": "Carcharhinidae",
+    "Genus": "Carcharhinus",
+    "Scientific Name": "Carcharhinus brevipinna",
+    "Group Behavior": "Group",
+    "Fun Fact": "Can have up to 20 babies",
+    "Estimated Population Size": "Uncertain",
+    "Biggest Threat": "Human exploitation, habitat loss",
+    "Most Distinctive Feature": "Jumping and spinning",
+    "Other Name(s)": "Blacktip shark, longnose gray whaler",
+    "Gestation Period": "11 to 15 months",
+    "Water Type": "Salt",
+    "Habitat": "Tropical and warm temperate waters",
+    "Predators": "Humans",
+    "Diet": "Carnivore",
+    "Favorite Food": "Small bony fish ponds, streams, ocean, etc",
+    "Common Name": "Spinner shark",
+    "Colour": "GreyBlackLight-Brown",
+    "Skin Type": "Tough",
+    "Lifespan": "15 to 20 years",
+    "Weight": "120 to 200 pounds",
+    "Length": "6 to 9 feet",
+    "Name": "Spinner Shark",
+    "Status": "Vulnerable",
+    "locations": [
+        "Ocean"
+    ]
+}

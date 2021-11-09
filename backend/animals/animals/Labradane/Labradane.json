@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Labradanes can come with both sold-color coats and the more exciting patterns that you typically see on Great Danes.",
+    "Diet": "Omnivore",
+    "Name": "Labradane",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

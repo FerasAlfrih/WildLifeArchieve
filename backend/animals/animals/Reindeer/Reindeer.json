@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Cervidae",
+    "Genus": "Rangifer",
+    "Scientific Name": "Rangifer Tarandus",
+    "Main Prey": "Grass, Herbs, Berries",
+    "Water type": "Saltwater",
+    "Habitat": "Forests close to the Arctic tundra",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Also known as the Caribou",
+    "Colour": "BrownGreyWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "50 mph",
+    "Lifespan": "12-15 years",
+    "Weight": "60-320kg (132-705lbs)",
+    "Name": "Reindeer",
+    "Status": "Least Concern",
+    "locations": [
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean"
+    ]
+}

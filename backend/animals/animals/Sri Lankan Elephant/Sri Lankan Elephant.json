@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Proboscidea",
+    "Family": "Elephantidae",
+    "Genus": "Elephas",
+    "Scientific Name": "Elephas Maximus Maximus",
+    "Main Prey": "Grass, Fruit, Roots",
+    "Fun Fact": "One of the world's largest and rarest land animals",
+    "Distinctive Feature": "Long trunk and large feet",
+    "Habitat": "Rainforest and tropical woodland",
+    "Predators": "Human, Tiger",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Now restricted to a few parks!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Leather",
+    "Top Speed": "27 mph",
+    "Lifespan": "55 - 70 years",
+    "Weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+    "Height": "2m - 3m (7ft - 10ft)",
+    "Name": "Sri Lankan Elephant",
+    "Status": "Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

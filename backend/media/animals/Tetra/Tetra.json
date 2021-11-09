@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Characiformes",
+    "Family": "Characidae",
+    "Genus": "Paracheirodon",
+    "Scientific Name": "Paracheirodon Axelrodi",
+    "Main Prey": "Algae, Brine Shrimp, Plankton",
+    "Water Type": "Fresh",
+    "Optimum pH Level": "5.5-7.5",
+    "Habitat": "Clearwater streams of South America",
+    "Predators": "Fish, Eels, Crustaceans",
+    "Diet": "Omnivore",
+    "Favorite Food": "Algae",
+    "Common Name": "Tetra",
+    "Average Clutch Size": "130",
+    "Slogan": "Native to the freshwater streams of South America!",
+    "Colour": "RedBlueBlackWhiteSilver",
+    "Skin Type": "Scales",
+    "Lifespan": "2-5 years",
+    "Name": "Tetra",
+    "Status": "Least Concern",
+    "locations": [
+        "South-America"
+    ]
+}

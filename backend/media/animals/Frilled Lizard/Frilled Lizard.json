@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Agamidae",
+    "Genus": "Chlamydosaurus",
+    "Scientific Name": "Chlamydosaurus kingii",
+    "Main Prey": "Insects, Rodents, Spiders",
+    "Fun Fact": "Frilled lizards can stand up and run on their hind legs.",
+    "Distinctive Feature": "Long tail and large expanding frill on neck",
+    "Habitat": "Tropical forests and woodland",
+    "Diet": "Omnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Reptile",
+    "Average Clutch Size": "12",
+    "Slogan": "Mainly lives in the trees!",
+    "Colour": "BrownYellowBlackTan",
+    "Skin Type": "Scales",
+    "Top Speed": "30 mph",
+    "Lifespan": "10 - 20 years",
+    "Weight": "0.5kg - 1kg (1.1lbs - 2.2lbs)",
+    "Length": "60cm - 100cm (24in - 40in)",
+    "Name": "Frilled Lizard",
+    "Status": "Least Concern",
+    "locations": [
+        "Oceania"
+    ]
+}

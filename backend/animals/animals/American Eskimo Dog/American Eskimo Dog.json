@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The American Eskimo was once a part of the Barnum and Bailey Circus with which it would tour the country and perform for astounded audiences.",
+    "Distinctive Feature": "Bright, white coat and pointed ears",
+    "Temperament": "Playful and smart",
+    "Training": "Fairly easy",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Common Name": "American Eskimo Dog",
+    "Slogan": "The American Eskimo has splendid all white fur and an upturned tail",
+    "Group": "Dog",
+    "Colour": "White",
+    "Skin Type": "Hair",
+    "Lifespan": "13 - 15 years",
+    "Name": "American Eskimo Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe",
+        "North-America"
+    ]
+}

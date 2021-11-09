@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Yorkie-Poo originated from the hybrid poodle phase of the late 20th century",
+    "Temperament": "Friendly and energetic",
+    "Diet": "Omnivore",
+    "Colour": "GreyBlackWhiteTanCreamSilverChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "14lbs",
+    "Name": "Yorkie Poo",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

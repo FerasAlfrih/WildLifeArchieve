@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Pinnipedia",
+    "Scientific Name": "Phoca vitulina",
+    "Main Prey": "Fish, Crabs, Squid",
+    "Habitat": "Coastal waters and rocky shores",
+    "Predators": "Human, Sharks, Killer Whale",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Fish",
+    "Type": "Mammal",
+    "Slogan": "There are 30 different species worldwide!",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Smooth",
+    "Top Speed": "27 mph",
+    "Lifespan": "15-25 years",
+    "Weight": "105-3,000kg (230-6,000lbs)",
+    "Name": "Seal",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

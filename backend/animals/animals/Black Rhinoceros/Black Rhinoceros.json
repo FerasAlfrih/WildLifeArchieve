@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Perissodactyla",
+    "Family": "Rhinocerotidae",
+    "Genus": "Diceros",
+    "Scientific Name": "Diceros Bicornis",
+    "Main Prey": "Grass, Fruit, Berries, Leaves",
+    "Habitat": "Tropical bushland, grassland and savannas",
+    "Predators": "Human, Wild cats",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Horns can grow to 1.5m!",
+    "Colour": "BrownGreyWhite",
+    "Skin Type": "Leather",
+    "Top Speed": "40 mph",
+    "Lifespan": "45-50 years",
+    "Weight": "800kg - 1,400kg (1,800lbs - 3,100lbs)",
+    "Length": "3.3m - 3.6m (11ft - 12ft)",
+    "Name": "Black Rhinoceros",
+    "Status": "Critically Endangered",
+    "locations": [
+        "Africa"
+    ]
+}

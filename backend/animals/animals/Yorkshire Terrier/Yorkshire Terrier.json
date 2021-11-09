@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Yorkies hold many records for smallest dog.",
+    "Temperament": "Lively, playful and affection-seeking",
+    "Diet": "Omnivore",
+    "Common Name": "Yorkshire Terrier",
+    "Slogan": "Highly energetic and eager for adventure!",
+    "Group": "Terrier",
+    "Colour": "BlueBlackGoldTan",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "3kg (7lbs)",
+    "Name": "Yorkshire Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

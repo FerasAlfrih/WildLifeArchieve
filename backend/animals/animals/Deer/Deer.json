@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Cervidae",
+    "Scientific Name": "Odocoileus virginiana",
+    "Main Prey": "Acorns, Fruit, Grass",
+    "Distinctive Feature": "Long ears and some male species have antlers",
+    "Habitat": "Dense forest and planted areas",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Acorns",
+    "Type": "Mammal",
+    "Slogan": "There are around 40 different species!",
+    "Colour": "BrownWhiteTanOrange",
+    "Skin Type": "Fur",
+    "Top Speed": "43 mph",
+    "Lifespan": "10 - 20 years",
+    "Weight": "10kg - 450kg (22lbs - 990lbs)",
+    "Height": "60cm - 105cm (24in - 206in)",
+    "Name": "Deer",
+    "Status": "Near Threatened",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

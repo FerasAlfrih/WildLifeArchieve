@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Training": "No problems learning tricks and simple tasks. ",
+    "Diet": "Omnivore",
+    "Common Name": "Swedish Vallhund",
+    "Colour": "BrownGreyYellowBlueDark Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Name": "Swedish Vallhund",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

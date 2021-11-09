@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Alaskan Husky is one of the most common sled dogs in the world",
+    "Temperament": "Energetic, hard-working, and affectionate",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyRedBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "10 – 12 years",
+    "Weight": "65 lbs",
+    "Name": "Alaskan Husky",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Smilodon",
+    "Scientific Name": "Smilodon populator",
+    "Main Prey": "Deer, Bison, Woolly Mammoth",
+    "Distinctive Feature": "Large muscular body and long canine teeth",
+    "Habitat": "Forests and grasslands",
+    "Predators": "Humans",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Pack",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "Canines up to 7 inches long!",
+    "Colour": "BrownYellowBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Lifespan": "20 - 40 years",
+    "Weight": "300kg (661lbs)",
+    "Length": "2m - 2.5m (79in - 98in)",
+    "Name": "Saber-Toothed Tiger",
+    "Status": "Extinct",
+    "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+    ]
+}

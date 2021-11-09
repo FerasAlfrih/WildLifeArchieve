@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Lagomorpha",
+    "Family": "Leporidae",
+    "Genus": "Lepus",
+    "Scientific Name": "Lepus Arcticus",
+    "Main Prey": "Grass, Willow, Flowers",
+    "Distinctive Feature": "Thick fur that changes colour with seasons",
+    "Habitat": "Tundra and rocky areas",
+    "Diet": "Herbivore",
+    "Average Litter Size": "6",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Eats berries found in the snow!",
+    "Colour": "GreyWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "40 mph",
+    "Lifespan": "3 - 8 years",
+    "Weight": "4kg - 5kg (9lbs - 12lbs)",
+    "Length": "48cm - 67cm (19in - 26in)",
+    "Name": "Arctic Hare",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

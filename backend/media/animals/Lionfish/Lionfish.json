@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Scorpaeniformes",
+    "Family": "Scorpaenidae",
+    "Genus": "Pterois",
+    "Scientific Name": "Pterois volitans",
+    "Main Prey": "Fish, Shrimp, Crabs",
+    "Distinctive Feature": "Striped body markings with long spines",
+    "Water Type": "Salt",
+    "Optimum pH Level": "8.1 - 8.4",
+    "Habitat": "Tropical reefs and rocky crevices",
+    "Predators": "Eels, Frogfish, Scorpion Fish",
+    "Diet": "Carnivore",
+    "Favorite Food": "Fish",
+    "Common Name": "Lionfish",
+    "Average Clutch Size": "8000",
+    "Slogan": "Females can release up to 15,000 eggs at a time!",
+    "Colour": "BrownRedBlackWhiteOrange",
+    "Skin Type": "Scales",
+    "Lifespan": "10 - 18 years",
+    "Length": "30cm - 35cm (12in - 14in)",
+    "Name": "Lionfish",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

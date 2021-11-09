@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Diptera",
+    "Family": "Ceratopogonidae",
+    "Fun Fact": "There are more than 5,000 species.",
+    "Diet": "Omnivore",
+    "Favorite Food": "blood, nectar",
+    "Common Name": "No see um",
+    "Location": "Worldwide, apart from the Antarctic and the Arctic",
+    "Colour": "Grey",
+    "Skin Type": "Exoskeleton",
+    "Lifespan": "2-6 weeks",
+    "Length": "1–3 mm",
+    "Name": "No See Ums",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Name": "English Pointer",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

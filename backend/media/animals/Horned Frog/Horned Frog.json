@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Leptodactylidae",
+    "Genus": "Ceratophrys",
+    "Scientific Name": "Ceratophrys Ornata",
+    "Main Prey": "Worms, Roaches, Insects",
+    "Habitat": "Rainforest and tropical swamplands",
+    "Predators": "Birds, Snakes, Bears",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1,500",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Worms",
+    "Type": "Amphibian",
+    "Slogan": "Natively found in South America!",
+    "Colour": "BrownYellowWhite",
+    "Skin Type": "Hair",
+    "Top Speed": "5 mph",
+    "Lifespan": "5-8 years",
+    "Weight": "320-480g (11.2-17oz)",
+    "Name": "Horned Frog",
+    "Status": "Least Concern",
+    "locations": [
+        "South-America"
+    ]
+}

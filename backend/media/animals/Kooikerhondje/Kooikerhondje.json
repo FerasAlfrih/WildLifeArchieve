@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "If Kooikerhondjes look familiar, it’s because old Dutch masters like Rembrandt and Jan Steen liked to paint them.",
+    "Temperament": "Affable, alert, cheerful",
+    "Diet": "Omnivore",
+    "Colour": "RedWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 14 years.",
+    "Weight": "24 pounds",
+    "Name": "Kooikerhondje",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

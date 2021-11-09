@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Perciformes",
+    "Family": "Labridae",
+    "Scientific Name": "Labridae",
+    "Main Prey": "Small Fish and Invertebrates",
+    "Distinctive Feature": "Large, thick lips and protractile mouths",
+    "Water Type": "Salt",
+    "Optimum pH Level": "5 - 7",
+    "Habitat": "Coral reefs and rocky shores",
+    "Predators": "Sharks, Lionfish, Barracuda",
+    "Diet": "Carnivore",
+    "Favorite Food": "Fish",
+    "Common Name": "Wrasse",
+    "Average Clutch Size": "1000",
+    "Slogan": "There are more than 500 different species!",
+    "Colour": "BrownGreyYellowBlueBlackWhiteGreenOrange",
+    "Skin Type": "Scales",
+    "Lifespan": "3 - 10 years",
+    "Length": "11cm - 250cm (4in - 98in)",
+    "Name": "Wrasse",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

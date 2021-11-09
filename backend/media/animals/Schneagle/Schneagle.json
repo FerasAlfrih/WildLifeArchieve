@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "This hybrid dog is a great companion and doesn’t do well being left alone but is suitable for apartments or houses with backyards!",
+    "Temperament": "Alert and energetic, but devoted",
+    "Diet": "Omnivore",
+    "Colour": "BlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "25 lbs",
+    "Name": "Schneagle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

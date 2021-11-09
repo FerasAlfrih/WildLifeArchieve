@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Hymenoptera",
+    "Family": "Apidae",
+    "Genus": "Bombus",
+    "Scientific Name": "Bombus",
+    "Main Prey": "Nectar, Pollen, Honey",
+    "Habitat": "Quiet forests and pastures",
+    "Predators": "Bats, Frogs, Skunks",
+    "Diet": "Herbivore",
+    "Average Litter Size": "200",
+    "Favorite Food": "Nectar",
+    "Common Name": "Bumble Bee",
+    "Number Of Species": "250",
+    "Location": "Northern Hemisphere",
+    "Slogan": "The most common species of bee!",
+    "Colour": "YellowBlackOrange",
+    "Skin Type": "Hair",
+    "Name": "Bumblebee",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

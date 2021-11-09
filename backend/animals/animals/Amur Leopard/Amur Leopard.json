@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Panthera",
+    "Scientific Name": "Panthera pardus orientalis",
+    "Prey": "Deer, Cattle, hares, small mammals",
+    "Estimated Population Size": "103 as of 2018",
+    "Biggest Threat": "Poaching and habitat loss",
+    "Gestation Period": "90-105 days",
+    "Habitat": "Forests",
+    "Predators": "Human poaching and competition with Siberian tigers",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2-3 cubs",
+    "Lifestyle": "Solitary",
+    "Common Name": "Amur leopard",
+    "Location": "Russia's Far East",
+    "Slogan": "The Amur leopard may be the rarest big cat on Earth!",
+    "Group": "Mammal",
+    "Skin Type": "Hair",
+    "Lifespan": "10 - 15 years in wild; up to 20 in captivity",
+    "Weight": "25kg - 48kg (55lbs - 106lbs)",
+    "Length": "90 cm - 180 cm (3ft - 6ft) excluding tail",
+    "Name": "Amur Leopard",
+    "Status": "Critically Endangered",
+    "locations": [
+        "Asia",
+        "Eurasia"
+    ]
+}

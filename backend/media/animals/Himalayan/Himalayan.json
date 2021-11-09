@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "When you cross a Persian feline and a Siamese feline, you get the beautiful Himalayan.",
+    "Other Name(s)": "Himalayan Persian, or Colourpoint Persian",
+    "Temperament": "Easy-going, calm and playful",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Himalayan",
+    "Slogan": "Also known as the Colourpoint Persian!",
+    "Group": "Longhair",
+    "Colour": "FawnBlueWhiteCreamChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "9-to-15 years",
+    "Weight": "7-to-12 pounds",
+    "Name": "Himalayan",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

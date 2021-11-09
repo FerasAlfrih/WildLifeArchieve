@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Yakute people were likely the first to use dogs to pull sleds, so the Yakutian Laika was probably among the first sled dogs.",
+    "Temperament": "Friendly, active, and intelligent",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 12 years",
+    "Weight": "55 pounds",
+    "Height": "33 inches",
+    "Name": "Yakutian Laika",
+    "Status": "Not Listed",
+    "locations": [
+        "Eurasia"
+    ]
+}

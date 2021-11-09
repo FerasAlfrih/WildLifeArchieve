@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "In their native Thailand, Thai Ridgebacks were used to hunt cobras.",
+    "Temperament": "Intelligent, independent, protective",
+    "Diet": "Omnivore",
+    "Colour": "FawnRedBlueBlackBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 13 years",
+    "Weight": "75lbs",
+    "Name": "Thai Ridgeback",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

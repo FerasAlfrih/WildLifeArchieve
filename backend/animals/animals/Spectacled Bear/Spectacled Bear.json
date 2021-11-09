@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Ursidae",
+    "Genus": "Tremarctos",
+    "Scientific Name": "Tremarctos Ornatus",
+    "Main Prey": "Berries, Mice, Birds",
+    "Distinctive Feature": "Light spectacles on face and long claws",
+    "Habitat": "Coastal forests and deserts",
+    "Predators": "Human, Jaguar, Mountain lion",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Berries",
+    "Type": "Mammal",
+    "Slogan": "Native to the Andes mountains of South America!",
+    "Colour": "GreyBlackWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "30 mph",
+    "Lifespan": "20 - 30 years",
+    "Weight": "130kg - 200kg (286lbs - 440lbs)",
+    "Height": "1.5m - 2m (4.9ft - 6.6ft)",
+    "Name": "Spectacled Bear",
+    "Status": "Endangered",
+    "locations": [
+        "South-America"
+    ]
+}

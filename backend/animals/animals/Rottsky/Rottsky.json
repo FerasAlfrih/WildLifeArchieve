@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Many Rottskies have one brown eye and one blue eye.",
+    "Temperament": "Loyal, protective, affectionate",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyBlackWhiteTanCream",
+    "Skin Type": "Hair",
+    "Lifespan": "8 to 14 years",
+    "Weight": "95lbs",
+    "Name": "Rottsky",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Syncerus",
+    "Scientific Name": "Syncerus caffer",
+    "Main Prey": "Grass, Shrubs, Leaves",
+    "Distinctive Feature": "Shoulder hump and large, curved horns",
+    "Habitat": "Woodland and grass pastures",
+    "Predators": "Human, Lion, Crocodile",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Has no real natural predators!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Hair",
+    "Top Speed": "22 mph",
+    "Lifespan": "15 - 22 years",
+    "Weight": "600kg - 907kg (1,323lbs - 2,000lbs)",
+    "Length": "1.7m - 1.8m (67in - 71in)",
+    "Name": "Buffalo",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa"
+    ]
+}

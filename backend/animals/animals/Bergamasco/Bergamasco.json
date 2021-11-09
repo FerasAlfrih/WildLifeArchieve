@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Bergamascos are excellent problem solvers; they were bred to be independent as they work alongside their nomadic shepherd owners.",
+    "Temperament": "Patient, calm, intelligent, independent",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyBlackTan",
+    "Skin Type": "Hair",
+    "Lifespan": "13-15",
+    "Weight": "57-84 pounds",
+    "Height": "21-24 inches",
+    "Name": "Bergamasco",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

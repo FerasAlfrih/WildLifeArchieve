@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Anguidae",
+    "Genus": "Elgaria",
+    "Scientific Name": "Elgaria coerulea",
+    "Prey": "Meal worms, crickets, spiders, baby mice",
+    "Name Of Young": "Baby",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "Unlike other lizards, these give livebirth to their young",
+    "Estimated Population Size": "10,000 plus mature adults",
+    "Biggest Threat": "Habitat loss",
+    "Most Distinctive Feature": "Very long tail",
+    "Gestation Period": "Approximately 11 weeks",
+    "Litter Size": "Up to 15",
+    "Diet": "Omnivore",
+    "Type": "Reptile",
+    "Common Name": "Northern alligator lizard",
+    "Location": "California, Oregon, Washington State, Montana, Idaho, British Columbia",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Scales",
+    "Lifespan": "10 years",
+    "Weight": "Around 1 ounce",
+    "Length": "3in-4in body",
+    "Age of Sexual Maturity": "18 months",
+    "Name": "Northern Alligator Lizard",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

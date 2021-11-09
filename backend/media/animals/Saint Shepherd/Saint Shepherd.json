@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "These dogs have an eager-to-please attitude, making them sweet and happy pets.",
+    "Temperament": "Friendly, intelligent, eager-to-please",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 14 years",
+    "Weight": "150 lbs",
+    "Name": "Saint Shepherd",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

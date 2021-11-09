@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Gadiformes",
+    "Family": "Gadidae",
+    "Genus": "Gadus",
+    "Prey": "Smaller fish, shellfish, crustaceans, worms",
+    "Group Behavior": "School",
+    "Fun Fact": "They eat other fish",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Humans",
+    "Most Distinctive Feature": "Beloved food around the world",
+    "Other Name(s)": "Cod, codling",
+    "Gestation Period": "8-23 days",
+    "Water Type": "Salt",
+    "Habitat": "Pacific and Atlantic oceans",
+    "Predators": "Humans",
+    "Diet": "Carnivore",
+    "Type": "Groundfish",
+    "Common Name": "Cod, codfish",
+    "Number Of Species": "3",
+    "Colour": "GreenGrey-Brown",
+    "Skin Type": "Scales",
+    "Lifespan": "15-25 years",
+    "Weight": "33-212lbs (15-96kg)",
+    "Length": "77-200cm (30-79in)",
+    "Name": "Codfish",
+    "Status": "Vulnerable",
+    "locations": [
+        "Ocean"
+    ]
+}

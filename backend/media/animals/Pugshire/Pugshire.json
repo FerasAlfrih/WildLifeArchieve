@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "With their incredible desire to show affection, Pugshire make great lap dogs.",
+    "Temperament": "Active, loving, and affectionate",
+    "Diet": "Omnivore",
+    "Colour": "BrownRedBlueBlackWhiteSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "12 lbs",
+    "Name": "Pugshire",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

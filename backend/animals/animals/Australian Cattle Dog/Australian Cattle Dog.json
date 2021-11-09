@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Strong minded yet loyal and loving",
+    "Training": "Should be trained from an early age and respond best to firm and fair training",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Common Name": "Australian Cattle Dog",
+    "Slogan": "High energy levels and active minds!",
+    "Group": "Herd Dog",
+    "Colour": "GreyRedBlack",
+    "Skin Type": "Hair",
+    "Name": "Australian Cattle Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Salmoniformes",
+    "Family": "Salmonidae",
+    "Scientific Name": "Salmonidae",
+    "Prey": "Worms, squid, crustaceans, and other fish",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "Returns upstream every year to spawn",
+    "Estimated Population Size": "Millions",
+    "Biggest Threat": "Habitat change",
+    "Most Distinctive Feature": "The physical transformation in spawning season",
+    "Water Type": "Salt",
+    "Habitat": "Open seas, lakes, or streams",
+    "Predators": "Bears, seals, killer whales, sharks, otters, kingfishers, eagles, and humans",
+    "Diet": "Carnivore",
+    "Type": "Ray-finned fish",
+    "Common Name": "Salmon",
+    "Number Of Species": "8",
+    "Colour": "BrownRedBlueGreenPurpleSilver",
+    "Skin Type": "Scales",
+    "Lifespan": "Up to 7 years",
+    "Weight": "23 lbs",
+    "Length": "58 inches",
+    "Name": "Salmon",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America",
+        "Ocean",
+        "South-America"
+    ]
+}

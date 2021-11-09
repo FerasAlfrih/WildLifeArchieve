@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Quiet and gentle",
+    "Diet": "Omnivore",
+    "Common Name": "Whippet",
+    "Slogan": "Quiet, gentle and restful dogs!",
+    "Group": "Hound",
+    "Colour": "FawnBlackWhiteBrindle",
+    "Skin Type": "Hair",
+    "Top Speed": "35 mph",
+    "Lifespan": "15 years",
+    "Weight": "13kg (28lbs)",
+    "Name": "Whippet",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

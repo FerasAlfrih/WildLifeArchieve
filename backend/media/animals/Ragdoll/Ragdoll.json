@@ -1,0 +1,25 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Other Name(s)": "Floppy cat",
+    "Temperament": "Affectionate, calm and friendly",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Ragdoll",
+    "Slogan": "One of the larger breeds of domestic cat!",
+    "Group": "Mediumhair",
+    "Colour": "BrownFawnBlueBlackWhiteCreamChocolateLilacGolden",
+    "Skin Type": "Hair",
+    "Lifespan": "about 15 years",
+    "Weight": "15-to-20 pounds",
+    "Name": "Ragdoll",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

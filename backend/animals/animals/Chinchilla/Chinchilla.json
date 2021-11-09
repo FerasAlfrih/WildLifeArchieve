@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Rodentia",
+    "Family": "Chinchillidae",
+    "Genus": "Chinchilla",
+    "Scientific Name": "Chinchilla Lanigera",
+    "Main Prey": "Fruit, Nuts, Seeds",
+    "Distinctive Feature": "Dense fur and long back legs",
+    "Habitat": "Dry and mountainous regions",
+    "Predators": "Owls, Fox, Cougars",
+    "Diet": "Herbivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Natively found in the Andes Mountain range!",
+    "Colour": "BrownGreyBeige",
+    "Skin Type": "Fur",
+    "Top Speed": "15 mph",
+    "Lifespan": "10 - 18 years",
+    "Weight": "400g - 500g (14oz - 18oz)",
+    "Length": "25cm - 35cm (10in - 14in)",
+    "Name": "Chinchilla",
+    "Status": "Endangered",
+    "locations": [
+        "South-America"
+    ]
+}

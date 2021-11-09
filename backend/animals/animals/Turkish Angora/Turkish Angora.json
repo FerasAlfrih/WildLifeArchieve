@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "A breed that originated in central Turkey!",
+    "Other Name(s)": "Ankara",
+    "Temperament": "Affectionate, loving and playful",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Turkish Angora",
+    "Slogan": "A breed that originated in central Turkey!",
+    "Group": "Mediumhair",
+    "Colour": "BrownGreyRedBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "9-14 years",
+    "Weight": "8-15 lbs",
+    "Name": "Turkish Angora",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

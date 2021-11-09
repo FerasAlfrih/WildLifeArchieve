@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Chipoo was first bred in the 1970s",
+    "Temperament": "Loyal , outgoing, and intelligent",
+    "Diet": "Omnivore",
+    "Common Name": "Chipoo",
+    "Colour": "BrownGreyFawnBlueBlackWhiteBrindleCreamSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "20lbs",
+    "Name": "Chipoo",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

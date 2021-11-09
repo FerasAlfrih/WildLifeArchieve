@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Ranidae",
+    "Genus": "Rana",
+    "Scientific Name": "Rana temporaria",
+    "Main Prey": "Insects, Worms, Snails",
+    "Fun Fact": "Found throughout the European continent!",
+    "Distinctive Feature": "Short back legs and webbed toes",
+    "Habitat": "Forests, rivers and marshes",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Average Clutch Size": "1500",
+    "Slogan": "Found throughout the European continent!",
+    "Colour": "BrownGreyBlackGreen",
+    "Skin Type": "Permeable",
+    "Top Speed": "5 mph",
+    "Lifespan": "5 - 10 years",
+    "Weight": "20g - 80g (0.7oz - 2.8oz)",
+    "Length": "6cm - 10cm (2.4in - 4in)",
+    "Name": "Common Frog",
+    "Status": "Least Concern",
+    "locations": [
+        "Europe"
+    ]
+}

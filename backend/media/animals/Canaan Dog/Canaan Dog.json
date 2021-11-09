@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "The Ashkelon Dog Cemetery, which can be found in one of Israel's national parks, contains the skeletons of over 1,500 dogs from roughly 500 BCE. The scientific community uses this graveyard as evidence that the modern Canaan dog's origins are in Israel.",
+    "Diet": "Omnivore",
+    "Common Name": "Canaan Dog",
+    "Slogan": "Has a strong survival instinct!",
+    "Group": "South",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "25kg (55lbs)",
+    "Name": "Canaan Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

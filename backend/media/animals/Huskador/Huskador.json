@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Huskadors are gaining in popularity as service dogs.",
+    "Diet": "Omnivore",
+    "Name": "Huskador",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

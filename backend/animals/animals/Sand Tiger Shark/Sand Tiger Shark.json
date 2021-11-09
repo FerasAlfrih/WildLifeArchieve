@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Lamniformes",
+    "Family": "Odontaspididae",
+    "Prey": "Bony fish, other sharks, crustaceans, squid, skates and rays",
+    "Group Behavior": "Solitary/Group",
+    "Fun Fact": "The sand tiger is the shark most commonly seen in aquariums.",
+    "Estimated Population Size": "Unknown, but its population decreased by 20 percent in just the last decade due to overfishing.",
+    "Biggest Threat": "Humans",
+    "Most Distinctive Feature": "It gulps air to keep buoyant.",
+    "Other Name(s)": "spotted ragged-tooth shark, blue-nurse sand tiger, grey nurse shark, spotted sand tiger shark, chien de mer, dogfish shark, slender-tooth shark, magonga, requin taureau, ground shark",
+    "Gestation Period": "Eight to twelve months",
+    "Habitat": "Shallow tropical and temperate waters close to the shore",
+    "Diet": "Carnivore",
+    "Type": "Fish",
+    "Common Name": "Sand tiger shark",
+    "Number Of Species": "4",
+    "Colour": "Grey-Brown",
+    "Skin Type": "Rough",
+    "Top Speed": "0.87 mph",
+    "Lifespan": "13 to 35 years",
+    "Weight": "110 to 660.79 pounds",
+    "Length": "6.6 to 10.5 feet",
+    "Name": "Sand Tiger Shark",
+    "Status": "Vulnerable",
+    "locations": [
+        "Ocean"
+    ]
+}

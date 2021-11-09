@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Lagomorpha",
+    "Family": "Ochotonidae",
+    "Genus": "Ochotona",
+    "Scientific Name": "Ochotona Minor",
+    "Main Prey": "Grasses, Weeds, Thistles",
+    "Habitat": "Mountainous areas",
+    "Predators": "Weasel, Eagle, Dogs",
+    "Diet": "Herbivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grasses",
+    "Type": "Mammal",
+    "Slogan": "Found in mountainous regions and rocky areas",
+    "Colour": "BrownGreyBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "15 mph",
+    "Lifespan": "3-6 years",
+    "Weight": "75-290g (2.6-10oz)",
+    "Name": "Pika",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Europe",
+        "North-America"
+    ]
+}

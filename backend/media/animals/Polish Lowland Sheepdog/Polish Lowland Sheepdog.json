@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Despite having shaggy hair that covers its eyes, this dog is known for its watchful gaze when guarding a herd.",
+    "Temperament": "Playful and a quick learner",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyBlackWhiteBeige",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 14 years",
+    "Weight": "50 lbs",
+    "Name": "Polish Lowland Sheepdog",
+    "Status": "Least Concern",
+    "locations": [
+        "Europe"
+    ]
+}

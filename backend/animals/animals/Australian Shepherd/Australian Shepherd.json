@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Loyal, outgoing, and friendly",
+    "Training": "Should be trained from an early age and they are easy to train but it takes time",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Common Name": "Australian Shepherd",
+    "Slogan": "Sweet, faithful and affectionate!",
+    "Group": "Herd Dog",
+    "Colour": "BrownGreyRedBlackTan",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "65lbs",
+    "Name": "Australian Shepherd",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America",
+        "Oceania"
+    ]
+}

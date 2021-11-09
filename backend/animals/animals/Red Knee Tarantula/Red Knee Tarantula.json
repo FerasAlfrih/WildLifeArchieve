@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Arachnida",
+    "Order": "Araneae",
+    "Family": "Theraphosidae",
+    "Genus": "Brachypelma",
+    "Scientific Name": "Brachypelma smithi",
+    "Main Prey": "Insects, Small mammals and reptiles",
+    "Fun Fact": "Inhabits the Pacific Mountains of Mexico!",
+    "Habitat": "Semi-desert and scrub land",
+    "Predators": "Birds, Reptiles, Mammals",
+    "Diet": "Carnivore",
+    "Average Litter Size": "40",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Arthropoda",
+    "Colour": "BrownRedBlackWhite",
+    "Skin Type": "Hair",
+    "Top Speed": "18 mph",
+    "Lifespan": "20-30 years",
+    "Weight": "15-16g (0.5-0.6oz)",
+    "Name": "Red Knee Tarantula",
+    "Status": "Near Threatened",
+    "locations": [
+        "Central-America"
+    ]
+}

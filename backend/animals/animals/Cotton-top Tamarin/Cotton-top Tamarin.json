@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Callitrichidae",
+    "Genus": "Saguinus",
+    "Scientific Name": "Saguinus Oedipus",
+    "Main Prey": "Fruit, Insects, Rodents",
+    "Distinctive Feature": "Small body size and long, thin tail",
+    "Habitat": "Lowland tropical forest",
+    "Predators": "Snakes, birds of prey, jaguars",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Found in tropical forest edges!",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "24 mph",
+    "Lifespan": "8 - 15 years",
+    "Weight": "220g - 900g (7.7oz - 32oz)",
+    "Length": "18cm - 30cm (7in - 12in)",
+    "Name": "Cotton-top Tamarin",
+    "Status": "Critically Endangered",
+    "locations": [
+        "South-America"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Malacostraca",
+    "Order": "Decapoda",
+    "Family": "Paguroidea",
+    "Scientific Name": "Paguroidea",
+    "Main Prey": "Fish, Worms, Plankton",
+    "Habitat": "Coastal waters",
+    "Predators": "Fish, Sharks, Cuttlefish",
+    "Diet": "Omnivore",
+    "Average Litter Size": "200",
+    "Favorite Food": "Fish",
+    "Common Name": "Hermit Crab",
+    "Number Of Species": "500",
+    "Location": "Worldwide",
+    "Slogan": "There are over 500 different species!",
+    "Colour": "BrownYellowRedBlueWhiteGreenOrangePink",
+    "Skin Type": "Shell",
+    "Weight": "200-500g (7-18oz)",
+    "Name": "Hermit Crab",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

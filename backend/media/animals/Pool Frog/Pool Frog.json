@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Ranidae",
+    "Genus": "Pelophylax",
+    "Scientific Name": "Pelophylax lessonae",
+    "Main Prey": "Insects, Moths, Spiders",
+    "Fun Fact": "The rarest amphibian in the UK!",
+    "Distinctive Feature": "Spotted patterned skin and pointed snout",
+    "Habitat": "Woodland ponds",
+    "Predators": "Foxes, Cats, Birds",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Average Clutch Size": "1500",
+    "Slogan": "The rarest amphibian in the UK!",
+    "Colour": "BrownYellowBlackGreen",
+    "Skin Type": "Permeable",
+    "Top Speed": "5 mph",
+    "Lifespan": "1 - 6 years",
+    "Weight": "20g - 80g (0.7oz - 2.8oz)",
+    "Length": "5cm - 9cm (1.9in - 3.5in)",
+    "Name": "Pool Frog",
+    "Status": "Least Concern",
+    "locations": [
+        "Europe"
+    ]
+}

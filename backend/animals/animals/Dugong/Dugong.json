@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Sirenia",
+    "Family": "Dugongidae",
+    "Genus": "Dugong",
+    "Scientific Name": "Dugong Dugon",
+    "Main Prey": "Sea Grass. Algae, Flowers",
+    "Distinctive Feature": "Large body size and forked tail",
+    "Habitat": "Warmer tropical waters and sea grass forests",
+    "Predators": "Human, Sharks, Crocodile",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Sea Grass",
+    "Type": "Mammal",
+    "Slogan": "Closely related to the Manatee!",
+    "Colour": "BrownGrey",
+    "Skin Type": "Leather",
+    "Top Speed": "13 mph",
+    "Lifespan": "50 - 70 years",
+    "Weight": "150kg - 400kg (330lbs - 880lbs)",
+    "Length": "2.7m - 3m (8.9ft - 9.8ft)",
+    "Name": "Dugong",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

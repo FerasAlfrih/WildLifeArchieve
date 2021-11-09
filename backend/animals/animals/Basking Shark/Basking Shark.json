@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Lamniformes",
+    "Family": "Cetorhinidae",
+    "Genus": "Cetorhinus",
+    "Scientific Name": "Cetorhinus Maximus",
+    "Main Prey": "Fish, Plankton, Invertebrates",
+    "Distinctive Feature": "Enormous mouth and large body size",
+    "Water Type": "Salt",
+    "Optimum pH Level": "5 - 7",
+    "Habitat": "Temperate waters along continental shelves",
+    "Predators": "Sharks, Humans, Killer Whales",
+    "Diet": "Carnivore",
+    "Favorite Food": "Fish",
+    "Common Name": "Basking Shark",
+    "Average Clutch Size": "6",
+    "Slogan": "The second biggest fish in the world!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Smooth",
+    "Lifespan": "20 - 100 years",
+    "Length": "6m - 12m (20ft - 39ft)",
+    "Name": "Basking Shark",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

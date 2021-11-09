@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Meagle has an incredible sense of smell.",
+    "Temperament": "Active, energetic, and sometimes stubborn",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhiteCreamChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 15 years",
+    "Weight": "20 lbs",
+    "Name": "Meagle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Rodentia",
+    "Family": "Sciuridae",
+    "Main Prey": "Nuts, Fruit, Seeds, Berries",
+    "Fun Fact": "There are 25 different species!",
+    "Distinctive Feature": "Stripes on fur and large front teeth",
+    "Habitat": "Forest and thick woodland",
+    "Predators": "Human, Hawks, Raccoon",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Nuts",
+    "Type": "Mammal",
+    "Slogan": "There are 25 different species!",
+    "Colour": "BrownYellowBlackBeige",
+    "Skin Type": "Fur",
+    "Top Speed": "21 mph",
+    "Lifespan": "4 - 8 years",
+    "Weight": "57g - 113g (2oz - 4oz)",
+    "Height": "10cm - 18cm (4in - 7in)",
+    "Name": "Chipmunk",
+    "Status": "Least Concern",
+    "locations": [
+        "Eurasia",
+        "North-America"
+    ]
+}

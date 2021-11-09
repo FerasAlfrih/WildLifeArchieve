@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Russell Terrier was bred to be a good fox hunter with a keen sense of smell",
+    "Temperament": "Curious, alert, and friendly",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "13 – 16 years",
+    "Name": "Russell Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

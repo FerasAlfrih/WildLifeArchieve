@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Mountain Feists were bred in the southern United States as a dog that could help with hunting small game.",
+    "Temperament": "Curious, active, and affectionate",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyRedBlueBlackWhiteBrindleSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 15 years",
+    "Weight": "30lbs",
+    "Name": "Mountain Feist",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

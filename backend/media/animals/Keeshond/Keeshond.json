@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "Friendly, alert dogs that are loyal to their owners",
+    "Temperament": "Alert & energetic",
+    "Diet": "Omnivore",
+    "Skin Type": "Fur",
+    "Lifespan": "13-15 years",
+    "Weight": "34-45lbs",
+    "Name": "Keeshond",
+    "Status": "Least Concern",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Pelecaniformes",
+    "Family": "Fregatidae",
+    "Genus": "Fregata",
+    "Scientific Name": "Fregata",
+    "Main Prey": "Fish, Crab, Squid",
+    "Distinctive Feature": "Large wingspan and enlarged red throat of the male",
+    "Wingspan": "150cm - 250cm (59in - 98in)",
+    "Habitat": "Tropical coasts and islands",
+    "Predators": "Humans, Rats, Cats",
+    "Diet": "Carnivore",
+    "Lifestyle": "Colony",
+    "Favorite Food": "Fish",
+    "Type": "Bird",
+    "Average Clutch Size": "1",
+    "Slogan": "Found inhabiting tropical islands and coasts!",
+    "Colour": "BrownRedBlackWhite",
+    "Skin Type": "Feathers",
+    "Top Speed": "9 mph",
+    "Lifespan": "15 - 25 years",
+    "Weight": "0.9kg - 1.9kg (1.9lbs - 4.2lbs)",
+    "Height": "65cm - 100cm (25in - 39in)",
+    "Name": "Frigatebird",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

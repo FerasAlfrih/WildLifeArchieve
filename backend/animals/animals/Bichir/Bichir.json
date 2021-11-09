@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Polypteriformes",
+    "Family": "Polypteridae",
+    "Genus": "Polypterus",
+    "Prey": "Crustaceans, insects, vertebrates, and small fish",
+    "Group Behavior": "School",
+    "Fun Fact": "The bichir species is more than 400 million years old",
+    "Estimated Population Size": "unavailable",
+    "Biggest Threat": "Environmental damage",
+    "Most Distinctive Feature": "Small, ray-like fins along an elongated back",
+    "Other Name(s)": "Dragon fish, dinosaur eel",
+    "Gestation Period": "3-4 days",
+    "Water Type": "Fresh",
+    "Habitat": "Rivers and lakes",
+    "Diet": "Carnivore",
+    "Type": "Polypterid",
+    "Common Name": "Bichir",
+    "Number Of Species": "13",
+    "Colour": "BrownGreyGreen",
+    "Skin Type": "Scales",
+    "Lifespan": "15-20 years",
+    "Weight": "5 - 10 lbs",
+    "Length": "11 - 30 inches",
+    "Name": "Bichir",
+    "Status": "Not Listed",
+    "locations": [
+        "Africa"
+    ]
+}

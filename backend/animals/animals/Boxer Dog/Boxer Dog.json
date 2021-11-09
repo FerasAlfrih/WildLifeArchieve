@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Intelligent, fearless and strong",
+    "Training": "Should be trained from an early age due to their independent nature",
+    "Diet": "Omnivore",
+    "Average Litter Size": "8",
+    "Common Name": "Boxer Dog",
+    "Slogan": "Bright, energetic and playful!",
+    "Group": "Mastiff",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Hair",
+    "Name": "Boxer Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

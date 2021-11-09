@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Acipenseriformes",
+    "Family": "Polyodontidae",
+    "Prey": "Zooplankton",
+    "Fun Fact": "Paddlefish have existed since the Cretaceous Period",
+    "Biggest Threat": "Humans",
+    "Most Distinctive Feature": "Long, paddlelike snout",
+    "Other Name(s)": "Mississippi paddlefish, spoonbill",
+    "Gestation Period": "7 days",
+    "Water Type": "Fresh",
+    "Habitat": "Rivers",
+    "Predators": "Lampreys",
+    "Diet": "Carnivore",
+    "Type": "Fish",
+    "Common Name": "paddlefish",
+    "Number Of Species": "1",
+    "Colour": "GreyGreen",
+    "Skin Type": "Smooth",
+    "Lifespan": "30 years",
+    "Weight": "60 pounds",
+    "Length": "4.9 feet",
+    "Name": "Paddlefish",
+    "Status": "Vulnerable",
+    "locations": [
+        "Asia",
+        "North-America"
+    ]
+}

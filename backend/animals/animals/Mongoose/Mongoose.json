@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Herpestidae",
+    "Genus": "Herpestes",
+    "Scientific Name": "Helogale Parvula",
+    "Main Prey": "Rats, Eggs, Insects",
+    "Water type": "Saltwater",
+    "Habitat": "Open forests and grass plains",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Gang",
+    "Favorite Food": "Rats",
+    "Type": "Mammal",
+    "Slogan": "Range in size from just 1 to 3 foot!",
+    "Colour": "BrownGreyTan",
+    "Skin Type": "Fur",
+    "Top Speed": "20 mph",
+    "Lifespan": "10-15 years",
+    "Weight": "0.3-4kg (0.7-8.8lbs)",
+    "Name": "Mongoose",
+    "Status": "Endangered",
+    "locations": [
+        "Africa",
+        "Asia"
+    ]
+}

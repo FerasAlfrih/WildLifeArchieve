@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Estimated Population Size": "300",
+    "Temperament": "Affectionate, loving, loyal",
+    "Diet": "Omnivore",
+    "Common Name": "Canadian Eskimo Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 15 years",
+    "Name": "Canadian Eskimo Dog",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

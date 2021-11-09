@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Carcharhiniformes",
+    "Family": "Carcharhinidae",
+    "Genus": "Carcharhinus",
+    "Scientific Name": "Carcharhinus Leucas",
+    "Main Prey": "Fish, Sharks, Stingray",
+    "Distinctive Feature": "Flat, rounded snout and two dorsal fins",
+    "Habitat": "Shallow and tropical waters",
+    "Predators": "Human, Tiger sharks",
+    "Diet": "Carnivore",
+    "Average Litter Size": "10",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fish",
+    "Type": "Fish",
+    "Slogan": "Unpredictable and aggressive temperament!",
+    "Colour": "GreyBlue",
+    "Skin Type": "Scales",
+    "Top Speed": "25 mph",
+    "Lifespan": "16 - 25 years",
+    "Weight": "90kg - 230kg (200lbs - 500lbs)",
+    "Length": "2.1m - 3.5m (7ft - 11.5ft)",
+    "Name": "Bull Shark",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

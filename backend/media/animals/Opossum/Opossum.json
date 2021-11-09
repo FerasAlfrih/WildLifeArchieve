@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Didelphimorphia",
+    "Family": "Didelphidae",
+    "Genus": "Didelphis",
+    "Scientific Name": "Didelphis Virginiana",
+    "Main Prey": "Fruit, Insects, Frogs",
+    "Habitat": "Forest and farmland close to water",
+    "Predators": "Fox, Cat, Birds of Prey",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Thought to be immune to certain snake venom!",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "15 mph",
+    "Lifespan": "2-7 years",
+    "Weight": "0.5-6kg (1.1-13lbs)",
+    "Name": "Opossum",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

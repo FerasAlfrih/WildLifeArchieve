@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "These dogs are originally from Switzerland and were bred for their diligence in herding cattle. They get their name from herders in the Swiss Alps.",
+    "Temperament": "Intelligent, affectionate, stubborn",
+    "Diet": "Omnivore",
+    "Common Name": "Entlebucher Mountain Dog",
+    "Slogan": "Native to parts of the Swiss Alps!",
+    "Group": "Sennenhund",
+    "Colour": "BlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "30kg (65lbs)",
+    "Name": "Entlebucher Mountain Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

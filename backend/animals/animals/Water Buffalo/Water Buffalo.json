@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Bubalus",
+    "Scientific Name": "Bubalus bubalis",
+    "Main Prey": "Grass, Leaves, Aquatic plants",
+    "Habitat": "Marsh and swampland",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Has been domesticated for thousands of years!",
+    "Colour": "BrownGreyTan",
+    "Skin Type": "Leather",
+    "Top Speed": "30 mph",
+    "Lifespan": "15-25 years",
+    "Weight": "400-900kg (880-2,000lbs)",
+    "Name": "Water Buffalo",
+    "Status": "Endangered",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "The German name Affenpinscher translates to monkey dog. This pup’s face is similar to a monkey’s!",
+    "Distinctive Feature": "Dark wiry-haired body and dark eyes",
+    "Temperament": "Alert and inquisitive",
+    "Training": "Medium",
+    "Diet": "Omnivore",
+    "Average Litter Size": "3",
+    "Type": "Terrier",
+    "Common Name": "Affenpinscher",
+    "Slogan": "First bred in 17th century Germany!",
+    "Group": "Dog",
+    "Colour": "GreyBlack",
+    "Skin Type": "Hair",
+    "Name": "Affenpinscher",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

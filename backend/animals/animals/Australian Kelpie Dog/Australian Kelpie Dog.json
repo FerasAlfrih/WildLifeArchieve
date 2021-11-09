@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Kelpie can travel more than 30 miles in one day.",
+    "Temperament": "Alert and intelligent",
+    "Training": "Should be trained from an early age and should be firm but fair",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Common Name": "Australian Kelpie Dog",
+    "Slogan": "Friendly, intelligent and energetic!",
+    "Group": "Herd Dog",
+    "Colour": "BrownRedBlackTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 13 years",
+    "Weight": "25 to 45 pounds",
+    "Height": "17 to 20 inches",
+    "Name": "Australian Kelpie Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

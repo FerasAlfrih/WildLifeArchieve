@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Hexanchiformes",
+    "Family": "Hexanchidae",
+    "Genus": "Hexanchus",
+    "Prey": "Fish, sharks, rays, and crustaceans",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "The sixgill shark has six pairs of gills instead of the normal five",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Overfishing",
+    "Most Distinctive Feature": "The massive rows of comb-like teeth",
+    "Other Name(s)": "Cow Shark",
+    "Gestation Period": "Longer than 2 years",
+    "Water Type": "Salt",
+    "Habitat": "Oceans",
+    "Predators": "Humans, orcas, sharks, dolphins, and sea lions",
+    "Diet": "Carnivore",
+    "Type": "Shark",
+    "Common Name": "Sixgill Shark",
+    "Number Of Species": "3",
+    "Colour": "BrownGreyBlackWhiteGreen",
+    "Skin Type": "Rough",
+    "Lifespan": "Up to 80 years",
+    "Weight": "Up to 1,600lbs",
+    "Length": "Up to 6m (20ft)",
+    "Name": "Sixgill shark",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

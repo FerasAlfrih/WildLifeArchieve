@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Orectolobiformes",
+    "Family": "Stegostomatidae",
+    "Genus": "Stegostoma",
+    "Scientific Name": "Stegostoma Fasciatum",
+    "Main Prey": "Fish, Crabs, Snails",
+    "Optimum pH Level": "7.8 - 8.4",
+    "Habitat": "Tropical, coastal waters",
+    "Predators": "Large Sharks, Humans",
+    "Diet": "Omnivore",
+    "Average Litter Size": "10",
+    "Favorite Food": "Fish",
+    "Type": "Salt",
+    "Slogan": "Can get to be 30 years old in the wild!",
+    "Colour": "BrownGreyYellowBlackWhite",
+    "Skin Type": "Smooth",
+    "Lifespan": "15 - 20 years",
+    "Weight": "16kg - 20kg (35lbs - 44lbs)",
+    "Name": "Zebra Shark",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Distinctive Feature": "Pointed face and upturned tail",
+    "Temperament": "Affectionate, friendly and loyal",
+    "Training": "Medium",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Type": "Working",
+    "Common Name": "Alaskan Malamute",
+    "Slogan": "Often used as sled dogs!",
+    "Group": "Dog",
+    "Colour": "GreyBlackWhite",
+    "Skin Type": "Hair",
+    "Name": "Alaskan Malamute",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

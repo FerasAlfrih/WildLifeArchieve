@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Merry, outgoing, and eager to please!",
+    "Distinctive Feature": "Long, dropped ears and feathered feet",
+    "Temperament": "Friendly, happy and enthusiastic",
+    "Training": "Easy",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Type": "Gun Dog",
+    "Common Name": "American Cocker Spaniel",
+    "Slogan": "Merry, outgoing, and eager to please!",
+    "Group": "Dog",
+    "Colour": "BrownGreyFawnRedBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Name": "American Cocker Spaniel",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Anguilliformes",
+    "Family": "Congridae",
+    "Main Prey": "zooplankton, fish eggs, crustaceans",
+    "Group Behavior": "Colony",
+    "Fun Fact": "Garden eel colonies are made up of hundreds to thousands of individuals.",
+    "Estimated Population Size": "unknown",
+    "Biggest Threat": "predators",
+    "Most Distinctive Feature": "snakelike bodies partially protruding from the sand",
+    "Water Type": "Brackish",
+    "Habitat": "marine saltwater",
+    "Predators": "Pacific snake eel, triggerfish",
+    "Diet": "Carnivore",
+    "Type": "fish",
+    "Common Name": "garden eel",
+    "Number Of Species": "35",
+    "Colour": "BrownGreyBlackWhiteGreenOrange",
+    "Skin Type": "Smooth",
+    "Lifespan": "35-40 years",
+    "Length": "33cm-121cm (13in-47.6in)",
+    "Name": "Garden Eel",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

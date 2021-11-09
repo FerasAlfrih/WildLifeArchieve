@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "A Lhasapoo’s coat can be curly like a poodle’s or long and silky like a Lhasa Apso’s.",
+    "Diet": "Omnivore",
+    "Name": "Lhasapoo",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

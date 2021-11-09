@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Sirenia",
+    "Family": "Dugongidae",
+    "Genus": "Hydrodamalis",
+    "Scientific Name": "Hydrodamalis Gigas",
+    "Main Prey": "Sea Grasses, Algae, Flowers",
+    "Distinctive Feature": "Enormous body size and toothless mouths",
+    "Habitat": "Arctic Tundra",
+    "Predators": "Large sharks and humans",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Sea Grasses",
+    "Type": "Mammal",
+    "Slogan": "Hunted to extinction in 17 years!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Smooth",
+    "Lifespan": "50 - 80 years",
+    "Weight": "8000kg (8.8tons)",
+    "Length": "8m - 9m (26ft - 30ft)",
+    "Name": "Steller’s Sea Cow",
+    "Status": "Extinct",
+    "locations": [
+        "Ocean"
+    ]
+}

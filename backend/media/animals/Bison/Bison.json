@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Bison",
+    "Scientific Name": "Bison Bison",
+    "Main Prey": "Grass, Acorns, Berries",
+    "Distinctive Feature": "Huge head and a shoulder hump",
+    "Habitat": "Grass plains and forest",
+    "Predators": "Human, Bear, Wolves",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Largest mammal in North America!",
+    "Colour": "BrownTan",
+    "Skin Type": "Hair",
+    "Top Speed": "22 mph",
+    "Lifespan": "15 - 20 years",
+    "Weight": "1,000kg - 1,300kg (2,200lbs - 2,500lbs)",
+    "Length": "2m - 2.7m (6.6ft - 9ft)",
+    "Name": "Bison",
+    "Status": "Near Threatened",
+    "locations": [
+        "North-America"
+    ]
+}

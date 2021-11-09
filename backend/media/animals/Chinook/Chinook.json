@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Friendly and loyal",
+    "Diet": "Omnivore",
+    "Common Name": "Chinook",
+    "Slogan": "A calm and friendly breed!",
+    "Group": "North",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "41kg (90lbs)",
+    "Name": "Chinook",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

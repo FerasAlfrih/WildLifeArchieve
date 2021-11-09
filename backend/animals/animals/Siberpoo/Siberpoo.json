@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Although a lack of documentation makes it unclear, the first Siberpoo was probably bred in either the 1970s or 1980s.",
+    "Diet": "Omnivore",
+    "Name": "Siberpoo",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

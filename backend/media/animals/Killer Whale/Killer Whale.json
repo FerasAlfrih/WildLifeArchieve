@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Cetacea",
+    "Family": "Delphinidae",
+    "Genus": "Orcinus",
+    "Scientific Name": "Orcinus orca",
+    "Main Prey": "Seal, Fish, Squid",
+    "Group Behavior": "Pod",
+    "Fun Fact": "An adult orca eats up to 300 pounds of food each day",
+    "Water Type": "Salt",
+    "Habitat": "Ocean and coastal waters worldwide",
+    "Predators": "Human, Larger Sharks",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Pod",
+    "Favorite Food": "Seal",
+    "Type": "Mammal",
+    "Slogan": "Typically consumes over 200 kg of food a day!",
+    "Colour": "BlackWhite",
+    "Skin Type": "Smooth",
+    "Top Speed": "30 mph",
+    "Lifespan": "50-60 years",
+    "Weight": "6,804-8,618kg (15,000-19,000lbs)",
+    "Name": "Killer Whale",
+    "Status": "Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

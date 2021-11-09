@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Temperament": "Friendly and alert but stubborn",
+    "Training": "Should be trained from an early age due to their independent nature",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Common Name": "Bull Terrier",
+    "Slogan": "Needs to be kept active!",
+    "Group": "Mastiff",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Name": "Bull Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

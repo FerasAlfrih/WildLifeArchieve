@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Boglen terriers are also occasionally known as boggles.",
+    "Temperament": "Fun, friendly, and loyal",
+    "Diet": "Omnivore",
+    "Colour": "GreyBlackWhiteBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "10-13 years",
+    "Weight": "40 lbs",
+    "Name": "Boglen Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

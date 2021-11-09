@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Diptera",
+    "Main Prey": "Nectar, Sap, Blood",
+    "Fun Fact": "There are more than 240,000 different species!",
+    "Habitat": "Close to organic waste",
+    "Predators": "Frogs, Fish, Lizards",
+    "Diet": "Omnivore",
+    "Average Litter Size": "50",
+    "Favorite Food": "Nectar",
+    "Common Name": "Fly",
+    "Number Of Species": "240000",
+    "Location": "Worldwide",
+    "Slogan": "There are more than 240,000 different species!",
+    "Colour": "BrownBlueBlack",
+    "Skin Type": "Hair",
+    "Name": "Fly",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Antarctica",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean",
+        "Oceania",
+        "South-America"
+    ]
+}

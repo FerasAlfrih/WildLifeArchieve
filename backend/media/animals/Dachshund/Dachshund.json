@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The doxie’s actual name, dachshund, directly describes its original purpose. Dachs means badger and hund means hunting in the German language.",
+    "Temperament": "Stubborn but playful and devoted",
+    "Diet": "Omnivore",
+    "Common Name": "Dachshund",
+    "Slogan": "Fun and playful breed of small dog!",
+    "Group": "Hound",
+    "Colour": "RedBlackTanCreamChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "32 lbs",
+    "Name": "Dachshund",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

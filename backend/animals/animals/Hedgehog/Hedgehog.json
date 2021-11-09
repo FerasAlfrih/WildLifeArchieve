@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Erinaceomorpha",
+    "Family": "Erinaceidae",
+    "Main Prey": "Insects, Worms, Seeds",
+    "Fun Fact": "Thought to be one of the oldest mammals on Earth!",
+    "Habitat": "Dense vegetation and woodland",
+    "Predators": "Owl, Dog, Foxes",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Mammal",
+    "Slogan": "Thought to be one of the oldest mammals on Earth!",
+    "Colour": "BrownGreyTan",
+    "Skin Type": "Spikes",
+    "Top Speed": "12 mph",
+    "Lifespan": "3-6 years",
+    "Weight": "1-2kg (2.2-4.4lbs)",
+    "Name": "Hedgehog",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ]
+}

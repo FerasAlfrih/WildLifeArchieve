@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "While originally bred for hunting, Field Spaniels are more commonly used as a family dog or a show dog.",
+    "Diet": "Omnivore",
+    "Common Name": "Field Spaniel",
+    "Slogan": "A sociable and adaptable breed!",
+    "Group": "Gun Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "23kg (50lbs)",
+    "Name": "Field Spaniel",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

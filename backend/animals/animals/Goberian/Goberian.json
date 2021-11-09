@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "These dogs are great around children and are very playful around them.",
+    "Temperament": "Friendly, smart, and playful",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyBlackWhiteCream",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 15 years",
+    "Weight": "80 lbs",
+    "Name": "Goberian",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

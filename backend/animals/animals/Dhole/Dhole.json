@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Cuon",
+    "Scientific Name": "Cuon alpinus",
+    "Main Prey": "Deer, Rodents, Birds",
+    "Distinctive Feature": "Bushy tail and distinctive calls",
+    "Habitat": "Dry forest and thick jungle",
+    "Predators": "Tigers, Leopards, Humans",
+    "Diet": "Carnivore",
+    "Average Litter Size": "8",
+    "Lifestyle": "Pack",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "Only 2,000 left in the wild!",
+    "Colour": "BrownGreyRedBlackWhiteGoldTan",
+    "Skin Type": "Fur",
+    "Top Speed": "45 mph",
+    "Lifespan": "10 - 13 years",
+    "Weight": "12kg - 20kg (26lbs - 44lbs)",
+    "Length": "75cm - 110cm (29in - 43in)",
+    "Name": "Dhole",
+    "Status": "Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

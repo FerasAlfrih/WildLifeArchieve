@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Sphenisciformes",
+    "Family": "Spheniscidae",
+    "Genus": "Pygoscelis",
+    "Scientific Name": "Pygoscelis papua",
+    "Main Prey": "Krill, Fish, Shrimp",
+    "Distinctive Feature": "Small head with orange beak and feet",
+    "Habitat": "Rocky Antarctic Islands",
+    "Predators": "Leopard Seal, Killer Whale, Sharks",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Colony",
+    "Favorite Food": "Krill",
+    "Type": "Bird",
+    "Slogan": "Found throughout the sub-Antarctic!",
+    "Colour": "GreyBlackWhiteOrange",
+    "Skin Type": "Feathers",
+    "Lifespan": "15 - 20 years",
+    "Weight": "4kg - 8kg (8.8lbs - 18lbs)",
+    "Height": "51cm - 90cm (20in - 36in)",
+    "Name": "Gentoo Penguin",
+    "Status": "Near Threatened",
+    "locations": [
+        "Antarctica",
+        "Ocean"
+    ]
+}

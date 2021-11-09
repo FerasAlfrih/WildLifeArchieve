@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Eager to please, friendly, loving",
+    "Training": "Should be trained from an early in obedience",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Common Name": "Boykin Spaniel",
+    "Slogan": "Enthusiastic working dog!",
+    "Group": "Gun Dog",
+    "Colour": "BrownDark BrownChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 15 years",
+    "Name": "Boykin Spaniel",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

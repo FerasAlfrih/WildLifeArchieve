@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Horgis have a silly side and love to be the center of attention.",
+    "Temperament": "Active and social",
+    "Diet": "Omnivore",
+    "Colour": "FawnRedBlackCreamLight-Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 15 years",
+    "Weight": "50 lbs",
+    "Name": "Horgi",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

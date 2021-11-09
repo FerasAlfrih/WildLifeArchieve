@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "The American Staffordshire Terrier got its name to distinguish it from the English Staffordshire Terriers that these dogs are originally descended from.",
+    "Temperament": "Dominant and stubborn yet loyal",
+    "Training": "Should be trained from a very early age using assertive techniques and should be intensively socialised with other dogs",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Common Name": "American Staffordshire Terrier",
+    "Slogan": "Bred to be extremely friendly!",
+    "Group": "Mastiff",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Name": "American Staffordshire Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

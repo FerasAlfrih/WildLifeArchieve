@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Loyal, affectionate, calm, quiet, sensitive and protective",
+    "Diet": "Carnivore",
+    "Common Name": "Rottweiler",
+    "Slogan": "Strong, loyal and self-assured!",
+    "Group": "Working",
+    "Colour": "BlackTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "132lbs",
+    "Name": "Rottweiler",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

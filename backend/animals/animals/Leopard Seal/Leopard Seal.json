@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Phocidae",
+    "Genus": "Hydrurga",
+    "Scientific Name": "Hydrurga Leptonyx",
+    "Main Prey": "Penguin, Fish, Squid",
+    "Habitat": "Cold waters of the southern hemisphere",
+    "Predators": "Human, Sharks, Killer Whale",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Penguin",
+    "Type": "Mammal",
+    "Slogan": "The world's most aggressive seal species!",
+    "Colour": "GreyBlack",
+    "Skin Type": "Fur",
+    "Top Speed": "18 mph",
+    "Lifespan": "20-24 years",
+    "Weight": "200-591kg (440-1,300lbs)",
+    "Name": "Leopard Seal",
+    "Status": "Near Threatened",
+    "locations": [
+        "Antarctica",
+        "Ocean"
+    ]
+}

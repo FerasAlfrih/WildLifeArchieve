@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "One of the Corkie’s parent breeds, the Cocker Spaniel, was thought to have come over on the Mayflower.",
+    "Temperament": "Friendly, intelligent, and sensitive",
+    "Diet": "Omnivore",
+    "Colour": "FawnRedBlueMulti-colored",
+    "Skin Type": "Hair",
+    "Lifespan": "11 to 15 years",
+    "Weight": "20 lbs",
+    "Name": "Corkie",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

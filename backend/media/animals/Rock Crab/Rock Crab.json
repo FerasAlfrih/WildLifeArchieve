@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Malacostraca",
+    "Order": "Decapoda",
+    "Family": "Cancridae",
+    "Genus": "Cancer",
+    "Scientific Name": "Cancer productus",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "Males will fight each other to get to females.",
+    "Biggest Threat": "Predators and commercial fishing.",
+    "Most Distinctive Feature": "large brown-black claws with lighter-colored tips",
+    "Gestation Period": "6-8 weeks",
+    "Habitat": "Near rocks, tide pools, and rocky marine areas.",
+    "Predators": "Sand and kelp bass, other fish, seabirds, and sea otters.",
+    "Diet": "Omnivore",
+    "Favorite Food": "Worms, clams, mussels, other crabs, other invertebrates, and algae.",
+    "Type": "Decapod",
+    "Common Name": "red rock crab",
+    "Number Of Species": "1",
+    "Colour": "Red",
+    "Skin Type": "Shell",
+    "Lifespan": "Up to 8 years",
+    "Weight": "Approximately 13 ounces",
+    "Height": "Approximately 4 inches",
+    "Name": "Rock Crab",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

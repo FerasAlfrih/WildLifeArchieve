@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Chesapeake Bay Retriever",
+    "Slogan": "Bright and happy disposition!",
+    "Group": "Gun Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "13 years",
+    "Weight": "34kg (75lbs)",
+    "Name": "Chesapeake Bay Retriever",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

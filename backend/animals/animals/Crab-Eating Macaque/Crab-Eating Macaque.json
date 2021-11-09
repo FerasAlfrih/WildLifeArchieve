@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Cercopithecidae",
+    "Genus": "Macaca",
+    "Scientific Name": "Macaca Fascicularis",
+    "Main Prey": "Crabs, Fruits, Seeds, Insects",
+    "Distinctive Feature": "Very sociable animal with a long tail",
+    "Habitat": "Rainforest and tropical jungle",
+    "Predators": "Eagle, Tiger, Large reptiles",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Crabs",
+    "Type": "Mammal",
+    "Slogan": "Found throughout the South-East Asian jungles!",
+    "Colour": "BrownGreyYellowWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "30 mph",
+    "Lifespan": "15 - 30 years",
+    "Weight": "3kg - 9kg (7lbs - 20lbs)",
+    "Height": "38cm - 55cm (15in - 22in)",
+    "Name": "Crab-Eating Macaque",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia"
+    ]
+}

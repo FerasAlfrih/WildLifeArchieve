@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Gadiformes",
+    "Family": "Gadidae",
+    "Genus": "Melanogrammus",
+    "Scientific Name": " Melanogrammus aeglefinus",
+    "Prey": "Worms, sea stars, urchins, sand dollars, mollusks, crustaceans, fish, and eggs",
+    "Group Behavior": "School",
+    "Fun Fact": "The haddock is very popular in both recreational and commercial fishing",
+    "Biggest Threat": "Overfishing",
+    "Most Distinctive Feature": "The black “thumbprint” on the sides of the body",
+    "Gestation Period": "1 to 3 weeks",
+    "Water Type": "Salt",
+    "Predators": "Skates, dogfish, cods, halibuts, and seals",
+    "Diet": "Carnivore",
+    "Type": "Ray-in fish",
+    "Common Name": "Haddock",
+    "Number Of Species": "1",
+    "Location": "North Atlantic Ocean",
+    "Colour": "RedBlackPurple",
+    "Skin Type": "Scales",
+    "Lifespan": "10 years or more",
+    "Weight": "2-40 pounds",
+    "Length": "30 cm-91 cm (1 ft-3 ft)",
+    "Name": "Haddock",
+    "Status": "Vulnerable",
+    "locations": [
+        "Ocean"
+    ]
+}

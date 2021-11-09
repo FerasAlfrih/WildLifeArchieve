@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Boradors make excellent police dogs and are used often on search and rescue missions.",
+    "Temperament": "Energetic and eager to please",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10 - 12 years",
+    "Weight": "65 lbs",
+    "Name": "Borador",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Caudata",
+    "Family": "Salamandridae",
+    "Main Prey": "Worms, Insects, Water snails",
+    "Fun Fact": "Able to regrow lost or damaged limbs!",
+    "Habitat": "Temperate forests and river banks",
+    "Diet": "Omnivore",
+    "Average Litter Size": "100",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Worms",
+    "Type": "Amphibian",
+    "Slogan": "Able to regrow lost or damaged limbs!",
+    "Colour": "BrownGreyYellowRedBlackGreenOrange",
+    "Skin Type": "Scales",
+    "Top Speed": "30 mph",
+    "Lifespan": "2-15 years",
+    "Weight": "10-50g (0.3-1.8oz)",
+    "Name": "Newt",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

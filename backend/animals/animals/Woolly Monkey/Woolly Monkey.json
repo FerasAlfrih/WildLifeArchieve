@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Atelidae",
+    "Genus": "Lagothrix",
+    "Scientific Name": "Lagothrix Lagotricha",
+    "Main Prey": "Fruit, Seeds, Insects",
+    "Habitat": "Humid and mature tropical forests",
+    "Predators": "Human, Wildcats, Birds of Prey",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Has a long, strong prehensile tail!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Fur",
+    "Top Speed": "35 mph",
+    "Lifespan": "7-10 years",
+    "Weight": "5-8kg (11-18lbs)",
+    "Name": "Woolly Monkey",
+    "Status": "Near Threatened",
+    "locations": [
+        "South-America"
+    ]
+}

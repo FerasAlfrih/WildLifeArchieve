@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis latrans",
+    "Main Prey": "Rabbit, Mice, Deer",
+    "Distinctive Feature": "Pointed ears and nose and a long, bushy tail",
+    "Habitat": "Forests, plains and deserts",
+    "Predators": "Human, Bears, Wolves",
+    "Diet": "Carnivore",
+    "Average Litter Size": "6",
+    "Lifestyle": "Pack",
+    "Favorite Food": "Rabbit",
+    "Type": "Mammal",
+    "Slogan": "Also known as the Prairie Wolf!",
+    "Colour": "BrownGreyTan",
+    "Skin Type": "Fur",
+    "Top Speed": "40 mph",
+    "Lifespan": "10 - 15 years",
+    "Weight": "7kg - 21kg (15lbs - 46lbs)",
+    "Length": "75cm - 90cm (30in - 35in)",
+    "Name": "Coyote",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "North-America"
+    ]
+}

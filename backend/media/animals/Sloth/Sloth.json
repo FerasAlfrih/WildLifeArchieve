@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Pilosa",
+    "Family": "Bradypodidae",
+    "Genus": "Bradypus",
+    "Scientific Name": "Choloepus Hoffmani",
+    "Main Prey": "Leaves, Buds, Fruit",
+    "Habitat": "Tall trees in tropical rainforest",
+    "Predators": "Eagles, Snakes, Jaguar",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Leaves",
+    "Type": "Mammal",
+    "Slogan": "It's body temperature is between 30 - 34 degrees!",
+    "Colour": "BrownGreyWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "15 mph",
+    "Lifespan": "25-40 years",
+    "Weight": "4.5-6kg (10-13lbs)",
+    "Name": "Sloth",
+    "Status": "Endangered",
+    "locations": [
+        "Central-America",
+        "South-America"
+    ]
+}

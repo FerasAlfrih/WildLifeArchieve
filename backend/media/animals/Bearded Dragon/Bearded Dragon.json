@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Agamidae",
+    "Genus": "Pogona",
+    "Scientific Name": "Pogona Vitticeps",
+    "Main Prey": "Insects, Mice, Leaves",
+    "Distinctive Feature": "Pronounced beard when scared and morphs skin colour",
+    "Habitat": "Arid forest and desert",
+    "Predators": "Birds, Snakes, Crocodiles",
+    "Diet": "Omnivore",
+    "Average Litter Size": "15",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Reptile",
+    "Slogan": "Can grow to up 24 inches long!",
+    "Colour": "BrownGreyYellowGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "25 mph",
+    "Lifespan": "6 - 15 years",
+    "Weight": "250g - 510g (9oz - 18oz)",
+    "Length": "50cm - 61cm (20in - 24in)",
+    "Name": "Bearded Dragon",
+    "Status": "Least Concern",
+    "locations": [
+        "Oceania"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Hymenoptera",
+    "Scientific Name": "Hymenoptera",
+    "Main Prey": "Nectar, Insects, Caterpillars, Fruits",
+    "Habitat": "Meadows, forests and rock faces",
+    "Predators": "Birds, Reptiles, Mammals",
+    "Diet": "Omnivore",
+    "Average Litter Size": "400",
+    "Favorite Food": "Nectar",
+    "Common Name": "Wasp",
+    "Number Of Species": "75000",
+    "Location": "Worldwide",
+    "Slogan": "There are around 75,000 recognised species!",
+    "Colour": "YellowBlack",
+    "Skin Type": "Shell",
+    "Name": "Wasp",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

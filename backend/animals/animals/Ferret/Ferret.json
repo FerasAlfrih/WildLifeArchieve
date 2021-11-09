@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Mustelidae",
+    "Genus": "Mustela",
+    "Scientific Name": "Mustela furo",
+    "Main Prey": "Mice, Rabbit, Gophers",
+    "Fun Fact": "Ferrets can be trained to do tricks like dogs.",
+    "Distinctive Feature": "Long thin body and large eyes",
+    "Habitat": "Forest and grasslands",
+    "Diet": "Carnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Mice",
+    "Type": "Mammal",
+    "Slogan": "Ferrets can be trained to do tricks like dogs!",
+    "Colour": "BrownGreyBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "15 mph",
+    "Lifespan": "7 - 10 years",
+    "Weight": "0.7kg - 2kg (1.5lbs - 4lbs)",
+    "Length": "40cm - 50cm (18in - 21in)",
+    "Name": "Ferret",
+    "Status": "Near Threatened",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Psittaciformes",
+    "Family": "Nestoridae",
+    "Genus": "Strigops",
+    "Scientific Name": "Strigops habroptilus",
+    "Main Prey": "Rimu fruit, Flowers, Roots, Seeds",
+    "Fun Fact": "The kakapo male attracts mates with a loud booming sound",
+    "Wingspan": "A few feet",
+    "Water type": "Saltwater",
+    "Incubation Period": "30 days",
+    "Habitat": "Areas of natural vegetation and dense jungle",
+    "Diet": "Herbivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Rimu fruit",
+    "Type": "Bird",
+    "Average Clutch Size": "6",
+    "Slogan": "The heaviest species of parrot in the world!",
+    "Nesting Location": "Hollow logs or crevices",
+    "Age of Molting": "3.5 months",
+    "Colour": "BrownGreen",
+    "Skin Type": "Feathers",
+    "Lifespan": "50-65 years",
+    "Weight": "2-4kg (4.5-9lbs)",
+    "Name": "Kakapo",
+    "Status": "Endangered",
+    "locations": [
+        "Oceania"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Rodentia",
+    "Family": "Castoridae",
+    "Genus": "Castor",
+    "Main Prey": "Tree bark, Willow, Water lilly",
+    "Fun Fact": "Builds a dam from sticks and leaves!",
+    "Distinctive Feature": "Transparent eyelids and big, flat tail",
+    "Habitat": "Arid forest and desert",
+    "Predators": "Wolf, Bear, Lynx",
+    "Diet": "Herbivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Tree bark",
+    "Type": "Mammal",
+    "Slogan": "Builds a dam from sticks and leaves!",
+    "Colour": "BrownGrey",
+    "Skin Type": "Fur",
+    "Top Speed": "34 mph",
+    "Lifespan": "15 - 20 years",
+    "Weight": "16kg - 27kg (35lbs - 60lbs)",
+    "Length": "80cm - 120cm (31in - 47in)",
+    "Name": "Beaver",
+    "Status": "Near Threatened",
+    "locations": [
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Diego Velázquez’s famous 17th century painting of the Infanta and her dwarves includes a portrait of a Spanish Mastiff.",
+    "Temperament": "Affectionate, laid-back, independent",
+    "Diet": "Omnivore",
+    "Colour": "YellowFawnRedBlackBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 12 years",
+    "Weight": "220 lbs.",
+    "Name": "Spanish Mastiff",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

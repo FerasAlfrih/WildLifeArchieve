@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Diplopoda",
+    "Main Prey": "Decaying plant material, Plants, Insects",
+    "Fun Fact": "Some species have a poisonous bite!",
+    "Habitat": "Moist micro-habitats",
+    "Predators": "Birds, Badgers, Rodents",
+    "Diet": "Omnivore",
+    "Average Litter Size": "500",
+    "Favorite Food": "Decaying plant material",
+    "Common Name": "Millipede",
+    "Number Of Species": "10000",
+    "Location": "Worldwide",
+    "Slogan": "Some species have a poisonous bite!",
+    "Colour": "BrownYellowRedBlackOrange",
+    "Skin Type": "Shell",
+    "Name": "Millipede",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

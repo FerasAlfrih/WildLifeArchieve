@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Skye terriers are the oldest terrier breed, dating back at least 400 years.",
+    "Temperament": "Intelligent, Gay, Friendly, Fearless, Loyal, Good-tempered",
+    "Diet": "Omnivore",
+    "Colour": "FawnBlueBlackLight GreyDark Grey",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "40 lbs",
+    "Name": "Skye Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

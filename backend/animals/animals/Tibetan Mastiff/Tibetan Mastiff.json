@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Tibetan Mastiffs don’t shed all year long; they blow their coat in one big shedding each year.",
+    "Diet": "Omnivore",
+    "Common Name": "Tibetan Mastiff",
+    "Slogan": "Originally bred in the Himalayan mountains!",
+    "Group": "Mastiff",
+    "Colour": "BrownGreyRedBlackTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "150lbs",
+    "Name": "Tibetan Mastiff",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

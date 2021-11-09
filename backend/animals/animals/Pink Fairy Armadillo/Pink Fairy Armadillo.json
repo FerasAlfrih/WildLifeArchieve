@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Cingulata",
+    "Family": "Dasypodidae",
+    "Genus": "Chlamyphorus",
+    "Scientific Name": "Chlamyphorus truncatus",
+    "Main Prey": "Ants, worms, plant material",
+    "Habitat": "Dry Grasslands and Sandy Plains",
+    "Predators": "Domestic Dogs",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Ants",
+    "Type": "Mammal",
+    "Slogan": "The smallest known species of Armadillo",
+    "Colour": "Pale Rose",
+    "Skin Type": "Hard Shell",
+    "Lifespan": "5 - 10 years",
+    "Weight": "120g (4.2 oz)",
+    "Length": "90mm -115mm (3.5in - 4.5in)",
+    "Name": "Pink Fairy Armadillo",
+    "Status": "Near Threatened",
+    "locations": [
+        "South-America"
+    ]
+}

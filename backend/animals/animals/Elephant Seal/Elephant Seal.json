@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Phocidae",
+    "Genus": "Mirounga",
+    "Scientific Name": "Mirounga",
+    "Main Prey": "Fish, Squid, Octopus",
+    "Distinctive Feature": "Long trunk-like nose and large body",
+    "Habitat": "Warm coastal waters close to land",
+    "Predators": "Human, Sharks, Killer Whales",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Fish",
+    "Type": "Mammal",
+    "Slogan": "The largest species of seal in the world!",
+    "Colour": "BrownGreyBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "12 mph",
+    "Lifespan": "18 - 22 years",
+    "Weight": "900kg - 3,000kg (2,000lbs - 6,000lbs)",
+    "Length": "3m - 5m (10ft - 16ft)",
+    "Name": "Elephant Seal",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

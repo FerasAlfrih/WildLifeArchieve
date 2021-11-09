@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Sirenia",
+    "Family": "Trichechidae",
+    "Genus": "Trichechus",
+    "Main Prey": "Sea Grass, Algae, Flowers",
+    "Habitat": "Warm coastal waters and slow-moving rivers",
+    "Predators": "Human, Sharks",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Sea Grass",
+    "Type": "Mammal",
+    "Slogan": "Also known as the Sea Cow!",
+    "Colour": "BrownGrey",
+    "Skin Type": "Smooth",
+    "Top Speed": "13 mph",
+    "Lifespan": "50-70 years",
+    "Weight": "400-550kg (800-1,212lbs)",
+    "Name": "Manatee",
+    "Status": "Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

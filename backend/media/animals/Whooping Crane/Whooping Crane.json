@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Gruiformes",
+    "Family": "Gruidae",
+    "Genus": "Grus",
+    "Scientific Name": "Grus americana",
+    "Main Prey": "Crustaceans, small fish, insects, amphibians, and reptiles.",
+    "Fun Fact": "This species is named after the loud whooping sound it makes",
+    "Estimated Population Size": "50 to 250",
+    "Wingspan": "7.5 feet",
+    "Incubation Period": "A month",
+    "Habitat": "Marshes, wetlands, mudflats, and wet prairies of the United States and Canada.",
+    "Predators": "Foxes, coyotes, eagles, wolves, wolverines, and black bears.",
+    "Diet": "Omnivore",
+    "Type": "Bird",
+    "Common Name": "Whooping Crane",
+    "Number Of Species": "1",
+    "Nesting Location": "Ground",
+    "Age of Molting": "80 to 100 days",
+    "Migratory": "1",
+    "Colour": "White",
+    "Skin Type": "Feathers",
+    "Lifespan": "22 to 30 years",
+    "Height": "5ft",
+    "Name": "Whooping Crane",
+    "Status": "Endangered",
+    "locations": [
+        "North-America"
+    ]
+}

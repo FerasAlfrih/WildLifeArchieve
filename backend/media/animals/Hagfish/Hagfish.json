@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Myxini",
+    "Order": "Myxiniformes",
+    "Family": "Myxinidae",
+    "Prey": "Bottom-dwelling invertebrates",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "Can use slime to suffocate marine predators or escape capture",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Harvesting for leather and food",
+    "Most Distinctive Feature": "Slime",
+    "Other Name(s)": "Slime eel, slimy eel",
+    "Water Type": "Salt",
+    "Habitat": "Every ocean",
+    "Predators": "Birds, mammals",
+    "Diet": "Carnivore",
+    "Type": "Vermiform",
+    "Common Name": "Hagfish",
+    "Number Of Species": "82",
+    "Colour": "GreyPink",
+    "Skin Type": "Smooth",
+    "Lifespan": "40 years",
+    "Weight": "0.85-1.4 kg (1.8-3.1 lb)",
+    "Length": "4cm (1.6in)-81.28cm (32in)",
+    "Name": "Hagfish",
+    "Status": "Data Deficient",
+    "locations": [
+        "Ocean"
+    ]
+}

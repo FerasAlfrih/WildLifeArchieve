@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Casuariiformes",
+    "Family": "Casuariidae",
+    "Genus": "Casuarius",
+    "Scientific Name": "Casuarius",
+    "Main Prey": "Rodents, Small birds and reptiles",
+    "Distinctive Feature": "Long ear-tufts and tan-coloured eye disks",
+    "Wingspan": "86cm - 98cm (34in - 38.5in)",
+    "Habitat": "Coniferous forests",
+    "Predators": "Eagles, Harks, Foxes",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Type": "Bird",
+    "Average Clutch Size": "5",
+    "Slogan": "Ear tufts make it look bigger!",
+    "Colour": "BrownYellowBlackTan",
+    "Skin Type": "Feathers",
+    "Top Speed": "31 mph",
+    "Lifespan": "40 - 60 years",
+    "Weight": "100g - 300g (8.75oz - 10oz)",
+    "Height": "31cm - 37cm (12in - 14.5in)",
+    "Name": "Long-Eared Owl",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Mustelidae",
+    "Genus": "Mustela",
+    "Scientific Name": "Mustela Erminea",
+    "Main Prey": "Rabbits, Mice, Insects",
+    "Habitat": "Moorland and woodlands",
+    "Predators": "Fox, Snake, Wild Cats",
+    "Diet": "Carnivore",
+    "Average Litter Size": "8",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Rabbit",
+    "Type": "Mammal",
+    "Slogan": "Average adults weigh about 200 grams!",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "20 mph",
+    "Lifespan": "4-6 years",
+    "Weight": "200-500g (7-17.6oz)",
+    "Name": "Stoat",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

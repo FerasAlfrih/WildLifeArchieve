@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Psittaciformes",
+    "Family": "Cacatuidae",
+    "Name Of Young": "Chicks or hatchlings",
+    "Group Behavior": "Flock",
+    "Fun Fact": "One of the noisiest birds in the world!",
+    "Most Distinctive Feature": "Crest of feathers on the head",
+    "Wingspan": "Varies",
+    "Habitat": "Forests, groves, and plains",
+    "Predators": "Falcons, eagles, owls, snakes, and cats",
+    "Diet": "Omnivore",
+    "Favorite Food": "Fruits, seeds, and tubers",
+    "Common Name": "Cockatoo",
+    "Location": "Australia, New Guinea, Philippines, Indonesia, and Pacific islands",
+    "Slogan": "Highly social, smart, and chatty bird.",
+    "Group": "Birds",
+    "Skin Type": "Feathers",
+    "Lifespan": "20 to 70 years in the wild",
+    "Weight": "300g – 1,200g (0.66lbs – 2.65lbs)",
+    "Length": "30cm - 76cm (12in - 30in)",
+    "Age of Sexual Maturity": "3 to 7 years",
+    "Name": "Cockatoo",
+    "Status": "Vulnerable",
+    "locations": [
+        "Asia",
+        "Oceania"
+    ]
+}

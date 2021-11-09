@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Australian Retriever may have two different eye colors.",
+    "Temperament": "Active, intelligent, and friendly",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhiteGold",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 15 years",
+    "Weight": "60 lbs",
+    "Name": "Australian Retriever",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

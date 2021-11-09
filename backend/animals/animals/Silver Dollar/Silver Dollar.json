@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Characiformes",
+    "Family": "Characidae",
+    "Prey": "Small invertebrates",
+    "Main Prey": "Bloodworm, Insects, Plants",
+    "Group Behavior": "School",
+    "Fun Fact": "Closely related to the Piranha",
+    "Biggest Threat": "Large -fish, birds, reptiles",
+    "Most Distinctive Feature": "Flat, disc-shaped body",
+    "Gestation Period": "3 days",
+    "Water Type": "Fresh",
+    "Optimum pH Level": "5 - 7",
+    "Habitat": "Tropical well-vegetated rivers",
+    "Predators": "Large fish, birds, reptiles",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2,000",
+    "Favorite Food": "Bloodworm",
+    "Type": "Fish",
+    "Common Name": "Silver Dollar",
+    "Number Of Species": "16",
+    "Colour": "Silver",
+    "Skin Type": "Scales",
+    "Lifespan": "10 years",
+    "Length": "6”",
+    "Name": "Silver Dollar",
+    "Status": "Least Concern",
+    "locations": [
+        "South-America"
+    ]
+}

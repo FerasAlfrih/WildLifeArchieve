@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Golden Shepherds were first recognized by the International Designer Canine Registry in 2009.",
+    "Temperament": "Friendly, loyal, and intelligent",
+    "Diet": "Omnivore",
+    "Colour": "GreyBlueBlackWhiteGoldTanCream",
+    "Skin Type": "Hair",
+    "Lifespan": "10-14years",
+    "Weight": "80 lbs",
+    "Name": "Golden Shepherd",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

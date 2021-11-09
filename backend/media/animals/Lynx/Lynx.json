@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Lynx",
+    "Scientific Name": "Felis lynx",
+    "Main Prey": "Hare, Birds, Deer",
+    "Habitat": "Secluded forests and mountainous regions",
+    "Predators": "Wolf, Coyote, Human, Cougar",
+    "Diet": "Carnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Hare",
+    "Type": "Mammal",
+    "Slogan": "Live in dens in rocks and under ledges!",
+    "Colour": "BrownYellowBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "50 mph",
+    "Lifespan": "12-20 years",
+    "Weight": "10-25kg (22-55lbs)",
+    "Name": "Lynx",
+    "Status": "Least Concern",
+    "locations": [
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

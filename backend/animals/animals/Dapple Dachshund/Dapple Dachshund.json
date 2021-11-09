@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "A Dapple Dachshund’s dappling pattern may be just one spot, or it may be numerous spots and splashes on their coat.",
+    "Temperament": "Friendly, courageous, independent",
+    "Diet": "Omnivore",
+    "Colour": "RedBlueBlackTanCreamSilverChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 16 years",
+    "Weight": "16 to 32 pounds (standards); 11 pounds or less (miniature)",
+    "Name": "Dapple Dachshund",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

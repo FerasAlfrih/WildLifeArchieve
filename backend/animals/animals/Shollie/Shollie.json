@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Shollies are a fairly new type of crossbreed!",
+    "Temperament": "Active and loyal",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhiteGold",
+    "Skin Type": "Hair",
+    "Lifespan": "13 - 15 years",
+    "Weight": "80lbs",
+    "Name": "Shollie",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

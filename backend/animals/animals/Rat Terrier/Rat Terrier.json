@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Rat terriers were popular with farmers before 1930 because of their ability to kill rodents.",
+    "Temperament": "Perceptive and stubborn",
+    "Diet": "Omnivore",
+    "Type": "Terrier",
+    "Common Name": "Rat Terrier",
+    "Colour": "FawnBlueBlackWhiteChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "15 - 18 years",
+    "Weight": "35 lbs",
+    "Name": "Rat Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

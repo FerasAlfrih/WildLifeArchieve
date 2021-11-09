@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Psittaciformes",
+    "Family": "Psittacidae",
+    "Genus": "Cyanopsitta",
+    "Scientific Name": "Cyanopsitta spixii",
+    "Group Behavior": "Flocks",
+    "Fun Fact": "Can Mimc Human Voices!",
+    "Estimated Population Size": "At least 160",
+    "Biggest Threat": "Habitat Loss",
+    "Most Distinctive Feature": "Luxurious Blue Plumage",
+    "Incubation Period": "26 days",
+    "Habitat": "Desert Woodlands",
+    "Predators": "Rats, feral cats, mongooses, and monkeys",
+    "Diet": "Omnivore",
+    "Lifestyle": "Diurnal",
+    "Common Name": "Spix's Macaw",
+    "Location": "Brazil",
+    "Slogan": "One of earth's rarest animals!",
+    "Group": "Birds",
+    "Skin Type": "Feathers",
+    "Lifespan": "20 to 40 years",
+    "Weight": "360g (12.7oz)",
+    "Length": "56cm (22in)",
+    "Name": "Spixs Macaw",
+    "Status": "Extinct in the Wild",
+    "locations": [
+        "World Wide"
+    ]
+}

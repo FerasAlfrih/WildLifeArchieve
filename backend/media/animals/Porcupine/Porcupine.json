@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Rodentia",
+    "Family": "Erethizontidae",
+    "Genus": "Erethizon",
+    "Scientific Name": "Erethizon Dorsaum",
+    "Main Prey": "Roots, Leaves, Berries",
+    "Habitat": "Dense forests and grassland",
+    "Predators": "Owl, Eagles, Wolves",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Roots",
+    "Type": "Mammal",
+    "Slogan": "There are 30 different species worldwide!",
+    "Colour": "BrownGreyYellowBlack",
+    "Skin Type": "Spikes",
+    "Top Speed": "2 mph",
+    "Lifespan": "8-12 years",
+    "Weight": "5.4-16kg (12-35lbs)",
+    "Name": "Porcupine",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ]
+}

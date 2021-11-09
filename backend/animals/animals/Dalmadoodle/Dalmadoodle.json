@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Dalmatians were originally bred to run alongside carriages, and their dalmadoodle descendents have the same long legs and high energy.",
+    "Diet": "Omnivore",
+    "Name": "Dalmadoodle",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

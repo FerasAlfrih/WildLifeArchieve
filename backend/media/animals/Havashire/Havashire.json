@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Both of the Havashire’s parent breeds were very popular among the upper classes.",
+    "Temperament": "Affectionate, loyal, charismatic, and spunky",
+    "Diet": "Omnivore",
+    "Colour": "FawnRedBlackWhiteTanBrindleMulti-colored",
+    "Skin Type": "Hair",
+    "Lifespan": "13 to 15 years",
+    "Weight": "12 lbs",
+    "Name": "Havashire",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

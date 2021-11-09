@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "It’s known as a cold-nose hound because it can pick up a scent on a trail that’s gone cold.",
+    "Distinctive Feature": "Elongated body and short, stocky legs",
+    "Temperament": "Fearless, friendly and intelligent",
+    "Training": "Easy",
+    "Diet": "Omnivore",
+    "Average Litter Size": "8",
+    "Type": "Scent Hound",
+    "Common Name": "Alpine Dachsbracke",
+    "Slogan": "Good companion and hard-working breed!",
+    "Group": "Dog",
+    "Colour": "BrownRedBlack",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Name": "Alpine Dachsbracke",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

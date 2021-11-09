@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Wire Fox Terrier was bred from the now extinct Rough Coated Black and Tan Terrier to hunt down foxes.",
+    "Temperament": "Alert, friendly, and confident",
+    "Diet": "Omnivore",
+    "Colour": "BlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "13 – 14 years",
+    "Weight": "19 lbs",
+    "Name": "Wire Fox Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

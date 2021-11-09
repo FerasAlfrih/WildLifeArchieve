@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Hyperoartia",
+    "Order": "Petromyzontiformes",
+    "Prey": "Lake fish",
+    "Fun Fact": "Not related to the eel",
+    "Biggest Threat": "Population control methods",
+    "Most Distinctive Feature": "Jawless, round, sucker-like mout",
+    "Other Name(s)": "Vampire fish",
+    "Gestation Period": "10 to 13 days",
+    "Water Type": "Salt",
+    "Habitat": "Rivers, lakes, oceans",
+    "Predators": "Brown trout, walleye",
+    "Diet": "Carnivore",
+    "Favorite Food": "Feeds on blood",
+    "Type": "Fish",
+    "Common Name": "Lamprey",
+    "Number Of Species": "1",
+    "Colour": "BrownYellowOlive",
+    "Skin Type": "Skin",
+    "Top Speed": "10.18 mph",
+    "Lifespan": "6 years",
+    "Weight": "5.1 pounds",
+    "Length": "14” to 24”",
+    "Name": "Lamprey",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

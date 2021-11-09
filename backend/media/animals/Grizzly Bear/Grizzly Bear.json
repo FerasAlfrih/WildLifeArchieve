@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Ursidae",
+    "Genus": "Ursus",
+    "Scientific Name": "Ursus Arctos Horriblis",
+    "Main Prey": "Salmon, Fruit, Fish",
+    "Distinctive Feature": "Strong, powerful shoulders and enormous claws",
+    "Habitat": "Forest and mountainous regions",
+    "Predators": "Human, Cougars",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Salmon",
+    "Type": "Mammal",
+    "Slogan": "Less than 10% make it into adulthood",
+    "Colour": "BlackDark Brown",
+    "Skin Type": "Fur",
+    "Top Speed": "35 mph",
+    "Lifespan": "15 - 25 years",
+    "Weight": "160kg - 225kg (353lbs - 500lbs)",
+    "Height": "2.1m - 3m (7ft - 10ft)",
+    "Name": "Grizzly Bear",
+    "Status": "Endangered",
+    "locations": [
+        "North-America"
+    ]
+}

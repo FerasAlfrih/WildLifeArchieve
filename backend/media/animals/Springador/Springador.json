@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The parental stock Labrador Retriever was nearly wiped out by home country tax policies but the breed found rescue and recovery in foreign lands, particularly in Great Britain.",
+    "Diet": "Omnivore",
+    "Name": "Springador",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

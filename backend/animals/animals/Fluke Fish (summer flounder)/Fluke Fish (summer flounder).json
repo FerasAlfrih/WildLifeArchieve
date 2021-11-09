@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Pleuronectiformes",
+    "Family": "Paralichthyidae",
+    "Genus": "Paralichthys",
+    "Scientific Name": "Paralichthys dentatus",
+    "Prey": "Crabs, squid, shrimp, forage fish such as anchovies, and even smaller flounders! ",
+    "Fun Fact": "Chameleons of the sea! ",
+    "Average Spawn Size": "Up to 4 million ",
+    "Habitat": "Near shore during summers and offshore during fall and winter",
+    "Predators": "Monkfish, sharks, rays",
+    "Diet": "Omnivore",
+    "Common Name": "Fluke and Summer Flounders ",
+    "Special Features": "Can change color and texture like a chameleon! ",
+    "Location": "Off the U.S. and Canadian Atlantic Coast ",
+    "Slogan": "The chameleon of the seas! ",
+    "Group": "Flatfish ",
+    "Colour": "Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "Up to 14 years ",
+    "Weight": "Rarely exceeds 20 pounds",
+    "Length": "Females grow up to 3 feet",
+    "Age of Sexual Maturity": "No later than 3 years",
+    "Name": "Fluke Fish (summer flounder)",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

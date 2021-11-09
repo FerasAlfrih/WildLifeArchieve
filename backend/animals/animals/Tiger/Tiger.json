@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Panthera",
+    "Scientific Name": "Panthera Tigris",
+    "Main Prey": "Deer, Cattle, Wild Boar",
+    "Habitat": "Dense tropical forest",
+    "Predators": "Human",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "The largest feline in the world!",
+    "Colour": "BlackWhiteOrange",
+    "Skin Type": "Fur",
+    "Top Speed": "60 mph",
+    "Lifespan": "18-25 years",
+    "Weight": "267-300kg (589-660lbs)",
+    "Name": "Tiger",
+    "Status": "Endangered",
+    "locations": [
+        "Asia",
+        "Eurasia"
+    ]
+}

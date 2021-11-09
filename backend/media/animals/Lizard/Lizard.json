@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Lacertidae",
+    "Main Prey": "Insects, Birds, Small rodents",
+    "Fun Fact": "There are around 5,000 different species!",
+    "Habitat": "Warm forests and deserts worldwide",
+    "Diet": "Omnivore",
+    "Average Litter Size": "18",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Reptile",
+    "Slogan": "There are around 5,000 different species!",
+    "Colour": "BrownYellowBlackTanGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "15 mph",
+    "Lifespan": "1-30 years",
+    "Weight": "0.01-300kg (0.02-661lbs)",
+    "Name": "Lizard",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

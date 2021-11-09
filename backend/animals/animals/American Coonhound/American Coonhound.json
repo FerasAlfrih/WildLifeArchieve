@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "American coonhounds have the skills to climb trees while pursuing a raccoon or other animal.",
+    "Distinctive Feature": "Long ears and strong, muscular legs",
+    "Temperament": "Sweet and even-tempered",
+    "Training": "Medium",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Type": "Working",
+    "Common Name": "American Coonhound",
+    "Slogan": "Easygoing and people-friendly!",
+    "Group": "Dog",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Name": "American Coonhound",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Hemiptera",
+    "Group Behavior": "Swarm",
+    "Fun Fact": "Cicadas have one of the longest insect lifespans",
+    "Habitat": "Deciduous forests",
+    "Diet": "Herbivore",
+    "Colour": "BrownRedBlueBlackWhiteGreen",
+    "Skin Type": "Smooth",
+    "Lifespan": "17years",
+    "Weight": "2g",
+    "Height": "2.8in",
+    "Name": "Cicada",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Europe",
+        "North-America",
+        "Oceania"
+    ]
+}

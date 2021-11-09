@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Malacostraca",
+    "Order": "Decapoda",
+    "Family": "Kiwaidae",
+    "Genus": "Kiwa",
+    "Prey": "Bacteria",
+    "Group Behavior": "Colony",
+    "Fun Fact": "The yeti crab has hairy arms, which collect bacteria to feed on",
+    "Estimated Population Size": "Unknown",
+    "Most Distinctive Feature": "The white body and hairy claws",
+    "Water Type": "Salt",
+    "Habitat": "Pacific Ocean",
+    "Predators": "Fish and octopuses",
+    "Diet": "Carnivore",
+    "Type": "Crustacean",
+    "Common Name": "Yeti Crab",
+    "Number Of Species": "4",
+    "Colour": "GreyWhite",
+    "Skin Type": "Hard Shell",
+    "Weight": "2lbs – 5lbs",
+    "Length": "15cm (6in)",
+    "Name": "Yeti Crab",
+    "Status": "Data Deficient",
+    "locations": [
+        "Ocean"
+    ]
+}

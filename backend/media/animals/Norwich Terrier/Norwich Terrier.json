@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Though Norwich terriers are small, they have a reputation for being feisty.",
+    "Diet": "Omnivore",
+    "Name": "Norwich Terrier",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

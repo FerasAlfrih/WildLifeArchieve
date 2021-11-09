@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Acipenseriformes",
+    "Family": "Polyodontidae",
+    "Genus": "Psephurus",
+    "Scientific Name": "Psephurus gladius",
+    "Main Prey": "Fish, crabs, and shrimp",
+    "Group Behavior": "Largely solitary",
+    "Fun Fact": "The Chinese paddlefish is one the largest freshwater fish in the world",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Habitat changes and overfishing",
+    "Most Distinctive Feature": "The large paddle-shaped nose",
+    "Other Name(s)": "Elephant fish",
+    "Gestation Period": "A few days",
+    "Habitat": "Rivers and estuaries",
+    "Diet": "Carnivore",
+    "Type": "Ray-finned fish",
+    "Common Name": "Chinese paddlefish",
+    "Number Of Species": "1",
+    "Colour": "GreySilver",
+    "Skin Type": "Smooth",
+    "Weight": "Up to 992lbs",
+    "Length": "Up to 7m (23ft)",
+    "Name": "Chinese Paddlefish",
+    "Status": "Critically Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

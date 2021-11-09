@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Perciformes",
+    "Family": "Anarhichadidae",
+    "Genus": "Anarrhichthys",
+    "Scientific Name": "Anarrhichthys ocellatus",
+    "Prey": "Crabs, sand dollars, abalone, sea urchins, clams, mussels, fish, and squid",
+    "Group Behavior": "Solitary/Pairs",
+    "Fun Fact": "Wolf Eels may become tame and interact with human in areas where people frequently dive.",
+    "Estimated Population Size": "unknown",
+    "Biggest Threat": "Harbor seals",
+    "Most Distinctive Feature": "Powerful jaws and sharp teeth",
+    "Gestation Period": " 91 to 112 days",
+    "Habitat": "Ocean",
+    "Predators": "Harbor seals and sharks",
+    "Diet": "Carnivore",
+    "Favorite Food": "Crabs, sand dollars, abalone, sea urchins, clams, mussels, fish, and squid",
+    "Common Name": "Wolf Eel",
+    "Number Of Species": "-2",
+    "Colour": "BrownGreyGreen",
+    "Skin Type": "Scales",
+    "Lifespan": "25 years",
+    "Weight": "41 pounds",
+    "Length": "Up to 8 feet",
+    "Name": "Wolf Eel",
+    "Status": "Not Evaluated",
+    "locations": [
+        "Ocean"
+    ]
+}

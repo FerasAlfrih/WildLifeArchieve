@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Labrador Retriever",
+    "Slogan": "Well-balanced, friendly and versatile!",
+    "Group": "Gun Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "34kg (75lbs)",
+    "Name": "Labrador Retriever",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

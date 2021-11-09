@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Courageous, calm and affectionate!",
+    "Diet": "Omnivore",
+    "Common Name": "Mastiff",
+    "Slogan": "Courageous, calm and affectionate!",
+    "Group": "Mastiff",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "86kg (190lbs)",
+    "Name": "Mastiff",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

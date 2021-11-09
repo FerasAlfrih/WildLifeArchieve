@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Lagomorpha",
+    "Family": "Leporidae",
+    "Genus": "Lepus",
+    "Scientific Name": "Lepus americanus",
+    "Prey": " Leafy plants, flowers, grass, bark",
+    "Name Of Young": "Leveret",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "An adult snowshoe hare can cover ten feet in a single jump.",
+    "Biggest Threat": " Habitat loss",
+    "Most Distinctive Feature": " Large hind feet",
+    "Gestation Period": "36-40 days",
+    "Litter Size": "1-7",
+    "Habitat": "Forests, open fields, riverside thickets",
+    "Predators": "Coyotes, bobcats, wolves, owls, red foxes, lynx",
+    "Diet": "Herbivore",
+    "Type": " Mammal",
+    "Common Name": "Snowshoe hare",
+    "Location": "Northern United States and Canada",
+    "Group": "Solitary",
+    "Name": "Snowshoe Hare",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

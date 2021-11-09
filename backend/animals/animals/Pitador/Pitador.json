@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "There are several names for this breed, including the Labrabull or the Pitador Retriever.",
+    "Diet": "Omnivore",
+    "Name": "Pitador",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

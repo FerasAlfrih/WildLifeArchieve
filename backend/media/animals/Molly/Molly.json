@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Cyprinodontiformes",
+    "Family": "Poeciliidae",
+    "Genus": "Poecilia",
+    "Scientific Name": "Poecilia",
+    "Main Prey": "Algae, Insects, Bloodworm",
+    "Distinctive Feature": "Large-sized fins and bear live young",
+    "Water type": "Saltwater",
+    "Optimum PH Level": "7.5 - 8.5",
+    "Habitat": "Rivers in the Amazon Rainforest",
+    "Diet": "Omnivore",
+    "Favorite Food": "Algae",
+    "Common Name": "Molly",
+    "Average Clutch Size": "80",
+    "Slogan": "Known for their calm and peaceful nature!",
+    "Colour": "BrownYellowRedBlueBlackWhiteGreenOrange",
+    "Skin Type": "Scales",
+    "Lifespan": "3 - 5 years",
+    "Length": "5cm - 10cm (2in - 4in)",
+    "Name": "Molly",
+    "Status": "Near Threatened",
+    "locations": [
+        "Central-America",
+        "South-America"
+    ]
+}

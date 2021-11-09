@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Gentle and intelligent but stubborn",
+    "Training": "Should be trained in obedience from an early age due to their stubborn nature",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Common Name": "Beagle Dog",
+    "Slogan": "Have become popular family pets!",
+    "Group": "Hound",
+    "Colour": "BrownRedBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Name": "Beagle",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

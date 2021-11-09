@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Gymnotiformes",
+    "Family": "Gymnotidae",
+    "Genus": "Electrophorus",
+    "Scientific Name": "Electrophorus Electricus",
+    "Main Prey": "Fish, Birds, Small mammals",
+    "Distinctive Feature": "Long body and organs that produce and electric current",
+    "Habitat": "River in the Amazon",
+    "Predators": "Human",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fish",
+    "Type": "Fish",
+    "Average Clutch Size": "20000",
+    "Slogan": "Can generate a 500 volt electric shock!",
+    "Colour": "BlueBlackWhitePurple",
+    "Skin Type": "Scales",
+    "Top Speed": "5 mph",
+    "Lifespan": "15 - 22 years",
+    "Weight": "20kg (44lbs)",
+    "Length": "2.5m (8.22ft)",
+    "Name": "Electric Eel",
+    "Status": "Least Concern",
+    "locations": [
+        "South-America"
+    ]
+}

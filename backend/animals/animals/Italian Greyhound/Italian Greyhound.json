@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Italian Greyhound is a miniature dog with a big motor and personality!",
+    "Diet": "Omnivore",
+    "Common Name": "Italian Greyhound",
+    "Colour": "GreyYellowFawnRedBlueBlackTanChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Name": "Italian Greyhound",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

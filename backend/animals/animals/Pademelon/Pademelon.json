@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Diprotodontia",
+    "Family": "Macropodidae",
+    "Genus": "Thylogale",
+    "Scientific Name": "Thylogale",
+    "Main Prey": "Grasses, Herbs, Shoots",
+    "Habitat": "Dense rainforest and shrubland",
+    "Predators": "Foxes, Dogs, Dingos",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grasses",
+    "Type": "Mammal",
+    "Slogan": "Inhabits the jungles of the far east!",
+    "Colour": "BrownGreyRedBlack",
+    "Skin Type": "Fur",
+    "Top Speed": "34 mph",
+    "Lifespan": "4-8 years",
+    "Weight": "3.5-12kg (7.7-26lbs)",
+    "Name": "Pademelon",
+    "Status": "Near Threatened",
+    "locations": [
+        "Oceania"
+    ]
+}

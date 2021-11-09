@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Chamaeleonidae",
+    "Scientific Name": "Chamaeleonidae",
+    "Main Prey": "Insects, Snails, Leaves",
+    "Distinctive Feature": "Exceptional vision and ability to change skin colour",
+    "Habitat": "Tropical forests and desert",
+    "Diet": "Omnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Reptile",
+    "Average Clutch Size": "20",
+    "Slogan": "There are more than 160 different species!",
+    "Colour": "BrownYellowRedBlackTanGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "21 mph",
+    "Lifespan": "4 - 8 years",
+    "Weight": "0.01kg - 2kg (0.02lbs - 4.4lbs)",
+    "Length": "2.8cm - 68.5cm (1.1in - 27in)",
+    "Name": "Chameleon",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia"
+    ]
+}

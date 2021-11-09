@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Ainu dogs are natural hunters and will protect their owners from bears.",
+    "Distinctive Feature": "Sharply pointed ears and upturned tail",
+    "Temperament": "Fearless, determined and loyal",
+    "Training": "Hard",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Type": "Working",
+    "Common Name": "Ainu Dog",
+    "Slogan": "An innate sense of direction!",
+    "Group": "Dog",
+    "Colour": "BrownGreyWhiteTan",
+    "Skin Type": "Hair",
+    "Name": "Ainu",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

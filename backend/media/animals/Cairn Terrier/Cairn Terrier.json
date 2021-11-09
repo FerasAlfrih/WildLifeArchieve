@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "Toto from \"The Wizard of Oz\" was a female Cairn Terrier named Terry.",
+    "Diet": "Omnivore",
+    "Common Name": "Cairn Terrier",
+    "Slogan": "Intelligent, lively and strong!",
+    "Group": "Terrier",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "6kg (14lbs)",
+    "Name": "Cairn Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

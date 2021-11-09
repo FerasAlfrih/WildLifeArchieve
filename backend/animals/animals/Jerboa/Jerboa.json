@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Rodentia",
+    "Family": "Dipodidae",
+    "Habitat": "Deserts and steppes",
+    "Predators": "Owls, foxes, cats and snakes",
+    "Diet": "Omnivore",
+    "Lifestyle": "Crepuscularterrestrial",
+    "Location": "Asia and Northern Africa",
+    "Slogan": "Tiny rodent with a kangaroo-like jump!",
+    "Group": "Mammal",
+    "Weight": "0.8 to 1.3 ounces",
+    "Name": "Jerboa",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Bufonidae",
+    "Genus": "Nectophryne",
+    "Scientific Name": "Nectophryne afra",
+    "Prey": "Insects, Worms, Snails",
+    "Distinctive Feature": "Small body size and webbed feet",
+    "Average Spawn Size": "100",
+    "Habitat": "Tropical lowland forest",
+    "Predators": "Fish, Toads, Birds",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Type": "Amphibian",
+    "Location": "Central Africa",
+    "Slogan": "Found in tropical moist lowland forests!",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Permeable",
+    "Top Speed": "5 mph",
+    "Lifespan": "3 - 5 years",
+    "Weight": "2g - 5g (0.07oz - 0.18oz)",
+    "Length": "2.5cm - 3.8cm (1in - 1.5in)",
+    "Name": "African Tree Toad",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa"
+    ]
+}

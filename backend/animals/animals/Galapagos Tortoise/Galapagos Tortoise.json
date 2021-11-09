@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Testudines",
+    "Family": "Testudinidae",
+    "Genus": "Chelonoidis",
+    "Scientific Name": "Chelonoidis nigra",
+    "Main Prey": "Grass, Fruit, Cactus",
+    "Fun Fact": "The Galapagos tortoise is among the giants of the reptile class.",
+    "Habitat": "Volcanic lowlands and shrub land",
+    "Predators": "Human, Hawk, Wild dogs",
+    "Diet": "Herbivore",
+    "Average Litter Size": "24",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grass",
+    "Type": "Reptile",
+    "Slogan": "The biggest species of tortoise in the world!",
+    "Colour": "BrownGrey",
+    "Skin Type": "Scales",
+    "Top Speed": "0.3 mph",
+    "Lifespan": "100-150 years",
+    "Weight": "200-300kg (441-661lbs)",
+    "Name": "Galapagos Tortoise",
+    "Status": "Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

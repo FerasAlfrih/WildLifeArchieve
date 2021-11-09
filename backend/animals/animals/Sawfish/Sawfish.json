@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Rhinopristiformes",
+    "Family": "Pristidae",
+    "Prey": "fish and crustaceans",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "Sawfish teeth keep growing as the fish gets older",
+    "Biggest Threat": "Poaching",
+    "Most Distinctive Feature": "Ridged rostrum",
+    "Other Name(s)": "Carpenter sharks",
+    "Gestation Period": "12 months",
+    "Water Type": "Salt",
+    "Habitat": "Coastal",
+    "Predators": "Crocodiles, sharks, and dolphins",
+    "Diet": "Carnivore",
+    "Type": "rhinopristoform",
+    "Common Name": "Sawfish",
+    "Number Of Species": "5",
+    "Colour": "BrownGrey",
+    "Skin Type": "Scales",
+    "Lifespan": "30 years",
+    "Weight": "500 - 1,300 lbs",
+    "Length": "18 - 25 ft",
+    "Name": "Sawfish",
+    "Status": "Critically Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

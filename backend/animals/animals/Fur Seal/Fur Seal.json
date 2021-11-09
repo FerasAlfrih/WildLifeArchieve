@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Otariidae",
+    "Genus": "Arctocephalus",
+    "Scientific Name": "Arctocephalinae",
+    "Main Prey": "Squid, Fish, Birds",
+    "Distinctive Feature": "External ear flaps and stocky build",
+    "Habitat": "Cold waters and rocky land",
+    "Predators": "Leopard Seal, Sharks, Killer Whale",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Squid",
+    "Type": "Mammal",
+    "Slogan": "Found only in the Northern Hemisphere!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Fur",
+    "Top Speed": "27 mph",
+    "Lifespan": "12 - 18 years",
+    "Weight": "105kg - 300kg (230lbs - 661lbs)",
+    "Length": "1.5m - 2m (59in - 79in)",
+    "Name": "Fur Seal",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

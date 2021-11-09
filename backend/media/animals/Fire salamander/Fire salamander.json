@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Urodela",
+    "Family": "Salamandridae",
+    "Genus": "Salamandra",
+    "Name Of Young": "Salamander nymphs, metamorphs",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "Its name comes from the fact that people once believed it was born in fire",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Bsal fungus",
+    "Most Distinctive Feature": "Striking colors",
+    "Gestation Period": "60-150 days (2-5 months)",
+    "Litter Size": "20-75",
+    "Habitat": "Forests",
+    "Predators": "Grass snakes",
+    "Diet": "Carnivore",
+    "Type": "Amphibian",
+    "Common Name": "Fire salamander",
+    "Number Of Species": "13",
+    "Location": "Central and Southern Europe",
+    "Colour": "YellowRedBlackOrange",
+    "Skin Type": "Permeable",
+    "Weight": "40g (0.09lbs)",
+    "Length": "15–30 cm (6-12 in) long",
+    "Age of Sexual Maturity": "4-6 years",
+    "Name": "Fire salamander",
+    "Status": "Least Concern",
+    "locations": [
+        "Europe"
+    ]
+}

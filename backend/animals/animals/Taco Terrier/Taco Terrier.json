@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Taco terriers are known by a variety of names, including the Chitoxy Toy and the Chiwoxy.",
+    "Temperament": "Loyal, watchful, and playful",
+    "Diet": "Omnivore",
+    "Colour": "RedBlueBlackWhiteTanChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "8 lbs",
+    "Name": "Taco Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The first two Ibizan Hounds brought to the United States were Colonel and Mrs. Consuelo Seoane.",
+    "Diet": "Omnivore",
+    "Common Name": "Ibizan Hound",
+    "Slogan": "Intelligent, active and engaging by nature!",
+    "Group": "South",
+    "Colour": "FawnRedWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "50 pounds",
+    "Name": "Ibizan Hound",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

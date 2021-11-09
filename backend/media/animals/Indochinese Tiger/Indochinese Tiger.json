@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Panthera",
+    "Scientific Name": "Panthera Tigris Corbetti",
+    "Main Prey": "Deer, Cattle, Wild Boar",
+    "Habitat": "Secluded mountainous forests",
+    "Predators": "Human",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "Now thought to be extinct in China!",
+    "Colour": "BlackWhiteOrange",
+    "Skin Type": "Fur",
+    "Top Speed": "60 mph",
+    "Lifespan": "18 - 25 years",
+    "Weight": "100kg - 195kg (221lbs - 430lbs)",
+    "Name": "Indochinese Tiger",
+    "Status": "Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

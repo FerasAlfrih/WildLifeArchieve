@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Mollusca",
+    "Class": "Gastropoda",
+    "Order": "Achatinoidea",
+    "Family": "Achatinidae",
+    "Genus": "Achatina",
+    "Scientific Name": "Achatina fulica",
+    "Main Prey": "Leaves, Vegetables, Fruit, Flowers",
+    "Fun Fact": "The biggest snail species on land!",
+    "Habitat": "Humid forest areas",
+    "Predators": "Wild Cats, Birds, Humans",
+    "Diet": "Herbivore",
+    "Average Litter Size": "200",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Leaves",
+    "Type": "Mollusc",
+    "Slogan": "The biggest snail species on land!",
+    "Colour": "BrownYellowRed",
+    "Skin Type": "Hard Outer Shell",
+    "Top Speed": "0.002 mph",
+    "Lifespan": "3-10 years",
+    "Weight": "250-450g (8.8-15.9oz)",
+    "Name": "Giant African Land Snail",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa"
+    ]
+}

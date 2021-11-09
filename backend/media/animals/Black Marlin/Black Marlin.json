@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Istiophoriformes",
+    "Family": "Istiophordae",
+    "Genus": "Istiompax",
+    "Scientific Name": "Istiompax Indica",
+    "Main Prey": "Fish, squid, octopods",
+    "Fun Fact": "Every black marlin is born as a female.",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Humans and human activities",
+    "Water Type": "Salt",
+    "Diet": "Omnivore",
+    "Skin Type": "Scales",
+    "Lifespan": "Females: 11 years | Males: 5 years",
+    "Weight": "1653",
+    "Length": "183.6 inches",
+    "Name": "Black Marlin",
+    "Status": "Data Deficient",
+    "locations": [
+        "Ocean"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The breed was formerly known as the Brittany spaniel",
+    "Temperament": "Upbeat, friendly, and sensitive",
+    "Diet": "Omnivore",
+    "Colour": "BlackWhiteTanOrange",
+    "Skin Type": "Hair",
+    "Lifespan": "12 – 15 years",
+    "Weight": "40 lbs",
+    "Name": "Brittany",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

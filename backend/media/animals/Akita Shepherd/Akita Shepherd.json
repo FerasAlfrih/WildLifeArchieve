@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Akita Shepherd descends from a lineage of working dogs.",
+    "Temperament": "Loyal, hard-working, and courageous",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyRedBlackWhiteBrindleSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 13 years",
+    "Weight": "120 lbs",
+    "Name": "Akita Shepherd",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

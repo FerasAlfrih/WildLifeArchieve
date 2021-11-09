@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Echinodermata",
+    "Class": "Echinoidea",
+    "Order": "Echinoida",
+    "Scientific Name": "Echinoidea",
+    "Main Prey": "Algae, Fish, Barnacles",
+    "Water Type": "Salt",
+    "Optimum pH Level": "6.0-9.0",
+    "Habitat": "Rocky ocean floor and coral reefs",
+    "Predators": "Fish, Birds, Crabs, Sea Otter",
+    "Diet": "Omnivore",
+    "Favorite Food": "Algae",
+    "Common Name": "Sea Urchin",
+    "Average Clutch Size": "2000000",
+    "Slogan": "Can live for up to 200 years!",
+    "Skin Type": "Plates",
+    "Lifespan": "15-200 years",
+    "Name": "Sea Urchin",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

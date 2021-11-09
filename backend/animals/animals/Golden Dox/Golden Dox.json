@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Golden doxes don't have to be tiny. This breed looks different depending on whether the mix includes a regular dachshund or the mini version of the species.",
+    "Temperament": "cheerful and clever",
+    "Diet": "Omnivore",
+    "Colour": "BrownYellowRedBlackGoldTan",
+    "Skin Type": "Hair",
+    "Lifespan": "8 to 14 years",
+    "Weight": "60 lbs",
+    "Name": "Golden Dox",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

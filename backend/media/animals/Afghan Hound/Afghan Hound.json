@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "These dogs were originally bred for hunting purposes. They are one of the oldest dog breeds in the world, though they are now found in several rescue shelters around the world. They are known to be as fast as racehorses. The fur that covers these hounds keeps them very warm, though they can be shaved as well. Afghan Hounds have scent glands that usually produce a musky but not malodorous scent.",
+    "Distinctive Feature": "Long fur and pointed muzzle",
+    "Temperament": "Alert yet reserved and lively",
+    "Training": "Moderately Easy",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Type": "Hound",
+    "Common Name": "Afghan Hound",
+    "Slogan": "First used as a shepherd and hunter!",
+    "Group": "Dog",
+    "Colour": "BrownBlackWhiteGold",
+    "Skin Type": "Hair",
+    "Name": "Afghan Hound",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

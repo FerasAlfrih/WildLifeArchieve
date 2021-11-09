@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Shih Tzu",
+    "Slogan": "Can live for up to 15 years!",
+    "Group": "Herd",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "8kg (18lbs)",
+    "Name": "Shih Tzu",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

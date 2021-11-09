@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Both Great Danes and Poodles are in the top 15 most popular AKC breeds - which makes Great Danoodles a shoo-in for popularity.",
+    "Temperament": "Sweet, polite, and loyal",
+    "Diet": "Omnivore",
+    "Colour": "GreyRedBlueBlackWhiteCreamSilverBeige",
+    "Skin Type": "Hair",
+    "Lifespan": "10-13 years",
+    "Weight": "100 lbs",
+    "Name": "Great Danoodle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

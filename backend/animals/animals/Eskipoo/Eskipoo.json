@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Eskipoos are called pookimos by the American Canine Hybrid Club, Designer Dogs Kennel Club, and Designer Breed Registry.",
+    "Diet": "Omnivore",
+    "Name": "Eskipoo",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

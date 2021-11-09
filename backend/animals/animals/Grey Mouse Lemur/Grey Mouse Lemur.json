@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Cheirogaleidae",
+    "Genus": "Microcebus",
+    "Scientific Name": "Microcebus murinus",
+    "Main Prey": "Insects, Fruits, Flowers",
+    "Distinctive Feature": "Small body size and large eyes",
+    "Habitat": "Tropical Woodland",
+    "Predators": "Owls, Snakes, Fossa",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Mammal",
+    "Slogan": "The largest species of mouse lemur!",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "20 mph",
+    "Lifespan": "3 - 8 years",
+    "Weight": "58g - 67g (2oz - 2.4oz)",
+    "Length": "25cm - 28cm (9.8in - 11in)",
+    "Name": "Grey Mouse Lemur",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa"
+    ]
+}

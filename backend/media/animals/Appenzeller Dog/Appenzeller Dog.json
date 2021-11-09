@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Appenzeller Sennenhund dogs serve as rescue animals in the Swiss Alps",
+    "Temperament": "Energetic and alert",
+    "Training": "Should be trained from an early age and respond best to firm and consistent training",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Common Name": "Appenzeller Dog",
+    "Origin": "Switzerland",
+    "Slogan": "Herding dog by nature!",
+    "Group": "Sennenhund",
+    "Colour": "BlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12 – 14 years",
+    "Name": "Appenzeller Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

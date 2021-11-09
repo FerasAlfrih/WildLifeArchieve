@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Sphenisciformes",
+    "Family": "Spheniscidae",
+    "Genus": "Eudyptula",
+    "Scientific Name": "Eudyptula Minor",
+    "Main Prey": "Krill, Fish, Shrimp",
+    "Distinctive Feature": "Small body size with blue/grey feathers",
+    "Habitat": "Rocky Antarctic Islands",
+    "Predators": "Leopard Seal, Killer Whale, Sharks",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Colony",
+    "Favorite Food": "Krill",
+    "Type": "Bird",
+    "Slogan": "The smallest species of penguin!",
+    "Colour": "GreyBlueBlackWhite",
+    "Skin Type": "Feathers",
+    "Lifespan": "10 - 20 years",
+    "Weight": "1kg - 3kg (2.2lbs - 6.6lbs)",
+    "Height": "35cm - 50cm (14in - 20in)",
+    "Name": "Little Penguin",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean",
+        "Oceania"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Perissodactyla",
+    "Family": "Equidae",
+    "Genus": "Equus",
+    "Scientific Name": "Equus mulus",
+    "Main Prey": "Grass, Weeds, Vegetables",
+    "Predators": "Fox, Wolf, Lion",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "The offspring of a horse and donkey parents!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Fur",
+    "Top Speed": "15 mph",
+    "Lifespan": "15-20 years",
+    "Weight": "350-450kg (771-992lbs)",
+    "Name": "Mule",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ]
+}

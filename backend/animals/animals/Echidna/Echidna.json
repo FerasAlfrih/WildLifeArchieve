@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Monotremata",
+    "Family": "Tachyglossidae",
+    "Genus": "Tachyglossus",
+    "Scientific Name": "Tachyglossus Aculeatus",
+    "Main Prey": "Ants, Termites, Insects",
+    "Distinctive Feature": "Long snout and spikes and curved claws",
+    "Habitat": "Cool and dry forests",
+    "Predators": "Human, Eagle, Dingos",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Ants",
+    "Type": "Mammal",
+    "Slogan": "Also known as the Spiny Anteater!",
+    "Colour": "BrownBlackWhite",
+    "Skin Type": "Spiky",
+    "Top Speed": "18 mph",
+    "Lifespan": "15 - 40 years",
+    "Weight": "4kg - 7kg (9lbs - 15lbs)",
+    "Length": "35cm - 52cm (14in - 20in)",
+    "Name": "Echidna",
+    "Status": "Least Concern",
+    "locations": [
+        "Oceania"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "This dog is also named the Wicklow Terrier after the county of its origin.",
+    "Temperament": "Gentle, courageous, and hard-working",
+    "Diet": "Omnivore",
+    "Colour": "BlueBrindleBlonde",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 14 years",
+    "Weight": "40 lbs",
+    "Name": "Glen Of Imaal Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "Also known as the Sacred Cat of Burma!",
+    "Other Name(s)": "Sacred Cat of Burma",
+    "Temperament": "Intelligent, sweet and affectionate",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Common Name": "Birman cat",
+    "Group": "Semi-Longhair",
+    "Colour": "BrownRedBlackChocolateLilacCaramel",
+    "Skin Type": "Hair",
+    "Lifespan": "12-16 years",
+    "Weight": "Up to 12 pounds",
+    "Name": "Birman",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

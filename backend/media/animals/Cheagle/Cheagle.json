@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Some Cheagles have an excellent sense of smell.",
+    "Temperament": "Loyal, outgoing, and charismatic",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhiteCream",
+    "Skin Type": "Hair",
+    "Lifespan": "10 and 14 years",
+    "Weight": "20 lbs",
+    "Name": "Cheagle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

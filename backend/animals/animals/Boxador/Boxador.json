@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Boxadors are extremely smart and catch onto backyard games very quickly!",
+    "Temperament": "Devoted and playful",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhiteBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 15 years",
+    "Weight": "110 lbs",
+    "Name": "Boxador",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

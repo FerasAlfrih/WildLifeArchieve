@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Basset hounds have been around since the 7th century, but the bassetoodle made its first appearance in the 2000s.",
+    "Diet": "Omnivore",
+    "Name": "Bassetoodle",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Order": "Decapoda",
+    "Family": "Nephropidae",
+    "Scientific Name": "Nephropidae",
+    "Main Prey": "Clams, Mussels, Starfish",
+    "Habitat": "Sea gardens and rocky beds",
+    "Predators": "Human, Eels, Large fish",
+    "Diet": "Carnivore",
+    "Average Litter Size": "12",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Clams",
+    "Type": "Arthropod",
+    "Slogan": "Have been known to reach 100 years old!",
+    "Colour": "BrownRedBlueOrange",
+    "Skin Type": "Shell",
+    "Top Speed": "12 mph",
+    "Lifespan": "20-80 years",
+    "Weight": "1-7kg (2.2-15lbs)",
+    "Name": "Lobster",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

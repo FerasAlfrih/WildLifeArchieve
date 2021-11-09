@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Lepidoptera",
+    "Family": "Nymphalidae",
+    "Genus": "Apatura",
+    "Scientific Name": "Apatura iris",
+    "Main Prey": "Larvae, Sap, Dung",
+    "Fun Fact": "Inhabits deciduous forests!",
+    "Distinctive Feature": "Long, curled tongue and brightly coloured wings",
+    "Habitat": "Deciduous woodland",
+    "Predators": "Bats, Frogs, Birds",
+    "Diet": "Omnivore",
+    "Average Litter Size": "100",
+    "Favorite Food": "Larvae",
+    "Common Name": "Purple Emperor",
+    "Number Of Species": "1",
+    "Location": "Britain and Europe",
+    "Slogan": "Inhabits deciduous forests!",
+    "Colour": "BrownYellowBlueBlackWhiteOrangePurple",
+    "Skin Type": "Hair",
+    "Length": "6.2cm - 7.4cm (2.4in - 2.9in)",
+    "Name": "Purple Emperor Butterfly",
+    "Status": "Near Threatened",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ]
+}

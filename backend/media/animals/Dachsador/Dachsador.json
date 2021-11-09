@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "This hybrid dog is also known as a Doxador or a Weinerdor.",
+    "Temperament": "Friendly, affectionate, and playful",
+    "Diet": "Omnivore",
+    "Colour": "YellowBlackChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "40 lbs",
+    "Name": "Dachsador",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

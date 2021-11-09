@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Hymenoptera",
+    "Family": "Apidae",
+    "Genus": "Apis",
+    "Main Prey": "Nectar, Pollen, Honey",
+    "Fun Fact": "There are only 8 recognized species!",
+    "Habitat": "Sheltered forests and meadows",
+    "Diet": "Herbivore",
+    "Average Litter Size": "200",
+    "Favorite Food": "Nectar",
+    "Common Name": "Honey Bee",
+    "Number Of Species": "8",
+    "Location": "Worldwide",
+    "Slogan": "There are only 8 recognized species!",
+    "Colour": "BrownYellowBlack",
+    "Skin Type": "Hair",
+    "Name": "Honey Bee",
+    "Status": "Endangered",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

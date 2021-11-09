@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "A small dog with a big, lively personality.",
+    "Temperament": "Alert, friendly, and outgoing",
+    "Diet": "Omnivore",
+    "Type": "Scent Hound",
+    "Common Name": "Petit Basset Griffon Vendéen",
+    "Colour": "FawnBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "40 lbs",
+    "Name": "Petit Basset Griffon Vendéen",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

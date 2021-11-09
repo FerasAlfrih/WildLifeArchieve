@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Panthera",
+    "Scientific Name": "Panthera Tigris Sumatrae",
+    "Main Prey": "Deer, Cattle, Wild Boar",
+    "Habitat": "Dense tropical forest",
+    "Predators": "Human",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "The smallest species of tiger!",
+    "Colour": "BlackWhiteOrange",
+    "Skin Type": "Fur",
+    "Top Speed": "60 mph",
+    "Lifespan": "18 - 25 years",
+    "Weight": "80kg - 150kg (176lbs - 330lbs)",
+    "Name": "Sumatran Tiger",
+    "Status": "Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

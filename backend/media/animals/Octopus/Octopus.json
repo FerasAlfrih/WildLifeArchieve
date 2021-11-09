@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Mollusca",
+    "Class": "Cephalopoda",
+    "Order": "Octopoda",
+    "Family": "Octopodidae",
+    "Scientific Name": "Octopus Vulgaris",
+    "Main Prey": "Crabs, Fish, Scallops",
+    "Habitat": "Tropical and temperate waters worldwide",
+    "Predators": "Eels, Sharks, Dolphins",
+    "Diet": "Omnivore",
+    "Average Litter Size": "80",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Crabs",
+    "Type": "Mollusca",
+    "Slogan": "There are around 300 different species!",
+    "Colour": "BrownRedBlueTanOrangePurple",
+    "Skin Type": "Smooth",
+    "Top Speed": "27 mph",
+    "Lifespan": "2-15 years",
+    "Weight": "5-75kg (11-165lbs)",
+    "Name": "Octopus",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

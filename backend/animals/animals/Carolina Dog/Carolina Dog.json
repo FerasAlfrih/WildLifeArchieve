@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Carolina Dog",
+    "Slogan": "Wild dog breed discovered in the 1970s!",
+    "Group": "South",
+    "Skin Type": "Hair",
+    "Lifespan": "19 years",
+    "Weight": "18kg (40lbs)",
+    "Name": "Carolina Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

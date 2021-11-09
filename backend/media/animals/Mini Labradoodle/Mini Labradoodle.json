@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The first mini labradoodle was bred in the early 1990s - almost immediately after standard labradoodles became popular.",
+    "Diet": "Omnivore",
+    "Name": "Mini Labradoodle",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Agamidae",
+    "Genus": "Moloch",
+    "Scientific Name": "Moloch horridus",
+    "Main Prey": "Ants, Termites",
+    "Fun Fact": "Found only on mainland Australia!",
+    "Habitat": "Dry desert and shrub land",
+    "Predators": "Snakes, Human, Birds",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Ants",
+    "Type": "Reptile",
+    "Slogan": "Found only on mainland Australia!",
+    "Colour": "BrownGreyRed",
+    "Skin Type": "Scales",
+    "Top Speed": "37 mph",
+    "Lifespan": "12-20 years",
+    "Weight": "70-95g (2.5-3.4oz)",
+    "Name": "Thorny Devil",
+    "Status": "Least Concern",
+    "locations": [
+        "Oceania"
+    ]
+}

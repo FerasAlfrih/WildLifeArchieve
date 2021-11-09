@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Sphenisciformes",
+    "Family": "Spheniscidae",
+    "Genus": "Eudyptes",
+    "Scientific Name": "Eudyptes Chrysolophus",
+    "Main Prey": "Fish, Squid, Crustaceans",
+    "Wingspan": "80-100cm (31-39in)",
+    "Habitat": "Sea and ice-islands in Sub-Antarctica",
+    "Predators": "Leopard Seal, Killer Whale",
+    "Diet": "Carnivore",
+    "Lifestyle": "Colony",
+    "Favorite Food": "Fish",
+    "Type": "Bird",
+    "Average Clutch Size": "2",
+    "Slogan": "Gather in colonies of up to 100,000 members!",
+    "Colour": "BrownYellowBlackWhite",
+    "Skin Type": "Feathers",
+    "Top Speed": "22 mph",
+    "Lifespan": "15-20 years",
+    "Weight": "3.2-6.4kg (7-14lbs)",
+    "Name": "Macaroni Penguin",
+    "Status": "Near Threatened",
+    "locations": [
+        "Antarctica",
+        "Ocean"
+    ]
+}

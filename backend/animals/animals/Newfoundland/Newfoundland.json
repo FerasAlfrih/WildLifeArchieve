@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "The Newfoundland is an excellent swimmer with partially webbed feet.",
+    "Litter Size": "8",
+    "Diet": "Omnivore",
+    "Common Name": "Newfoundland",
+    "Origin": "8",
+    "Slogan": "Introduced by Vikings more than 1,000 years ago!",
+    "Group": "Working Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "10 years",
+    "Weight": "60kg (130lbs)",
+    "Name": "Newfoundland",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

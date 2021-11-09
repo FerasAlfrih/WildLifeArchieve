@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "The Black and White Whiskey bottles highlight a Scotland Westie.",
+    "Diet": "Omnivore",
+    "Common Name": "West Highland Terrier",
+    "Slogan": "Most commonly white in colour!",
+    "Group": "Terrier",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "10kg (22lbs)",
+    "Name": "West Highland Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "It has loose neck skin for lessening bites and allowing mobility from predators.",
+    "Distinctive Feature": "Big head and powerful jaws",
+    "Temperament": "Calm, independent, brave and protective",
+    "Training": "Hard",
+    "Diet": "Omnivore",
+    "Average Litter Size": "8",
+    "Type": "Guard",
+    "Common Name": "Akbash",
+    "Slogan": "Often used as a guard dog!",
+    "Group": "Dog",
+    "Colour": "BrownWhite",
+    "Skin Type": "Hair",
+    "Name": "Akbash",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

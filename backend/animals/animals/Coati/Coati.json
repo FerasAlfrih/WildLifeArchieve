@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Procyonidae",
+    "Genus": "Nasua",
+    "Scientific Name": "Nasua nasua",
+    "Main Prey": "Fruit, Nuts, Small mammals and reptiles",
+    "Habitat": "Forests, grasslands, desert",
+    "Predators": "Wildcats, Birds of Prey, Crocodiles",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Band",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Found in dense forests and wet jungles!",
+    "Colour": "BrownGreyRedBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "15 mph",
+    "Lifespan": "8-15 years",
+    "Weight": "3-8kg (6-18lbs)",
+    "Name": "Coati",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+    ]
+}

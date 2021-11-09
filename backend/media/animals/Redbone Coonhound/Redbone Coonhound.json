@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Originally bred to track raccoons.",
+    "Temperament": "Loyal, friendly, and energetic.",
+    "Diet": "Omnivore",
+    "Colour": "RedWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "11 – 12 years",
+    "Weight": "70 lbs.",
+    "Name": "Redbone Coonhound",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

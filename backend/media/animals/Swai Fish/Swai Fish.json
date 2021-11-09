@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Siluriformes",
+    "Family": "Pangasiidae",
+    "Genus": "Pangasianodon",
+    "Scientific Name": "Pangasianodon hypophthalmus",
+    "Prey": "Crustaceans, small fish, and plants",
+    "Group Behavior": "School",
+    "Fun Fact": "The edges of an iridescent shark's fins have a signature glow",
+    "Biggest Threat": "Fishing",
+    "Most Distinctive Feature": "Shark-style dorsal fin",
+    "Other Name(s)": "Tra fish, iridescent shark, pangasius",
+    "Water Type": "Fresh",
+    "Habitat": "Rivers",
+    "Diet": "Omnivore",
+    "Type": "Pangasiidae",
+    "Common Name": "Iridescent shark",
+    "Number Of Species": "1",
+    "Colour": "SilverBeige",
+    "Skin Type": "Scales",
+    "Weight": "50 - 100 lbs",
+    "Length": "2-4 ft",
+    "Name": "Swai Fish",
+    "Status": "Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

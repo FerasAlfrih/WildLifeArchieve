@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Mustelidae",
+    "Genus": "Enhydra",
+    "Scientific Name": "Enhydra Lutris",
+    "Main Prey": "Sea Urchins, Clams, Crabs, Seaweed",
+    "Habitat": "Unpolluted areas close to the shore",
+    "Predators": "Sharks, Humans, Killer Whales",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Sea Urchins",
+    "Type": "Mammal",
+    "Slogan": "Eats over 40 different marine species!",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "7 mph",
+    "Lifespan": "12-15 years",
+    "Weight": "14-45kg (30-100lbs)",
+    "Name": "Sea Otter",
+    "Status": "Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

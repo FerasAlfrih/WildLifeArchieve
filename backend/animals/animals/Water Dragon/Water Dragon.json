@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Agamidae",
+    "Genus": "Physignathus",
+    "Scientific Name": "Physignathus",
+    "Main Prey": "Fish, Rodents, Insects",
+    "Habitat": "Creeks, rivers and lakes",
+    "Predators": "Snakes, Birds, Mammals",
+    "Diet": "Omnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fish",
+    "Type": "Reptile",
+    "Average Clutch Size": "12",
+    "Slogan": "Spends most of it's time in the trees!",
+    "Colour": "BrownYellowBlackTanGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "30 mph",
+    "Lifespan": "10-20 years",
+    "Weight": "0.5-1kg (1.1-2.2lbs)",
+    "Name": "Water Dragon",
+    "Status": "Near Threatened",
+    "locations": [
+        "Asia",
+        "Oceania"
+    ]
+}

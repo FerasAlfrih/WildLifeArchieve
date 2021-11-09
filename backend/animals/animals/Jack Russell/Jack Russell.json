@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Intelligent, athletic and fearless!",
+    "Diet": "Omnivore",
+    "Common Name": "Jack Russel",
+    "Slogan": "Intelligent, athletic and fearless!",
+    "Group": "Terrier",
+    "Skin Type": "Hair",
+    "Lifespan": "12 - 14 years",
+    "Weight": "15 pounds",
+    "Name": "Jack Russell",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

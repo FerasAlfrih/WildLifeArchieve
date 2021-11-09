@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Miniature Husky has a double coat that it sheds twice annually. Also, some people confuse them with Alaskan Klee Kai, which have similar blue eyes.",
+    "Temperament": "Energetic, athletic, playful, friendly, intelligent",
+    "Diet": "Omnivore",
+    "Average Litter Size": "9-11",
+    "Colour": "BrownGreyRedBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "Up to 35 pounds",
+    "Height": "Up to 17 inches",
+    "Name": "Miniature Husky",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

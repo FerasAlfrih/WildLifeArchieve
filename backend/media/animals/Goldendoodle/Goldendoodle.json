@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Due to their breeding, no two Goldendoodles are alike.",
+    "Temperament": "Energetic, intelligent, gentle",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15years",
+    "Weight": "75 lbs",
+    "Name": "Goldendoodle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Sphenisciformes",
+    "Family": "Spheniscidae",
+    "Genus": "Megadyptes",
+    "Scientific Name": "Megadyptes antipodes",
+    "Main Prey": "Krill, Fish, Shrimp",
+    "Distinctive Feature": "Bright yellow head-band and pink coloured feet",
+    "Habitat": "Rocky Antarctic Islands",
+    "Predators": "Leopard Seal, Killer Whale, Sharks",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Colony",
+    "Favorite Food": "Krill",
+    "Type": "Bird",
+    "Slogan": "The rarest species of penguin!",
+    "Colour": "BrownGreyYellowBlackWhite",
+    "Skin Type": "Feathers",
+    "Lifespan": "10 - 20 years",
+    "Weight": "5kg - 8kg (11lbs - 18lbs)",
+    "Height": "60cm - 75cm (24in - 30in)",
+    "Name": "Yellow-Eyed Penguin",
+    "Status": "Endangered",
+    "locations": [
+        "Ocean",
+        "Oceania"
+    ]
+}

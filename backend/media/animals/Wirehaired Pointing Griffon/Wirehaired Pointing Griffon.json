@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "A Wirehaired Pointing Griffon’s coat makes it look like it has a mustache and beard!",
+    "Temperament": "Playful, athletic, alert, and intelligent.",
+    "Litter Size": "6-9 puppies",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyWhiteTanOrange",
+    "Skin Type": "Hair",
+    "Lifespan": "10-12 years",
+    "Weight": "35-70 pounds",
+    "Name": "Wirehaired Pointing Griffon",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

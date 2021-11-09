@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Boxerdoodle has a strong hunting dog lineage.",
+    "Diet": "Omnivore",
+    "Name": "Boxerdoodle",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

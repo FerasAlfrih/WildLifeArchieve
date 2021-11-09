@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Flat-Coated Retrievers are one of the oldest retriever breeds; they were bred beginning in the 19th century.",
+    "Diet": "Omnivore",
+    "Common Name": "Flat-Coated Retriever",
+    "Slogan": "A game retrieving gun-dog!",
+    "Group": "Gun Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "32kg (70lbs)",
+    "Name": "Flat-Coated Retriever",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

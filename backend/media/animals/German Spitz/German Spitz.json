@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "There are five different sub-breeds of the German Spitz.",
+    "Temperament": "Lively, devoted to family, intelligent, and beautiful",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhiteTanCreamOrange",
+    "Skin Type": "Hair",
+    "Lifespan": "13-15 years",
+    "Name": "German Spitz",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

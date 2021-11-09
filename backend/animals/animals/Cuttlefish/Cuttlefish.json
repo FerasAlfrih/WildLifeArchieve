@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Mollusca",
+    "Class": "Cephalopoda",
+    "Order": "Decapodiformes",
+    "Family": "Sepiida",
+    "Scientific Name": "Sepiida",
+    "Main Prey": "Crab, Shrimp, Fish",
+    "Distinctive Feature": "Long body shape and large eyes",
+    "Habitat": "Coastal and deeper waters",
+    "Predators": "Fish, Sharks, Cuttlefish",
+    "Diet": "Carnivore",
+    "Average Litter Size": "200",
+    "Favorite Food": "Crab",
+    "Common Name": "Cuttlefish",
+    "Number Of Species": "120",
+    "Location": "Worldwide",
+    "Slogan": "Found throughout the world's oceans!",
+    "Colour": "BrownYellowRedBlueWhiteGreenOrangePink",
+    "Skin Type": "Smooth",
+    "Weight": "3kg - 10.5kg (6.6lbs - 23lbs)",
+    "Length": "15cm - 50cm (5.9in - 20in)",
+    "Name": "Cuttlefish",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Epagneul Pont-Audemer",
+    "Slogan": "Hard-working, gentle and affectionate!",
+    "Group": "Gun Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "13 years",
+    "Weight": "24kg (53lbs)",
+    "Name": "Epagneul Pont Audemer",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

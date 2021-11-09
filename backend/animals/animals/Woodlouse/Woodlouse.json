@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Order": "Isopoda",
+    "Family": "Oniscidea",
+    "Scientific Name": "Oniscidea",
+    "Main Prey": "Decaying leaf and plant matter,",
+    "Habitat": "Moist environments",
+    "Predators": "Toads, Centipedes, Spiders",
+    "Diet": "Herbivore",
+    "Average Litter Size": "24",
+    "Favorite Food": "Decaying leaf and plant matter,",
+    "Common Name": "Woodlouse",
+    "Number Of Species": "3000",
+    "Location": "Worldwide",
+    "Slogan": "Actually a crustacean, not an insect!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Shell",
+    "Name": "Woodlouse",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

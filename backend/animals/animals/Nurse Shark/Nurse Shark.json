@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Orectolobiformes",
+    "Family": "Ginglymostomatidae",
+    "Genus": "Ginglymostoma",
+    "Scientific Name": "Ginglymostoma cirratum",
+    "Main Prey": "Squid, Fish, Octopus",
+    "Habitat": "Warm waters and tropical coastal regions",
+    "Predators": "Human, Bull Shark, Tiger Shark",
+    "Diet": "Carnivore",
+    "Average Litter Size": "20",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Squid",
+    "Type": "Fish",
+    "Slogan": "Commonly found in Central American waters!",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Smooth",
+    "Top Speed": "25 mph",
+    "Lifespan": "20-25 years",
+    "Weight": "90-150kg (198-330lbs)",
+    "Name": "Nurse Shark",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

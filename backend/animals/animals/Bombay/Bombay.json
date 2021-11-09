@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "Bred to look like a black panther!",
+    "Temperament": "Intelligent, energetic, calm and friendly",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Common Name": "Bombay",
+    "Group": "Shorthair",
+    "Colour": "Black",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 18 years",
+    "Weight": "8 to 15 lbs.",
+    "Name": "Bombay",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

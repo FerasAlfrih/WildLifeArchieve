@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Bufonidae",
+    "Genus": "Anaxyrus",
+    "Scientific Name": "Anaxyrus Baxteri",
+    "Prey": "Beetles, Ants",
+    "Biggest Threat": "Habitat Loss",
+    "Other Name(s)": "Baster's Toad, Bufo Baxteri",
+    "Gestation Period": "1 - 1.5 months",
+    "Litter Size": "4,500 Eggs",
+    "Habitat": "Floodplains, ponds, small lakes",
+    "Predators": "Coyotes, skunks, badgers, herons, weasels",
+    "Diet": "Carnivore",
+    "Lifestyle": "Nocturnal",
+    "Common Name": "Wyoming Toad",
+    "Origin": "4,500 Eggs",
+    "Slogan": "Releases poison from neck glands for defense!",
+    "Group": "Amphibian",
+    "Lifespan": "8 years",
+    "Weight": "2-3 oz",
+    "Age of Sexual Maturity": "2 years (males), 3 years (females)",
+    "Name": "Wyoming Toad",
+    "Status": "Extinct in the Wild",
+    "locations": [
+        "World Wide"
+    ]
+}

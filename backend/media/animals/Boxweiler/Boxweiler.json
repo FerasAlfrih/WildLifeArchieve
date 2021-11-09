@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Boxweilers come in a variety of colors, but they usually feature the subtle brindle pattern that their boxer parents are so famous for.",
+    "Temperament": "Energetic and protective",
+    "Diet": "Omnivore",
+    "Colour": "BrownFawnBlackWhiteBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "8 to 13 years",
+    "Weight": "100 lbs",
+    "Name": "Boxweiler",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Sphenodontia",
+    "Family": "Sphenodontidae",
+    "Genus": "Sphenodon",
+    "Scientific Name": "Sphenodon Punctatus",
+    "Main Prey": "Insects, Eggs, Lizards",
+    "Habitat": "woodland and grassland",
+    "Predators": "Pigs, Cats, Rodents",
+    "Diet": "Carnivore",
+    "Average Litter Size": "12",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Reptile",
+    "Slogan": "Only found on a few of New Zealand's islands!",
+    "Colour": "BrownGreyGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "15 mph",
+    "Lifespan": "50-100 years",
+    "Weight": "600-900g (1.3-1.9lbs)",
+    "Name": "Tuatara",
+    "Status": "Near Threatened",
+    "locations": [
+        "Oceania"
+    ]
+}

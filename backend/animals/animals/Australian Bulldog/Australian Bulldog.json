@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Hemichordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Aussie is a strong swimmer, a good workout in nice weather.",
+    "Temperament": "Intelligent, fiercely loyal, and sweet-natured",
+    "Diet": "Omnivore",
+    "Colour": "FawnRedBrindleOrangePeachBlack-Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "78 lbs",
+    "Name": "Australian Bulldog",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

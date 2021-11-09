@@ -1,0 +1,15 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Name": "Mountain Cur",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

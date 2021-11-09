@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Iguanidae",
+    "Main Prey": "Insects, Fruit, Leaves",
+    "Fun Fact": "Uses visual signals to communicate!",
+    "Habitat": "Lowland tropical rainforest near water",
+    "Predators": "Hawk, Eagle, Snakes",
+    "Diet": "Omnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Reptile",
+    "Slogan": "Uses visual signals to communicate!",
+    "Colour": "BrownYellowGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "21 mph",
+    "Lifespan": "15-20 years",
+    "Weight": "4-8kg (8.8-17.6lbs)",
+    "Name": "Iguana",
+    "Status": "Near Threatened",
+    "locations": [
+        "Central-America",
+        "South-America"
+    ]
+}

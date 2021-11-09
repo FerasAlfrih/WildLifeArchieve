@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Very endangered breed that is scion of several breeds that include one that is already extinct",
+    "Temperament": "Variable between quiet and frisky",
+    "Diet": "Omnivore",
+    "Colour": "BlueWhiteChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "12 – 14 years",
+    "Height": "24 lbs",
+    "Name": "Sealyham Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

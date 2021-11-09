@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Galliformes",
+    "Family": "Phasianidae",
+    "Genus": "Meleagris",
+    "Scientific Name": "Meleagris",
+    "Main Prey": "Insects, Nuts, Seeds, Berries",
+    "Fun Fact": "A turkey's gender can be determined by the shape of its droppings.",
+    "Wingspan": "4.1-4.7 feet",
+    "Incubation Period": "25-31 days",
+    "Habitat": "Forest, shrubland and grassy plains",
+    "Predators": "Fox, Snake, Raccoon",
+    "Diet": "Omnivore",
+    "Lifestyle": "Flock",
+    "Favorite Food": "Insects",
+    "Type": "Bird",
+    "Slogan": "Closely related to pheasants and chickens!",
+    "Nesting Location": "Wooded areas on the ground",
+    "Age of Molting": "20 weeks",
+    "Colour": "BrownYellowRedBlueBlackWhiteGreen",
+    "Skin Type": "Feathers",
+    "Top Speed": "6 mph",
+    "Lifespan": "1-10 years",
+    "Weight": "3-11kg (6.6-24lbs)",
+    "Name": "Turkey",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "North-America"
+    ]
+}

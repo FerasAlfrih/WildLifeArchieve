@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Hunters still use the toy fox to go into a fox's den and flush the animal out.",
+    "Temperament": "Intelligent, friendly, alert, playful, loyal, spirited",
+    "Diet": "Omnivore",
+    "Colour": "BlackWhiteTanChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "11-14 years",
+    "Weight": "13 pounds",
+    "Name": "Toy Fox Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

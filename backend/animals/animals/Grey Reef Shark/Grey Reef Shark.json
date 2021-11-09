@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Carcharhiniformes",
+    "Family": "Carcharhinidae",
+    "Genus": "Carcharhinus",
+    "Scientific Name": "Carcharhinus Amblyrhynchos",
+    "Main Prey": "Fish, Crab, Squid",
+    "Habitat": "Warm waters and coral reefs",
+    "Predators": "Human, Larger sharks",
+    "Diet": "Carnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fish",
+    "Type": "Fish",
+    "Slogan": "One of the most common shark species!",
+    "Colour": "GreyBlackWhite",
+    "Skin Type": "Smooth",
+    "Top Speed": "25 mph",
+    "Lifespan": "22-28 years",
+    "Weight": "20-30kg (44-66lbs)",
+    "Name": "Grey Reef Shark",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

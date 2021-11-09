@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Intelligent, shy and devoted",
+    "Diet": "Omnivore",
+    "Common Name": "English Shepherd",
+    "Slogan": "Highly intelligent and independent!",
+    "Group": "Herd",
+    "Colour": "BlackWhiteTanBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "27kg (60lbs)",
+    "Name": "English Shepherd",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

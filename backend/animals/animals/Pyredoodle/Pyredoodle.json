@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Pyredoodles can have a thick double coat or a thinner single coat.",
+    "Diet": "Omnivore",
+    "Name": "Pyredoodle",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

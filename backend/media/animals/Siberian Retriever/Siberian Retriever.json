@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Many husky Labs have one blue eye and one brown eye.",
+    "Temperament": "Intelligent and affectionate but can be stubborn",
+    "Diet": "Omnivore",
+    "Colour": "BlackWhiteGoldTanChocolate",
+    "Skin Type": "Hair",
+    "Weight": "65 lbs",
+    "Name": "Siberian Retriever",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

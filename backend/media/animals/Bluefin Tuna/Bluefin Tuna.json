@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Scombriformes",
+    "Family": "Scombridae",
+    "Genus": "Thunnus",
+    "Main Prey": "Fish, crustaceans, cephalopods, and mollusks",
+    "Group Behavior": "School",
+    "Fun Fact": "The bluefin is one of the largest fish in the world",
+    "Estimated Population Size": "More than a million",
+    "Biggest Threat": "Overfishing",
+    "Most Distinctive Feature": "The torpedo-shaped body",
+    "Other Name(s)": "Giant bluefin",
+    "Gestation Period": "A few days",
+    "Habitat": "Oceans",
+    "Diet": "Carnivore",
+    "Type": "Ray-finned fish",
+    "Common Name": "Bluefin tuna",
+    "Number Of Species": "3",
+    "Colour": "GreyBlueSilver",
+    "Skin Type": "Smooth",
+    "Top Speed": "50 mph",
+    "Lifespan": "Up to 40 years",
+    "Weight": "Up to 2,000lbs",
+    "Length": "1.8m – 4.2m (6ft - 14ft)",
+    "Name": "Bluefin Tuna",
+    "Status": "Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

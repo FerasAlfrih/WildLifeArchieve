@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Perissodactyla",
+    "Family": "Rhinocerotidae",
+    "Genus": "Rhinoceros",
+    "Scientific Name": "Rhinoceros Sondaicus",
+    "Main Prey": "Grass, Fruit, Berries, Leaves",
+    "Habitat": "Tropical bushland, grassland and rainforest",
+    "Predators": "Human, Wild cats",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Only has a 25cm long horn!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Leather",
+    "Top Speed": "30 mph",
+    "Lifespan": "30-45 years",
+    "Weight": "900kg - 2,300kg (2,000lbs - 5,100lbs)",
+    "Length": "3.1m- 3.2m (10ft - 10.5ft)",
+    "Name": "Javan Rhinoceros",
+    "Status": "Critically Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

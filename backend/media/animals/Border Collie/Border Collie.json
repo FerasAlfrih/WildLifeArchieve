@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Lively and intelligent",
+    "Training": "Should be trained from an early age in obedience",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Common Name": "Border Collie",
+    "Slogan": "Highly intelligent and alert breed!",
+    "Group": "Herd",
+    "Colour": "BrownRedBlackWhite",
+    "Skin Type": "Hair",
+    "Name": "Border Collie",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

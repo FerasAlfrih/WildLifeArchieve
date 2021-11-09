@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Hyaenidae",
+    "Genus": "Crocuta",
+    "Scientific Name": "Crocuta Crocuta",
+    "Main Prey": "Wildebeest, Monkey, Birds",
+    "Habitat": "Open savanna plains and grassland",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Pack",
+    "Favorite Food": "Wildebeest",
+    "Type": "Mammal",
+    "Slogan": "There are four different species!",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "37 mph",
+    "Lifespan": "20-25 years",
+    "Weight": "41-86kg (90-190lbs)",
+    "Name": "Hyena",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Europe"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Intelligent, active and alert",
+    "Training": "Should be trained from an early age as they can become dominant",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Common Name": "Blue Lacy Dog",
+    "Slogan": "Originated in Texas in the mid 1800s!",
+    "Group": "Herd",
+    "Colour": "BrownGreyFawnBlueWhiteTanCream",
+    "Skin Type": "Hair",
+    "Name": "Blue Lacy Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

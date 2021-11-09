@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "These dogs have great sniffer abilities",
+    "Temperament": "Active, friendly, and playful",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhiteCream",
+    "Skin Type": "Hair",
+    "Lifespan": "10-15 years",
+    "Weight": "33 lbs",
+    "Name": "Beaglier",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

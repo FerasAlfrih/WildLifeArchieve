@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Dalmatians are used as firehouse mascots",
+    "Temperament": "Sensitive and energetic",
+    "Diet": "Omnivore",
+    "Common Name": "Dalmation",
+    "Slogan": "Have an energetic and playful nature!",
+    "Group": "Gun Dog",
+    "Colour": "BlackWhiteLight-Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "13 years",
+    "Weight": "60 lbs",
+    "Name": "Dalmatian",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

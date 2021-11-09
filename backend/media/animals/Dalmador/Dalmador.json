@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Dalmador breeding skyrocketed after the 16 release of the live-action 101 Dalmatians movie.",
+    "Diet": "Omnivore",
+    "Name": "Dalmador",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

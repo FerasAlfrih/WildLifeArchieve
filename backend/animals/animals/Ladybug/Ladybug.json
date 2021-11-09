@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Coleoptera",
+    "Family": "Coccinellidae",
+    "Main Prey": "Aphids, Greenfly, Small Insects",
+    "Fun Fact": "There are more than 5,000 species worldwide!",
+    "Habitat": "Woodland, hedgerows and meadows",
+    "Predators": "Birds, Rodents, Reptiles, Insects",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2,000",
+    "Favorite Food": "Aphids",
+    "Common Name": "Ladybird",
+    "Number Of Species": "5000",
+    "Location": "Worldwide",
+    "Colour": "BrownYellowRedBlackWhiteOrange",
+    "Skin Type": "Shell",
+    "Name": "Ladybug",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

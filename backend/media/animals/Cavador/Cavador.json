@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Cavador is a good service dog.",
+    "Temperament": "Friendly, intelligent, and eager to please",
+    "Diet": "Omnivore",
+    "Colour": "BrownFawnRedBlackCream",
+    "Skin Type": "Hair",
+    "Lifespan": "10-14 years",
+    "Weight": "55 lbs",
+    "Name": "Cavador",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

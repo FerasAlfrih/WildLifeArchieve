@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Connochaetes",
+    "Scientific Name": "Connochaetes Taurinus",
+    "Main Prey": "Grass, Leaves, Shoots",
+    "Habitat": "Grass plains and bush covered savanna",
+    "Predators": "Lion, Cheetah, Crocodile",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Can trek more than 1,000 miles every year!",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Hair",
+    "Top Speed": "38 mph",
+    "Lifespan": "15-20 years",
+    "Weight": "120-250kg (265-550lbs)",
+    "Name": "Wildebeest",
+    "Status": "Endangered",
+    "locations": [
+        "Africa"
+    ]
+}

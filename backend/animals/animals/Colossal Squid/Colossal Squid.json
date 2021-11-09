@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Mollusca",
+    "Class": "Cephalopoda",
+    "Order": "Oegopsida",
+    "Family": "Cranchiidae",
+    "Genus": "Mesonychoteuthis",
+    "Scientific Name": "Mesonychoteuthis hamiltoni",
+    "Prey": "Fish, squid",
+    "Fun Fact": "Can survive eating a single fish for months",
+    "Biggest Threat": "Natural predators",
+    "Most Distinctive Feature": "Massive size",
+    "Other Name(s)": "Antarctic squid, giant cranch squid",
+    "Habitat": "ocean",
+    "Predators": "Sperm whales",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fish, squid",
+    "Type": "Cephalopod",
+    "Common Name": "Colossal squid",
+    "Colour": "Pink",
+    "Skin Type": "Skin",
+    "Weight": "1300lbs",
+    "Length": "14m (46ft)",
+    "Name": "Colossal Squid",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

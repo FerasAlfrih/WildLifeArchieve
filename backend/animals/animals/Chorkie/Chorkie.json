@@ -1,0 +1,19 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Chorkies are very fond of their owners and will love to sit in their laps for long amounts of time!",
+    "Temperament": "loyal and protective",
+    "Diet": "Omnivore",
+    "Lifespan": "10 to 15 years",
+    "Weight": "10 lbs",
+    "Name": "Chorkie",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

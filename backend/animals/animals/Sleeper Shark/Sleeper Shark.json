@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Squaliformes",
+    "Family": "Somniosidae",
+    "Prey": "Fish, seals, and mollusks",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "The Greenland shark is one of the longest living vertebrates in the world.",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Overfishing",
+    "Most Distinctive Feature": "The sharp dagger-like teeth",
+    "Other Name(s)": "Greenland Shark",
+    "Gestation Period": "Varies",
+    "Optimum pH Level": "Varies",
+    "Habitat": "Oceans",
+    "Predators": "Humans, Killer Whales, other sharks",
+    "Diet": "Carnivore",
+    "Type": "Shark",
+    "Common Name": "Sleeper Shark",
+    "Number Of Species": "20",
+    "Colour": "GreyBlueWhiteLight-Brown",
+    "Skin Type": "Scales",
+    "Top Speed": "1.6 mph",
+    "Lifespan": "Up to 500 years",
+    "Weight": "Up to 2,000 pounds",
+    "Length": "Up to 20 feet",
+    "Name": "Sleeper Shark",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

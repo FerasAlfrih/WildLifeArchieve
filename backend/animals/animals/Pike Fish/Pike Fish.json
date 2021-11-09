@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Esociformes",
+    "Family": "Esocidae",
+    "Genus": "Esox",
+    "Scientific Name": "Esox",
+    "Prey": "Mostly other fish, frogs, waterfowl ",
+    "Main Prey": "Fish, Frogs, Insects",
+    "Distinctive Feature": "Elongated body and strong jaw",
+    "Optimum pH Level": "6 - 8",
+    "Habitat": "Slow moving water",
+    "Diet": "Carnivore",
+    "Average Litter Size": "100,000",
+    "Favorite Food": "Fish",
+    "Common Name": "Pike",
+    "Slogan": "Apex freshwater predators with fearsome teeth! ",
+    "Colour": "GreyBlueBlackWhite",
+    "Skin Type": "Smooth",
+    "Lifespan": "12 - 15 years",
+    "Length": "0.5m - 1.8m (20in - 71in)",
+    "Name": "Pike Fish",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

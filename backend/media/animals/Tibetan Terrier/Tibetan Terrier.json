@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Tibetan terriers have round, flat, “snow shoe” feet that evolved to give them traction on snowy Himalayan paths",
+    "Temperament": "Energetic, playful and stubborn quiet and lazy",
+    "Diet": "Omnivore",
+    "Colour": "GreyBlackWhiteGoldBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "30 lbs",
+    "Name": "Tibetan Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Big livestock dogs possibly resembling the Anatolian Shepherd were mentioned in the Book of Job",
+    "Temperament": "Courageous, powerful, protective, calm and devoted.",
+    "Training": "Should be trained from an early age and respond best to motivational training as they can be dominant and stubborn",
+    "Litter Size": "5-10 pups",
+    "Diet": "Omnivore",
+    "Average Litter Size": "9",
+    "Common Name": "Anatolian Shepherd Dog",
+    "Slogan": "Guards it's master's flocks!",
+    "Group": "Guard",
+    "Colour": "BrownFawnRedBlueWhiteBrindleCream",
+    "Skin Type": "Hair",
+    "Lifespan": "11-13 years",
+    "Weight": "80-150 pounds",
+    "Height": "27-29 inches",
+    "Name": "Anatolian Shepherd Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

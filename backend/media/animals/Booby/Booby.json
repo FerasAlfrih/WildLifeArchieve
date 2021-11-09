@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Pelecaniformes",
+    "Family": "Sulidae",
+    "Genus": "Sula",
+    "Main Prey": "Flying Fish, Sardines, Anchovies, Squid",
+    "Fun Fact": "Booby birds have a wingspan of around 5 feet",
+    "Distinctive Feature": "Large body size and brightly coloured feet",
+    "Wingspan": "130cm - 155cm (51in - 61in)",
+    "Water type": "Saltwater",
+    "Habitat": "Subtropical and tropical islands",
+    "Diet": "Carnivore",
+    "Lifestyle": "Flock",
+    "Favorite Food": "Flying Fish",
+    "Type": "Bird",
+    "Average Clutch Size": "2",
+    "Slogan": "Seabirds found across the South Pacific!",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Feathers",
+    "Top Speed": "60 mph",
+    "Lifespan": "12 - 17 years",
+    "Weight": "0.9kg -1.8kg (2lbs - 3.9lbs)",
+    "Height": "64cm - 91cm (25in - 36in)",
+    "Name": "Booby",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "Ocean",
+        "South-America"
+    ]
+}

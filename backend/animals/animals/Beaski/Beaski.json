@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Beaskis love to play, so get ready to go on plenty of long walks.",
+    "Temperament": "Energetic and hardworking",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyFawnRedBlackWhiteBrindleCream",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 15 years",
+    "Weight": "50 lbs",
+    "Name": "Beaski",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

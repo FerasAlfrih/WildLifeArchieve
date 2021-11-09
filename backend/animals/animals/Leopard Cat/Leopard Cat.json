@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Prionailurus",
+    "Scientific Name": "Prionailurus bengalensis",
+    "Main Prey": "Rodents, Lizards, Insects",
+    "Distinctive Feature": "Webbed toes and spotted fur",
+    "Habitat": "Tropical forests",
+    "Predators": "Leopard, Tiger, Wilddog",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Rodents",
+    "Type": "Mammal",
+    "Slogan": "There are 11 different species!",
+    "Colour": "GreyYellowBlackWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "45 mph",
+    "Lifespan": "10 - 13 years",
+    "Weight": "2.2kg - 7.5kg (4.9lbs - 17lbs)",
+    "Length": "46cm - 65cm (18in - 26in)",
+    "Name": "Leopard Cat",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia"
+    ]
+}

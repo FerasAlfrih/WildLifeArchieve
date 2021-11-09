@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Griffonshires are so little they are easily mistaken for puppies throughout their lives.",
+    "Temperament": "Lively and smart",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlueBlackCream",
+    "Skin Type": "Hair",
+    "Lifespan": "10-15 years",
+    "Weight": "10 lbs",
+    "Name": "Griffonshire",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

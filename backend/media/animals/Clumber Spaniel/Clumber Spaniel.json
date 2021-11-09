@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Clumber spaniels were a favorite companion living in the castles of many royal families in the 18th and 19th centuries.",
+    "Diet": "Omnivore",
+    "Common Name": "Clumber Spaniel",
+    "Slogan": "Has a thick, soft coat!",
+    "Group": "Gun Dog",
+    "Colour": "WhiteOrange",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "29kg (65lbs)",
+    "Name": "Clumber Spaniel",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

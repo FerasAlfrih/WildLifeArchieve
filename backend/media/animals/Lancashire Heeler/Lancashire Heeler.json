@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora ",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The name “heeler” comes from the fact that it nips at the heels of cattle to herd them.",
+    "Most Distinctive Feature": "The \"Heeler smile.\"",
+    "Temperament": "Intelligent, adaptable, and affectionate.",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2-5 puppies",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "9-17 pounds",
+    "Height": "8-12 inches ",
+    "Name": "Lancashire Heeler",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

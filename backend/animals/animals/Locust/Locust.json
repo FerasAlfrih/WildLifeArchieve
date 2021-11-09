@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Orthoptera",
+    "Family": "Acrididae",
+    "Group Behavior": "Swarm",
+    "Fun Fact": "Each locust can eat its weight in plants each day.",
+    "Diet": "Herbivore",
+    "Colour": "BrownBlackGreen",
+    "Skin Type": "Exoskeleton",
+    "Name": "Locust",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "Oceania",
+        "South-America"
+    ]
+}

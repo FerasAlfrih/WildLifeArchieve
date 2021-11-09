@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "These dogs are very energetic and would be up for a game at any given point of time",
+    "Distinctive Feature": "Small and sharply pointed ears",
+    "Temperament": "Friendly, loyal, playful, affectionate, and slightly stubborn sometimes",
+    "Diet": "Omnivore",
+    "Average Litter Size": "8",
+    "Type": "Mastiff",
+    "Common Name": "American Pit Bull Terrier",
+    "Slogan": "These dogs are very energetic and would be up for a game at any given point of time",
+    "Group": "Working dog",
+    "Colour": "BrownBlackWhiteTanBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "8 to 15 years",
+    "Name": "American Pit Bull Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

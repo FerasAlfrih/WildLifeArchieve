@@ -1,0 +1,25 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "When a Bluetick coonhound bays it sounds like it's singing a song.",
+    "Temperament": "Smart and brave",
+    "Training": "Should be trained from an early age due to their large size",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Common Name": "Bluetick Coonhound",
+    "Slogan": "Has an uncanny knack for problem-solving!",
+    "Group": "Hound",
+    "Colour": "GreyBlueBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "11-12 years",
+    "Name": "Bluetick Coonhound",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

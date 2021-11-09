@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Rajiformes",
+    "Family": "Rajidae",
+    "Prey": "Crustaceans, cephalopods, fish, mollusks ",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "Their \"mermaid pouches\" can be found on beaches across the world! ",
+    "Biggest Threat": "Ocean Trawling ",
+    "Most Distinctive Feature": "Flat body type that's similar to stringrays",
+    "Gestation Period": "Eggs take 3 to 5 months to hatch depending on species ",
+    "Water Type": "Salt",
+    "Litter Size": "Up to 40 eggs ",
+    "Habitat": "Generally found in along continental shelfs ",
+    "Predators": "Sharks ",
+    "Diet": "Carnivore",
+    "Origin": "Believed to have first evolved in the Jurassic Period (200 to 145 million years ago) ",
+    "Location": "Oceans across the world ",
+    "Slogan": "More than 200 species exist!",
+    "Colour": "Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "Up to 100 years ",
+    "Weight": "Up to 200 pounds (big skate) ",
+    "Length": "Up to 8 feet ",
+    "Age of Sexual Maturity": "About 10 years (common skate) ",
+    "Name": "Skate Fish",
+    "Status": "Least Concern",
+    "locations": [
+        "World Wide"
+    ]
+}

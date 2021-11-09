@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "These dogs love to swim and instinctively know how to swim.",
+    "Temperament": "Friendly, protective, and patient",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyRedBlack",
+    "Skin Type": "Hair",
+    "Lifespan": "10 years",
+    "Weight": "138 lbs",
+    "Name": "Golden Newfie",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

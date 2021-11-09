@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Cingulata",
+    "Family": "Dasypodidae",
+    "Genus": "Dasypus",
+    "Scientific Name": "Dasypodidae",
+    "Main Prey": "Insects, Ants, Termites",
+    "Distinctive Feature": "Armoured plated skin and can curl into a ball",
+    "Habitat": "Forest and grasslands",
+    "Predators": "Bear, Wolf, Coyote",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Mammal",
+    "Location": "United States",
+    "Slogan": "Can curl into a hard, protective ball!",
+    "Colour": "GreyBlackPink",
+    "Skin Type": "Boney Plates",
+    "Top Speed": "30 mph",
+    "Lifespan": "4 - 12 years",
+    "Weight": "4kg - 30kg (9lbs - 66lbs)",
+    "Length": "36cm - 75cm (14in - 30in)",
+    "Name": "Armadillo",
+    "Status": "Endangered",
+    "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Panthera",
+    "Scientific Name": "Panthera Tigris Amoyensis",
+    "Main Prey": "Deer, Cattle, Wild Boar",
+    "Habitat": "Dense tropical forest",
+    "Predators": "Human",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "There are less than 20 in the wild!",
+    "Colour": "BlackWhiteOrange",
+    "Skin Type": "Fur",
+    "Top Speed": "60 mph",
+    "Lifespan": "18 - 25 years",
+    "Weight": "100kg - 195kg (221lbs - 430lbs)",
+    "Name": "South China Tiger",
+    "Status": "Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

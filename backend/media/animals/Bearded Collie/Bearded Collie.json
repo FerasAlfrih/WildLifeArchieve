@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Loving, lively and playful",
+    "Training": "Should be trained from an early age and respond well to harsh techniques",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Common Name": "Bearded Collie",
+    "Slogan": "Weekly brushing is mandatory!",
+    "Group": "Herd",
+    "Colour": "BrownGreyBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Name": "Bearded Collie",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Rodentia",
+    "Family": "Sciuridae",
+    "Main Prey": "Fruit, Seeds, Insects",
+    "Fun Fact": "Small rodents found in woodlands worldwide!",
+    "Habitat": "Woodland and dense forests",
+    "Predators": "Snakes, Coyote, Weasels",
+    "Diet": "Omnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Small rodents found in woodlands worldwide!",
+    "Colour": "BrownGreyRedBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "16 mph",
+    "Lifespan": "2-8 years",
+    "Weight": "250-1,000g (0.5-2.2lbs)",
+    "Name": "Squirrel",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ]
+}

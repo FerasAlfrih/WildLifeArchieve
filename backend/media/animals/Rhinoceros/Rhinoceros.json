@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Perissodactyla",
+    "Family": "Rhinocerotidae",
+    "Scientific Name": "Rhinocerotidae",
+    "Main Prey": "Grass, Fruit, Berries, Leaves",
+    "Habitat": "Tropical bushland, grassland and savannas",
+    "Predators": "Human, Wild cats",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "It's horns are made from keratin!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Leather",
+    "Top Speed": "30 mph",
+    "Lifespan": "35-50 years",
+    "Weight": "800-3,500kg (1,765-7,716lbs)",
+    "Name": "Rhinoceros",
+    "Status": "Endangered",
+    "locations": [
+        "Africa",
+        "Asia"
+    ]
+}

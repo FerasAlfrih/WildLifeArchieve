@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Bos",
+    "Scientific Name": "Bos taurus indicus",
+    "Main Prey": "Grass. Seeds, Flowers",
+    "Habitat": "Tropical jungles and open plains",
+    "Predators": "Human, Bears, Wildcats",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "There are around 75 different species!",
+    "Colour": "BrownBlackWhite",
+    "Skin Type": "Leather",
+    "Top Speed": "25 mph",
+    "Lifespan": "12-16 years",
+    "Weight": "150-200kg (331-440lbs)",
+    "Name": "Zebu",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia"
+    ]
+}

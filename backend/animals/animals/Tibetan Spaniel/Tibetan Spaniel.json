@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Originally bred to be a companion dog in Tibetan Buddhist lamaseries.",
+    "Temperament": "Smart and attentive to owner",
+    "Diet": "Omnivore",
+    "Colour": "RedBlackWhiteGoldTanCream",
+    "Skin Type": "Hair",
+    "Lifespan": "12 – 15 years",
+    "Weight": "15 lbs",
+    "Name": "Tibetan Spaniel",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia"
+    ]
+}

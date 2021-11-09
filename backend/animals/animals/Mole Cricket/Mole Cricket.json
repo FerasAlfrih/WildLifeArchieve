@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Orthoptera",
+    "Family": "Gryllotalpidae",
+    "Prey": "Roots, worms and grubs",
+    "Fun Fact": "Adult Mole crickets may fly as far as 5 miles during mating season and are active most of the year.",
+    "Predators": "mammals, lizards, birds, toads, beetles, and spiders.",
+    "Diet": "Omnivore",
+    "Common Name": "Mole Cricket",
+    "Colour": "BrownRedTan",
+    "Skin Type": "Exoskeleton",
+    "Lifespan": "1 year",
+    "Weight": "0.5 grams",
+    "Length": "1½ inches",
+    "Name": "Mole Cricket",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

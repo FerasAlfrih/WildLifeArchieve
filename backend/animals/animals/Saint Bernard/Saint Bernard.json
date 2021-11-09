@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Saint Bernard dogs have a slow progression into mental adulthood, maintaining their puppy-like tendencies for years longer than other breeds.",
+    "Temperament": "Intelligent, friendly, loyal",
+    "Diet": "Omnivore",
+    "Common Name": "Saint Bernard",
+    "Slogan": "Gentle, loyal and friendly!",
+    "Group": "Mastiff",
+    "Colour": "BrownYellowRedWhiteBrindleWhite-BrownMulti-colored",
+    "Skin Type": "Hair",
+    "Lifespan": "10 years",
+    "Weight": "91kg (200lbs)",
+    "Name": "Saint Bernard",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Labradoodle",
+    "Slogan": "Friendly and energetic mix-breed!",
+    "Group": "Hybrid Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "34kg (75lbs)",
+    "Name": "Labradoodle",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Passeriformes",
+    "Family": "Corvidae",
+    "Genus": "Corvus",
+    "Scientific Name": "Corvus Hawaiiensis",
+    "Group Behavior": "Flocks",
+    "Fun Fact": "One of the few known animals to use tools",
+    "Most Distinctive Feature": "Dark sheen",
+    "Wingspan": "36in - 42in",
+    "Water type": "Saltwater",
+    "Habitat": "Semi-dry Forests",
+    "Diet": "Omnivore",
+    "Common Name": "Hawaiian Crow",
+    "Location": "Hawaii",
+    "Slogan": "Once believed to be a family guardian spirit in Hawaii",
+    "Group": "Birds",
+    "Skin Type": "Feathers",
+    "Lifespan": "18 Years In the Wild",
+    "Weight": "1lb - 1.2lbs",
+    "Length": "18in - 20in",
+    "Name": "Hawaiian Crow",
+    "Status": "Extinct in the Wild",
+    "locations": [
+        "World Wide"
+    ]
+}

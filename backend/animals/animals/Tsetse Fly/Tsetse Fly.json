@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Diptera",
+    "Family": "Glossinidae",
+    "Genus": "Glossina",
+    "Fun Fact": "Tsetse flies are large biting flies that live in the tropical regions of Africa.",
+    "Diet": "Carnivore",
+    "Location": "Sub-Sahara Africa",
+    "Colour": "BrownYellow",
+    "Top Speed": "15.5 mph",
+    "Lifespan": "4 months",
+    "Length": "0.25-and-0.5-inches",
+    "Name": "Tsetse Fly",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa"
+    ]
+}

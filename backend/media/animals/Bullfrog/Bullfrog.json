@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Ranidae",
+    "Genus": "Lithobates",
+    "Scientific Name": "Lithobates catesbeianus",
+    "Main Prey": "Insects, Spiders, Small Fish",
+    "Fun Fact": "Has loud cow-like calls!",
+    "Distinctive Feature": "Powerful legs and cow-like call",
+    "Habitat": "Lakes, ponds, rivers and streams",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Average Clutch Size": "20000",
+    "Slogan": "Has loud cow-like calls!",
+    "Colour": "BrownGreyYellowBlackGreen",
+    "Skin Type": "Permeable",
+    "Top Speed": "10 mph",
+    "Lifespan": "6 - 10 years",
+    "Weight": "300g - 500g (10.5oz - 17.6oz)",
+    "Length": "9cm - 15cm (3.5in - 6in)",
+    "Name": "Bullfrog",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "North-America",
+        "Ocean"
+    ]
+}

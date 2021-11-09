@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canus Lupus Arcticus",
+    "Main Prey": "Deer, Elk, Moose",
+    "Habitat": "Grass plains and tundra forests",
+    "Predators": "Human",
+    "Diet": "Carnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Pack",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "Incredibly versatile and adaptive!",
+    "Colour": "GreyWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "46 mph",
+    "Lifespan": "7 - 10 years",
+    "Weight": "25kg - 40kg (55lbs - 88lbs)",
+    "Length": "60cm - 91cm (24in - 36in)",
+    "Name": "Arctic Wolf",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

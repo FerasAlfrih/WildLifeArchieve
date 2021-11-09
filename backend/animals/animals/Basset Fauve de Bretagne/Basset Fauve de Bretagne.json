@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "A friendly and intelligent hunting dog that loves nothing more than to spend time with its owner.",
+    "Temperament": "Intelligent, playful, and diligent",
+    "Diet": "Omnivore",
+    "Colour": "FawnRedBlonde",
+    "Skin Type": "Hair",
+    "Lifespan": "10 - 14 years",
+    "Weight": "35lbs",
+    "Name": "Basset Fauve de Bretagne",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

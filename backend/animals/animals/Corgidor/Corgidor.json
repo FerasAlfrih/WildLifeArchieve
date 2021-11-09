@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Corgidors are herding dogs that typically help out on cattle farms.",
+    "Diet": "Omnivore",
+    "Name": "Corgidor",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Malacostraca",
+    "Order": "Decapoda",
+    "Family": "Lithodidae",
+    "Genus": "Lopholithodes",
+    "Scientific Name": "Lopholithodes Mandtii",
+    "Main Prey": "Molluscs, Fish, Sea Urchin",
+    "Habitat": "Cold coastal waters and continental shelves",
+    "Predators": "Human, Larger Fish, Octopus",
+    "Diet": "Carnivore",
+    "Average Litter Size": "7",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Molluscs",
+    "Type": "Crustacean",
+    "Slogan": "Can have a leg span of nearly 2 meters!",
+    "Colour": "RedBlueOrange",
+    "Skin Type": "Shell",
+    "Top Speed": "7 mph",
+    "Lifespan": "15-30 years",
+    "Weight": "2-8kg (4.4-18lbs)",
+    "Name": "King Crab",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

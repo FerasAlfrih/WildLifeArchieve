@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Lepidoptera",
+    "Main Prey": "Nectar, Pollen, Honey",
+    "Fun Fact": "There are thought to be up 20,000 species!",
+    "Habitat": "Quiet forests and pastures",
+    "Diet": "Herbivore",
+    "Average Litter Size": "100",
+    "Favorite Food": "Nectar",
+    "Common Name": "Butterfly",
+    "Number Of Species": "12000",
+    "Location": "Worldwide",
+    "Colour": "YellowRedBlueBlackWhiteGreenOrange",
+    "Skin Type": "Hair",
+    "Name": "Butterfly",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean",
+        "Oceania",
+        "South-America"
+    ]
+}

@@ -1,0 +1,15 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis familiaris",
+    "Fun Fact": "This dog is known for cocking its head in a curious manner when listening to its owner.",
+    "Diet": "Omnivore",
+    "Name": "Westiepoo",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

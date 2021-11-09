@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Bos",
+    "Name Of Young": "Calves",
+    "Group Behavior": "Herds",
+    "Fun Fact": "The ancestor of all domesticated cattle!",
+    "Estimated Population Size": "None",
+    "Most Distinctive Feature": "Its impressive size",
+    "Habitat": "Grasslands, floodplains, and light woodlands",
+    "Predators": "Wolves and large cats",
+    "Diet": "Omnivore",
+    "Favorite Food": "Grass",
+    "Common Name": "Aurochs",
+    "Location": "Europe, Asia, and North Africa",
+    "Slogan": "Extinct ancestor of all domesticated cattle!",
+    "Group": "Cattle",
+    "Skin Type": "Hair",
+    "Lifespan": "Perhaps 20 years on average",
+    "Weight": "Up to 1,360kg (3,000lbs)",
+    "Height": "1.2m – 1.8m (4ft – 6ft)",
+    "Age of Sexual Maturity": "A few years",
+    "Name": "Aurochs",
+    "Status": "Extinct",
+    "locations": [
+        "Asia",
+        "Europe",
+        "North-America"
+    ]
+}

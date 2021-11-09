@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Glechons are talented in the area of search and rescue, as their sense of smell makes them great at tracking.",
+    "Temperament": "Brave yet laid back",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyYellowBlackWhiteMulti-colored",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 15 years",
+    "Weight": "35 Lbs",
+    "Name": "Glechon",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

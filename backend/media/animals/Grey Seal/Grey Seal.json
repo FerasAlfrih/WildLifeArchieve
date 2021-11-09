@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Phocidae",
+    "Genus": "Halichoerus",
+    "Scientific Name": "Halichoerus Grypus",
+    "Main Prey": "Fish, Squid, Sandeels",
+    "Habitat": "Cool waters and rocky shores",
+    "Predators": "Human, Sharks, Killer Whale",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Fish",
+    "Type": "Mammal",
+    "Slogan": "One of the rarest species of seal on Earth",
+    "Colour": "GreyTan",
+    "Skin Type": "Smooth",
+    "Top Speed": "6 mph",
+    "Lifespan": "18-25 years",
+    "Weight": "150-300kg (330-660lbs)",
+    "Name": "Grey Seal",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

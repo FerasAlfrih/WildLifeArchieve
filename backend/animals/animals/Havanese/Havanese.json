@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Havanese dogs are known to be overly attached to their owner families, often bonding with young children and older adults alike",
+    "Water type": "Saltwater",
+    "Diet": "Omnivore",
+    "Common Name": "Havanese",
+    "Slogan": "These are the only dogs that are native to Cuba",
+    "Group": "Toy",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "13lbs",
+    "Name": "Havanese",
+    "Status": "Not Listed",
+    "locations": [
+        "Central-America"
+    ]
+}

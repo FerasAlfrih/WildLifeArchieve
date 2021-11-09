@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Hylobatidae",
+    "Genus": "Hylobates",
+    "Scientific Name": "Hylobatidae",
+    "Main Prey": "Fruit, Eggs, Insects",
+    "Habitat": "Dense forest and jungle",
+    "Predators": "Leopards, Snakes, Birds Of Prey",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Found in dense jungles and tropical forests!",
+    "Colour": "BrownGreyYellowBlackWhite",
+    "Skin Type": "Hair",
+    "Top Speed": "35 mph",
+    "Lifespan": "25-40 years",
+    "Weight": "6-9kg (13.2-19.8lbs)",
+    "Name": "Gibbon",
+    "Status": "Near Threatened",
+    "locations": [
+        "Asia"
+    ]
+}

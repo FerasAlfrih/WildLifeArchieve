@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Temperament": "Intelligent, quiet and calm",
+    "Training": "Should be trained from an early age using short, ongoing sessions as assertive training methods tend to be ineffective",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Common Name": "American Water Spaniel",
+    "Slogan": "Friendly and intelligent!",
+    "Group": "Gun Dog",
+    "Colour": "BrownBlackDark Brown",
+    "Skin Type": "Hair",
+    "Name": "American Water Spaniel",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

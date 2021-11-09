@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The \"Australian\" just refers to where the breed originated",
+    "Diet": "Omnivore",
+    "Colour": "BrownRedBlueBlackGoldCreamSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "13-16 years",
+    "Weight": "20-65lbs",
+    "Name": "Australian Labradoodle",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

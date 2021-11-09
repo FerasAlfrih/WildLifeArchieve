@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Suidae",
+    "Genus": "Phacochoerus",
+    "Scientific Name": "Phacochoerus africanus",
+    "Main Prey": "Grass, Roots, Bulbs",
+    "Habitat": "Arid savannas and grass plains",
+    "Predators": "Lion, Hyena, Crocodile",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Group",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Has two sets of tusks on it's face!",
+    "Colour": "BrownGreyTan",
+    "Skin Type": "Hair",
+    "Top Speed": "30 mph",
+    "Lifespan": "12-18 years",
+    "Weight": "50-150kg (110-330lbs)",
+    "Name": "Warthog",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa"
+    ]
+}

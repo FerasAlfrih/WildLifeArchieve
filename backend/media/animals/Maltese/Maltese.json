@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Maltese",
+    "Slogan": "Originally bred in Europe!",
+    "Group": "Gun Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "17 years",
+    "Weight": "3kg (7lbs)",
+    "Name": "Maltese",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Strigiformes",
+    "Family": "Strigidae",
+    "Genus": "Strix",
+    "Scientific Name": "Strix aluco",
+    "Main Prey": "Mice, Vole, Insects",
+    "Distinctive Feature": "Large eyes and fantastic hearing",
+    "Wingspan": "81cm - 105cm (32in - 41in)",
+    "Habitat": "Dense forest and open woodland",
+    "Predators": "Hawks, Eagles, Buzzards",
+    "Diet": "Omnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Mice",
+    "Type": "Bird",
+    "Average Clutch Size": "3",
+    "Slogan": "The most widespread owl in Europe!",
+    "Colour": "BrownGreyBlackWhiteTan",
+    "Skin Type": "Feathers",
+    "Top Speed": "50 mph",
+    "Lifespan": "4 - 6 years",
+    "Weight": "350g - 650g (12oz - 23oz)",
+    "Height": "38cm - 43cm (15in - 17in)",
+    "Name": "Tawny Owl",
+    "Status": "Near Threatened",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ]
+}

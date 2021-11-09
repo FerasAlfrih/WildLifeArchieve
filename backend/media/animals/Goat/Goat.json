@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Capra",
+    "Main Prey": "Grass, Fruit, Leaves",
+    "Fun Fact": "Most closely related to the Sheep!",
+    "Habitat": "Dry woodland and mountainous regions",
+    "Predators": "Human, Wolf, Mountain Lion",
+    "Diet": "Herbivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Most closely related to the Sheep!",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "10 mph",
+    "Lifespan": "10-15 years",
+    "Weight": "54-77kg (120-170lbs)",
+    "Name": "Goat",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ]
+}

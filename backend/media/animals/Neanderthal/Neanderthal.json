@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Hominidae",
+    "Genus": "Homo",
+    "Scientific Name": "Homo Sapiens Neanderthalensis",
+    "Main Prey": "Vegetables, Fruit, Fish",
+    "Habitat": "Worldwide based near rivers",
+    "Predators": "Bears, Lion, Tiger",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Group",
+    "Favorite Food": "Vegetables",
+    "Type": "Mammal",
+    "Slogan": "Roamed Asia and Europe for around 100,000 years!",
+    "Colour": "BrownBlackWhiteTanOlive",
+    "Skin Type": "Smooth",
+    "Top Speed": "5 mph",
+    "Lifespan": "35-50 years",
+    "Weight": "60-70kg (132-154lb)",
+    "Name": "Neanderthal",
+    "Status": "Extinct",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ]
+}

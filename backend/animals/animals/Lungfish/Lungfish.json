@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Sarcopterygii",
+    "Order": "Dipnoi",
+    "Scientific Name": "Dipnoi",
+    "Prey": "Worms, crustaceans, insects, amphibians, plants, and other lungfish",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "The lungfish first evolved almost 400 million years ago.",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Habitat changes",
+    "Most Distinctive Feature": "Modified lungs for buoyancy, breathing, and waste extraction",
+    "Other Name(s)": "Salamander fish",
+    "Gestation Period": "1-2 weeks",
+    "Water Type": "Fresh",
+    "Optimum pH Level": "Varies",
+    "Habitat": "Rivers, lakes, wetlands and streams",
+    "Predators": "Humans",
+    "Diet": "Omnivore",
+    "Number Of Species": "6",
+    "Colour": "BrownGreyYellowBlueGreen",
+    "Skin Type": "Scales",
+    "Lifespan": "More than 20 years",
+    "Weight": "Up to 37 lbs",
+    "Length": "Up to 7 feet",
+    "Name": "Lungfish",
+    "Status": "Endangered",
+    "locations": [
+        "Africa",
+        "Oceania",
+        "South-America"
+    ]
+}

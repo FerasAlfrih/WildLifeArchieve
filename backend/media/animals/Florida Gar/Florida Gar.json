@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Lepisosteiformes",
+    "Family": "Lepisosteidae",
+    "Genus": "Lepisosteus",
+    "Scientific Name": "Lepisosteus platyrhincus",
+    "Main Prey": "Fish, shrimp, and crayfish",
+    "Group Behavior": "School",
+    "Fun Fact": "The Florida gar has toxic eggs to protect against predators",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Habitat loss",
+    "Most Distinctive Feature": "Sharp teeth",
+    "Other Name(s)": "Garpike",
+    "Gestation Period": "A few days",
+    "Habitat": "Rivers, lakes, canals, and wetlands",
+    "Predators": "Humans, alligators, and birds",
+    "Diet": "Carnivore",
+    "Type": "Ray-finned fish",
+    "Common Name": "Florida Gar",
+    "Number Of Species": "1",
+    "Colour": "BrownBlackWhiteGreen",
+    "Lifespan": "Unknown",
+    "Weight": "Up to 10lbs",
+    "Length": "Up to 1.3m (52in)",
+    "Name": "Florida Gar",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

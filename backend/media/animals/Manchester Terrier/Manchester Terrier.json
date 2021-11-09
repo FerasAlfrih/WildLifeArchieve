@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Hemichordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Fences are no match for Manchester terriers. They’re great escape artists!",
+    "Temperament": "Alert, observant, devoted, and discerning",
+    "Diet": "Omnivore",
+    "Colour": "BlueBlackTan",
+    "Skin Type": "Hair",
+    "Lifespan": "15-17years",
+    "Weight": "12 lbs",
+    "Name": "Manchester Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

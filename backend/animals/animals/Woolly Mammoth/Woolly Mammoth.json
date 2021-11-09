@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Proboscidea",
+    "Family": "Elephantidae",
+    "Genus": "Mammuthus",
+    "Scientific Name": "Mammuthus Primigenius",
+    "Main Prey": "Grasses, Twigs, Rushes",
+    "Distinctive Feature": "Long, thick hair and enormous tusks",
+    "Habitat": "Arctic Tundra",
+    "Predators": "Sabre-toothed cats and humans",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grasses",
+    "Type": "Mammal",
+    "Slogan": "Tusks grew to 16ft long!",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Hair",
+    "Lifespan": "60 - 80 years",
+    "Weight": "8000kg (8.8tons)",
+    "Height": "1.8m - 4m (6ft - 13ft)",
+    "Name": "Woolly Mammoth",
+    "Status": "Extinct",
+    "locations": [
+        "Ocean"
+    ]
+}

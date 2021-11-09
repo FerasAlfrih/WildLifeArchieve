@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Lagomorpha",
+    "Family": "Leporidae",
+    "Genus": "Oryctolagus",
+    "Scientific Name": "Oryctolagus cuniculus",
+    "Main Prey": "Clover, Grass, Crunchy vegetables",
+    "Habitat": "Forest thickets, meadows and woodland",
+    "Predators": "Foxes, wolves, bobcats, eagles, owls, coyotes ",
+    "Diet": "Herbivore",
+    "Average Litter Size": "6",
+    "Lifestyle": "Group",
+    "Favorite Food": "Clover",
+    "Type": "Mammal",
+    "Slogan": "There are more than 50 different species!",
+    "Colour": "BrownGreyBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "2.4 mph",
+    "Lifespan": "4-8 years",
+    "Weight": "0.5-3kg (1.1-6.6lbs)",
+    "Name": "Rabbit",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

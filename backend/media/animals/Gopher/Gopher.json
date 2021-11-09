@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Rodentia",
+    "Family": "Geomyidae",
+    "Genus": "Geomys",
+    "Scientific Name": "Geomys bursarius",
+    "Main Prey": "Roots, Fruit, Leaves",
+    "Habitat": "Woodland and grass prairies",
+    "Predators": "Owls, Snakes, Coyotes",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Lifestyle": "Social",
+    "Favorite Food": "Roots",
+    "Type": "Mammal",
+    "Slogan": "They dig large networks of tunnels!",
+    "Colour": "BrownTan",
+    "Skin Type": "Fur",
+    "Top Speed": "16 mph",
+    "Lifespan": "3-5 years",
+    "Weight": "220-1,000g (7.8-35.2oz)",
+    "Name": "Gopher",
+    "Status": "Near Threatened",
+    "locations": [
+        "Central-America",
+        "North-America"
+    ]
+}

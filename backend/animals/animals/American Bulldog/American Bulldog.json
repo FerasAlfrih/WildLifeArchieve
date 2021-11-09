@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "American bulldogs are working dogs that have been used on farms and ranches across the country.",
+    "Distinctive Feature": "Small pendant shaped ears and strong body",
+    "Temperament": "Assertive but loyal and friendly",
+    "Training": "Hard",
+    "Diet": "Omnivore",
+    "Average Litter Size": "8",
+    "Type": "Mastiff",
+    "Common Name": "American Bulldog",
+    "Slogan": "Can jump up to 6ft high!",
+    "Group": "Dog",
+    "Colour": "BrownRedBlackWhiteTanBrindle",
+    "Skin Type": "Hair",
+    "Name": "American Bulldog",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

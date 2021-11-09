@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Cercopithecidae",
+    "Genus": "Mandrillus",
+    "Scientific Name": "Mandrillus Sphinx",
+    "Main Prey": "Fruit, Roots, Insects",
+    "Habitat": "Dense and coastal tropical forests",
+    "Predators": "Leopard, Eagles, Snakes",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Distinctively coloured noses and rumps!",
+    "Colour": "BrownGreyBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "25 mph",
+    "Lifespan": "20-28 years",
+    "Weight": "11.5-30kg (25-60lbs)",
+    "Name": "Mandrill",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa"
+    ]
+}

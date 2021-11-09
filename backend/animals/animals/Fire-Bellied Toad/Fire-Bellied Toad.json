@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Bombinatoridae",
+    "Genus": "Bombina",
+    "Scientific Name": "Bombina",
+    "Main Prey": "Insects, Worms, Spiders",
+    "Distinctive Feature": "Brightly coloured belly and long toes",
+    "Habitat": "Forests, jungle and marshes",
+    "Predators": "Foxes, Snakes, Birds",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Average Clutch Size": "200",
+    "Slogan": "Found across mainland Europe and Asia!",
+    "Colour": "BrownGreyYellowRedBlackGreenOrange",
+    "Skin Type": "Permeable",
+    "Top Speed": "5 mph",
+    "Lifespan": "10 - 15 years",
+    "Weight": "20g - 80g (0.7oz - 2.8oz)",
+    "Length": "4cm - 7cm (1.5in - 3in)",
+    "Name": "Fire-Bellied Toad",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Europe"
+    ]
+}

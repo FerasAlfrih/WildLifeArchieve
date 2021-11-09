@@ -1,0 +1,25 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Basset hounds have a stubborn streak that manifests as a charming personality trait!",
+    "Temperament": "Friendly but stubborn",
+    "Training": "Should be trained in obedience from an early age due to their stubborn nature",
+    "Diet": "Omnivore",
+    "Average Litter Size": "8",
+    "Common Name": "Basset Hound Dog",
+    "Slogan": "Forget the training when not rewarded!",
+    "Group": "Hound",
+    "Colour": "BrownRedBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10 – 12 years",
+    "Name": "Basset Hound",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Vulpes",
+    "Scientific Name": "Vulpes lagopus",
+    "Main Prey": "Lemmings, voles, hares, other small rodents, berries, insects",
+    "Name Of Young": "kit",
+    "Distinctive Feature": "Thick fur that changes colour with season",
+    "Habitat": "Polar forest regions",
+    "Predators": "Snowy Owl, Wolf, Polar Bear",
+    "Diet": "Carnivore",
+    "Average Litter Size": "5",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Lemmings",
+    "Type": "Mammal",
+    "Slogan": "Extremely thick winter fur!",
+    "Colour": "GreyBlackWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "30 mph",
+    "Lifespan": "7 - 10 years",
+    "Weight": "1.4kg - 9.4kg (3lbs - 21lbs)",
+    "Length": "70cm - 110cm (28in - 43in)",
+    "Name": "Arctic Fox",
+    "Status": "Least Concern",
+    "locations": [
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

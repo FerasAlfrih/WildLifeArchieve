@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Gekkonidae",
+    "Genus": "Uroplatus",
+    "Main Prey": "Spiders, Insects, Worms",
+    "Fun Fact": "Only found on Madagascar!",
+    "Distinctive Feature": "Sticky toes and broad, flattened tail",
+    "Habitat": "Dense tropical jungle",
+    "Predators": "Owls, Rats, Snakes",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Spiders",
+    "Type": "Reptile",
+    "Average Clutch Size": "3",
+    "Slogan": "Only found on Madagascar!",
+    "Colour": "BrownBlackTanGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "30 mph",
+    "Lifespan": "2 - 9 years",
+    "Weight": "10g - 30g (0.35oz - 1oz)",
+    "Length": "10cm - 30cm (4in - 12in)",
+    "Name": "Leaf-Tailed Gecko",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa"
+    ]
+}

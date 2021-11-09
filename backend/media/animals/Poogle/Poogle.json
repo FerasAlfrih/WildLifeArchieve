@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Poogle is one of 40 different doodle dog breeds (poodle mixes).",
+    "Temperament": "Friendly, playful and rollicking",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10 and 13 years",
+    "Weight": "13 pounds",
+    "Name": "Poogle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

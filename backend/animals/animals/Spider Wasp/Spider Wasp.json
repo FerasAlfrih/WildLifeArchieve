@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Hymenoptera",
+    "Family": "Pompilidae",
+    "Prey": "Spiders",
+    "Fun Fact": "They prey on spiders to feed their larvae or they parasitize other spider wasps.",
+    "Habitat": "Loose soil, rocks, or rotted wood.",
+    "Predators": "mammals, birds, reptiles, and amphibians",
+    "Diet": "Carnivore",
+    "Colour": "YellowBlueBlackOrange",
+    "Skin Type": "Exoskeleton",
+    "Weight": "10 to 19 mg",
+    "Name": "Spider Wasp",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

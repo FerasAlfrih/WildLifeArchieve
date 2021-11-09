@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Panthera",
+    "Scientific Name": "Panthera Tigris Tigris",
+    "Main Prey": "Deer, Cattle, Wild Boar",
+    "Habitat": "Dense tropical forest and mangroves",
+    "Predators": "Human",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "The most numerous species of tiger!",
+    "Colour": "BlackWhiteOrange",
+    "Skin Type": "Fur",
+    "Top Speed": "60 mph",
+    "Lifespan": "18 - 25 years",
+    "Weight": "140kg - 300kg (309lbs - 660lbs)",
+    "Length": "2.4m - 3.3m (6.8ft - 11ft)",
+    "Name": "Bengal Tiger",
+    "Status": "Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Golden Pyrenees make great therapy dogs due to their intelligence and gentle nature.",
+    "Temperament": "Energetic and gentle",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyYellowBlackWhiteGoldCream",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 13 years",
+    "Weight": "110 lbs",
+    "Name": "Golden Pyrenees",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

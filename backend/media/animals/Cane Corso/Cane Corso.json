@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Cane Corsos nearly became extinct in the mid 1900’s, but the breed was revived by a group of Italians. Even so, they still didn’t become known in many other parts of the world until after 1988.",
+    "Temperament": "Confident, affectionate, and intelligent",
+    "Diet": "Omnivore",
+    "Colour": "GreyFawnRedBlack",
+    "Skin Type": "Hair",
+    "Lifespan": "9 to 12 years",
+    "Weight": "110 pounds",
+    "Name": "Cane Corso",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

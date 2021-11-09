@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Perissodactyla",
+    "Family": "Rhinocerotidae",
+    "Genus": "Ceratotherium",
+    "Scientific Name": "Ceratotherium simum",
+    "Main Prey": "Grass, Fruit, Berries, Leaves",
+    "Habitat": "Tropical bushland, grassland and savannas",
+    "Predators": "Human, Wild cats",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "The second largest animal on the land!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Leather",
+    "Top Speed": "30 mph",
+    "Lifespan": "45-50 years",
+    "Weight": "1,440-3,600kg (3,168-7,920lbs)",
+    "Name": "White Rhinoceros",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa"
+    ]
+}

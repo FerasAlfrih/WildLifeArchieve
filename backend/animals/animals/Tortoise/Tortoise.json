@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Testudines",
+    "Family": "Testudinidae",
+    "Main Prey": "Grass, Weeds, Leafy greens",
+    "Fun Fact": "Can live until they are more than 150 years old!",
+    "Habitat": "Sandy soil close to water",
+    "Diet": "Herbivore",
+    "Average Litter Size": "5",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grass",
+    "Type": "Reptile",
+    "Slogan": "Can live until they are more than 150 years old!",
+    "Colour": "BrownGreyYellowBlackGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "0.3 mph",
+    "Lifespan": "30-150 years",
+    "Weight": "0.1-300kg (0.2-661lbs)",
+    "Name": "Tortoise",
+    "Status": "Endangered",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

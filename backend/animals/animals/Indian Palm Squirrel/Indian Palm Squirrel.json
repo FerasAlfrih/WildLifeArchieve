@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Rodentia",
+    "Family": "Sciuridae",
+    "Genus": "Funambulus",
+    "Scientific Name": "Funambulus Palmarum",
+    "Main Prey": "Eggs, Fruit, Insects",
+    "Habitat": "Thick forest and tropical jungles",
+    "Predators": "Human, Snakes, Wildcats",
+    "Diet": "Omnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Eggs",
+    "Type": "Mammal",
+    "Slogan": "Natively found in parts of India and Sri Lanka!",
+    "Colour": "BrownYellowTan",
+    "Skin Type": "Fur",
+    "Top Speed": "10 mph",
+    "Lifespan": "2-4 years",
+    "Weight": "100-120g (3.5-4.2oz)",
+    "Name": "Indian Palm Squirrel",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Ocean"
+    ]
+}

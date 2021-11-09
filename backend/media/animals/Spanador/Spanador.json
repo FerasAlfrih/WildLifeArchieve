@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Spanador is a good swimmer.",
+    "Diet": "Omnivore",
+    "Name": "Spanador",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

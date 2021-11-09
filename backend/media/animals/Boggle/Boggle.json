@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Boggles at animal rescues are often mistaken for pitbulls because they have a similar facial structure.",
+    "Temperament": "Strong, loving, and loyal",
+    "Diet": "Omnivore",
+    "Colour": "BlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10-13 years",
+    "Weight": "65 lbs",
+    "Name": "Boggle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

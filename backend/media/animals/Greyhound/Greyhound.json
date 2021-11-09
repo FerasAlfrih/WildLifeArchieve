@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Greyhound",
+    "Slogan": "Extremely fast and athletic!",
+    "Group": "South",
+    "Skin Type": "Hair",
+    "Lifespan": "11 years",
+    "Weight": "32kg (70lbs)",
+    "Name": "Greyhound",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

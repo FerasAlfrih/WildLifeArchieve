@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Despite its small size, the alert nature and sharp bark of this canine make it a good watch dog.",
+    "Temperament": "Energetic and intelligent",
+    "Diet": "Omnivore",
+    "Colour": "BrownWhiteCreamDark Grey",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15years",
+    "Weight": "18 lbs",
+    "Name": "Bichpoo",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

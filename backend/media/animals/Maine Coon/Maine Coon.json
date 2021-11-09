@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "Folklore says it's half cat, half raccoon!",
+    "Other Name(s)": "Coon Cat, Maine Cat, Maine Shag, American Longhair, American Coon Cat, American Forest Cat",
+    "Temperament": "Intelligent, loving and affectionate",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Common Name": "Gentle Giant",
+    "Slogan": "Folklore says it's half cat, half raccoon!",
+    "Group": "Longhair",
+    "Colour": "BrownRedBlueBlackWhiteGoldCreamSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "9-13 years",
+    "Weight": "8-12lbs, up to 15lbs for females and 25lbs for males",
+    "Name": "Maine Coon",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

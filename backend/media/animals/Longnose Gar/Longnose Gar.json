@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Lepisosteiformes",
+    "Family": "Lepisosteidae",
+    "Genus": "Lepisosteus",
+    "Scientific Name": "Lepisosteus osseus",
+    "Main Prey": "Menhaden, sunfish, and perch",
+    "Fun Fact": "The longnose gar species of the gar family has potentially existed for 100 million years.",
+    "Estimated Population Size": "Not known",
+    "Biggest Threat": "Birds that prey on fish",
+    "Most Distinctive Feature": "Long body with a beak-like mouth",
+    "Other Name(s)": "The needle nose gar or the Billy gar",
+    "Gestation Period": "7-9 days",
+    "Water Type": "Brackish",
+    "Optimum pH Level": "4.8 to 6.4",
+    "Habitat": "Brackish waters, fresh waters, saline waters (Not salty waters). Found in Texas, Mexico, Florida, Michigan, and Wisconsin",
+    "Predators": "Birds that prey on fish",
+    "Diet": "Carnivore",
+    "Type": "Fish",
+    "Common Name": "Longnose gar",
+    "Colour": "BrownGreyBlackOlive",
+    "Skin Type": "Scales",
+    "Lifespan": "Up to 20 years",
+    "Weight": "28 lbs",
+    "Length": "Up to 6.5 feet",
+    "Name": "Longnose Gar",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

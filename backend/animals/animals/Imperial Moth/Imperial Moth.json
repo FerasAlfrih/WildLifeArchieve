@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Lepidoptera",
+    "Family": "Saturniidae",
+    "Genus": "Eacles",
+    "Scientific Name": "Eacles imperialis",
+    "Fun Fact": " Since the imperial moth doesn’t eat, it does die shortly after it lays its eggs. Its lifespan is only about one week.",
+    "Wingspan": "3-7 inches",
+    "Habitat": "deciduous, mixed, and coniferous forests",
+    "Predators": "Birds, mammals and insects",
+    "Diet": "Herbivore",
+    "Favorite Food": "oak, hickory, walnut, sycamore, basswood, maple, honey locust, chokecherry, sumac, sweet gum, sassafras, elm, beech, hornbeam, birch, alder, pine, spruce, hemlock, cedar, cypress, and juniper leaves",
+    "Group": "univoltine",
+    "Colour": "GreyYellowWhiteDark BrownOrangePurplePinkLight-Brown",
+    "Skin Type": "Exoskeleton",
+    "Lifespan": "Approximately one week",
+    "Length": "3.14-6.88 inches",
+    "Name": "Imperial Moth",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Peagles enjoy being the center of attention. This can make them a very entertaining breed to own.",
+    "Temperament": "Fun-loving and gentle",
+    "Diet": "Omnivore",
+    "Colour": "BlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 14 years",
+    "Weight": "18 pounds",
+    "Name": "Peagle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

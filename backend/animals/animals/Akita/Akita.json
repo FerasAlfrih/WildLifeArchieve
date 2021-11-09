@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Although originating from Japan, the Akita has an American equivalent mix",
+    "Distinctive Feature": "Pointed ears and upward curving tail",
+    "Temperament": "Intelligent, courageous and fearless",
+    "Training": "Medium - Hard",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Type": "Working",
+    "Common Name": "Akita",
+    "Slogan": "Very clean, intelligent and loyal!",
+    "Group": "Dog",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "10 – 15 years",
+    "Weight": "130 lbs",
+    "Name": "Akita",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Deutsche Bracke",
+    "Slogan": "Has long drop ears and a long narrow tail!",
+    "Group": "Hound",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "18kg (40lbs)",
+    "Name": "Deutsche Bracke",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

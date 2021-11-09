@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Happy, playful and energetic",
+    "Training": "Should be trained from an early age due to its hyperactive nature",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Bichon Frise",
+    "Slogan": "Gentle mannered, playful and affectionate!",
+    "Group": "Gun Dog",
+    "Colour": "White",
+    "Skin Type": "Hair",
+    "Name": "Bichon Frise",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

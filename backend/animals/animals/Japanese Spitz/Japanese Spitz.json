@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora ",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Japanese Spitz is sometimes referred to as a cloud dog.",
+    "Most Distinctive Feature": "Pure white coat with a mane-like neck.",
+    "Temperament": "Charming, playful, affectionate, and loyal. ",
+    "Diet": "Omnivore",
+    "Colour": "White",
+    "Skin Type": "Hair",
+    "Lifespan": "10-16 years",
+    "Weight": "10-25 pounds",
+    "Height": "12-15 inches",
+    "Name": "Japanese Spitz",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Chinese Crested Dog",
+    "Slogan": "A hairless breed of dog!",
+    "Group": "South",
+    "Skin Type": "Hair",
+    "Lifespan": "13 years",
+    "Weight": "4.5kg (10lbs)",
+    "Name": "Chinese Crested Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

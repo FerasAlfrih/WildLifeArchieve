@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Elopiformes",
+    "Family": "Megalopidae",
+    "Genus": "Megalops",
+    "Prey": "Fish and large invertebrates",
+    "Group Behavior": "School",
+    "Fun Fact": "Its genus dates back to the Cretaceous period – 113 million years ago",
+    "Biggest Threat": "Fishing, river damming, pollution",
+    "Most Distinctive Feature": "Large, silvery scales on sides",
+    "Other Name(s)": "Silver king, grand ecaille, sabalo real",
+    "Water Type": "Salt",
+    "Habitat": "Bays, mangrove lagoons, coastal waters",
+    "Predators": "Sharks, porpoises, alligators",
+    "Diet": "Carnivore",
+    "Type": "Fish",
+    "Common Name": "Tarpon",
+    "Number Of Species": "2",
+    "Colour": "BlueBlackGreenSilver",
+    "Skin Type": "Scales",
+    "Lifespan": "Males-30+ years; females-50+ years",
+    "Weight": "100 pounds+",
+    "Length": "6 feet",
+    "Name": "Tarpon",
+    "Status": "Vulnerable",
+    "locations": [
+        "Ocean"
+    ]
+}

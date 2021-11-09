@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Procyonidae",
+    "Genus": "Potos",
+    "Scientific Name": "Potos flavus",
+    "Main Prey": "Fruit, small mammals or insects",
+    "Group Behavior": "Group",
+    "Fun Fact": "The kinkajou is a nimble forest-dwelling mammal of Central and South America.",
+    "Estimated Population Size": "Deforestation",
+    "Most Distinctive Feature": "Long prehensile tail, which acts as a sort of third limb that can grip objects or branches.",
+    "Litter Size": "1",
+    "Predators": "Humans",
+    "Diet": "Omnivore",
+    "Type": "Mammal ",
+    "Location": "Central and South America",
+    "Colour": "BrownGold",
+    "Skin Type": "Fur",
+    "Lifespan": "23 years",
+    "Weight": "3 to 10 pounds",
+    "Length": "16 to 30 inches long, its tail adds another 15 to 22 inches",
+    "Name": "Kinkajou",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "South-America"
+    ]
+}

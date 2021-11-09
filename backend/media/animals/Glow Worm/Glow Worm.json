@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Coleoptera",
+    "Family": "Lampyridae",
+    "Main Prey": "Snails, Slugs, Insects",
+    "Fun Fact": "Found inhabiting dense woodland and caves!",
+    "Habitat": "Undisturbed woodland and caves",
+    "Predators": "Spiders, Birds, Centipedes",
+    "Diet": "Omnivore",
+    "Average Litter Size": "75",
+    "Favorite Food": "Snails",
+    "Common Name": "Glow Worm",
+    "Number Of Species": "12",
+    "Location": "Worldwide",
+    "Slogan": "Found inhabiting dense woodland and caves!",
+    "Colour": "BrownYellowRedBlackGreen",
+    "Skin Type": "Shell",
+    "Name": "Glow Worm",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

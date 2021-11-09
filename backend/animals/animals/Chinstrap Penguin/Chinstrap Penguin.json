@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Sphenisciformes",
+    "Family": "Spheniscidae",
+    "Genus": "Pygoscelis",
+    "Scientific Name": "Pygoscelis Antarcticus",
+    "Main Prey": "Krill, Fish, Shrimp",
+    "Distinctive Feature": "White face and thin, black line that runs under the chin",
+    "Habitat": "Rocky Antarctic Islands",
+    "Predators": "Leopard Seal, Killer Whale, Sea Birds",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Colony",
+    "Favorite Food": "Krill",
+    "Type": "Bird",
+    "Slogan": "There are 7 million breeding pairs!",
+    "Colour": "GreyBlackWhite",
+    "Skin Type": "Feathers",
+    "Lifespan": "15 - 20 years",
+    "Weight": "3kg - 6kg (6.6lbs - 13lbs)",
+    "Height": "60cm - 68cm (24in - 27in)",
+    "Name": "Chinstrap Penguin",
+    "Status": "Least Concern",
+    "locations": [
+        "Antarctica",
+        "Ocean"
+    ]
+}

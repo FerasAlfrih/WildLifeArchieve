@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Macroscelidea",
+    "Family": "Macroscelididae",
+    "Genus": "Elephantulus",
+    "Scientific Name": "Elephantulus",
+    "Main Prey": "Insects, Worms, Spiders",
+    "Distinctive Feature": "Long nose and long back legs",
+    "Habitat": "Forest, woodland and grassland",
+    "Predators": "Snakes, Lizards, Birds of Prey",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Mammal",
+    "Slogan": "Found exclusively on the African continent!",
+    "Colour": "BrownGreyBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "8 mph",
+    "Lifespan": "2 - 5 years",
+    "Weight": "50g - 500g (2oz - 18oz)",
+    "Length": "10cm - 30cm (4in - 12in)",
+    "Name": "Elephant Shrew",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa"
+    ]
+}

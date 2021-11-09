@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Sphenisciformes",
+    "Family": "Spheniscidae",
+    "Genus": "Spheniscus",
+    "Scientific Name": "Spheniscus magellanicus",
+    "Main Prey": "Cuttlefish, Squid, Sardines",
+    "Distinctive Feature": "Black beak and small wings",
+    "Habitat": "Antarctic islands",
+    "Predators": "Sea Lion, Leopard Seal, Killer Whale",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Flock",
+    "Favorite Food": "Cuttlefish",
+    "Type": "Bird",
+    "Slogan": "Threatened by oil spills!",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Feathers",
+    "Top Speed": "22 mph",
+    "Lifespan": "15 - 20 years",
+    "Weight": "2.7kg - 6.5kg (5.9lbs - 14lbs)",
+    "Length": "61cm - 76cm (24in - 30in)",
+    "Name": "Magellanic Penguin",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean",
+        "South-America"
+    ]
+}

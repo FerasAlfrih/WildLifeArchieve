@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": " Japanese Terriers are also called Nippon Terriers",
+    "Temperament": "Loving, affectionate, cheerful",
+    "Diet": "Omnivore",
+    "Colour": "BlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "10 lbs",
+    "Name": "Japanese Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

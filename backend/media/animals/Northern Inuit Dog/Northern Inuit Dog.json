@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Intelligent, friendly, and loyal",
+    "Diet": "Carnivore",
+    "Common Name": "Northern Inuit Dog",
+    "Colour": "GreyBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 15 years",
+    "Name": "Northern Inuit Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

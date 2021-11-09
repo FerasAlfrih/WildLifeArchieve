@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Perciformes",
+    "Family": "Latidae",
+    "Genus": "Lates",
+    "Scientific Name": "Lates calcarifer",
+    "Prey": "Fish, crustaceans, mollusks",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "Scale rings indicate age",
+    "Biggest Threat": "Ocean acidification",
+    "Most Distinctive Feature": "Pointed, concave head",
+    "Other Name(s)": "Asian sea bass, giant sea perch",
+    "Water Type": "Salt",
+    "Habitat": "Rivers, streams, ocean",
+    "Predators": "Humans, snakes, birds, crocodiles",
+    "Diet": "Carnivore",
+    "Type": "Fish",
+    "Common Name": "Barramundi",
+    "Number Of Species": "1",
+    "Colour": "GreenSilver",
+    "Skin Type": "Scales",
+    "Weight": "120lbs",
+    "Length": "1.5m (4.9ft)",
+    "Name": "Barramundi Fish",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

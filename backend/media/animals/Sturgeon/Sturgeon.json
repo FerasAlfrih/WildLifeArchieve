@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Acipenseriformes",
+    "Family": "Acipenseridae",
+    "Prey": "Shells, crustaceans, small fish",
+    "Fun Fact": "Large species can swallow whole salmon",
+    "Biggest Threat": "Overexploitation",
+    "Most Distinctive Feature": "Elongated body and plates",
+    "Gestation Period": " 8 to 15 days",
+    "Water Type": "Salt",
+    "Habitat": "Oceans, gulfs and lakes",
+    "Diet": "Carnivore",
+    "Type": "Fish",
+    "Common Name": "Sturgeon",
+    "Number Of Species": "29",
+    "Colour": "GreyBlackWhiteOlive",
+    "Skin Type": "Smooth",
+    "Lifespan": "50 to 60 years",
+    "Weight": "200 to 1,800 pounds",
+    "Length": "Up to 22 feet long",
+    "Name": "Sturgeon",
+    "Status": "Critically Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

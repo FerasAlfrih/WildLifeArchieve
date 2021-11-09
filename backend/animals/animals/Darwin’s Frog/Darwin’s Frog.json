@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Rhinodermatidae",
+    "Genus": "Rhinoderma",
+    "Scientific Name": "Rhinoderma Darwinii",
+    "Main Prey": "Insects, Worms, Snails",
+    "Distinctive Feature": "Small body size and leaf-like appearance",
+    "Habitat": "Beech-tree forests and in fields",
+    "Predators": "Rodents, Snakes, Birds",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Average Clutch Size": "30",
+    "Slogan": "Camouflages itself as a dead leaf!",
+    "Colour": "BrownGreyBlackTanGreen",
+    "Skin Type": "Permeable",
+    "Top Speed": "5 mph",
+    "Lifespan": "10 - 15 years",
+    "Weight": "2g - 5g (0.07oz - 0.17oz)",
+    "Length": "2.5cm - 3.5cm (0.9in - 1.4in)",
+    "Name": "Darwin’s Frog",
+    "Status": "Vulnerable",
+    "locations": [
+        "South-America"
+    ]
+}

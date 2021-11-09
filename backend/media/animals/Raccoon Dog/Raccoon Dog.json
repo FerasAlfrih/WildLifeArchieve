@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Nyctereutes",
+    "Scientific Name": "Nyctereutes procyonoides",
+    "Main Prey": "Frogs, Fish, Rodents",
+    "Distinctive Feature": "Dexterous front paws and pointed snout",
+    "Habitat": "Thick forests close to water",
+    "Predators": "Foxes, Wolves, Wildcats",
+    "Diet": "Carnivore",
+    "Average Litter Size": "8",
+    "Lifestyle": "Pack",
+    "Favorite Food": "Frogs",
+    "Type": "Mammal",
+    "Slogan": "The only hibernating canine!",
+    "Colour": "BrownYellowBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "25 mph",
+    "Lifespan": "3 - 8 years",
+    "Weight": "3kg - 10kg (6.6lbs - 22lbs)",
+    "Length": "50cm - 65cm (19.6in - 26in)",
+    "Name": "Raccoon Dog",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ]
+}

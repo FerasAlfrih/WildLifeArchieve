@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Gentle, calm and affectionate",
+    "Training": "Should be trained from an early age due to their stubborn nature",
+    "Diet": "Omnivore",
+    "Average Litter Size": "10",
+    "Common Name": "Bulldog",
+    "Slogan": "Friendly, loving and docile!",
+    "Group": "Mastiff",
+    "Colour": "BrownFawnBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Name": "Bulldog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

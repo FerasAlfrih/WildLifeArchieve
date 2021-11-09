@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Hemiptera",
+    "Family": "Gerridae",
+    "Main Prey": "Insects, Larvae",
+    "Fun Fact": "There are 500 different species!",
+    "Distinctive Feature": "Armoured shell and walk on water",
+    "Habitat": "Still water",
+    "Predators": "Fish, Frogs, Birds",
+    "Diet": "Herbivore",
+    "Average Litter Size": "200",
+    "Favorite Food": "Insects",
+    "Common Name": "Pondskater",
+    "Number Of Species": "500",
+    "Location": "Worldwide",
+    "Slogan": "There are 500 different species!",
+    "Colour": "YellowTan",
+    "Skin Type": "Shell",
+    "Weight": "0.1g - 0.5g (0.004oz - 0.018oz)",
+    "Length": "1.6mm - 3.6mm (0.06in - 0.14in)",
+    "Name": "Pond Skater",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ]
+}

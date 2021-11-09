@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Though they are loyal to their family, these dogs can be shy around strangers.",
+    "Temperament": "Intelligent and loyal",
+    "Diet": "Omnivore",
+    "Colour": "FawnBlueBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "50 lbs",
+    "Name": "Texas Heeler",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Syngnathiformes",
+    "Family": "Syngnathidae",
+    "Genus": "Phycodurus",
+    "Scientific Name": "Phycodurus eques",
+    "Main Prey": "Plankton, Shrimp, Small fish",
+    "Distinctive Feature": "Elongated snout and easily camouflaged body",
+    "Water Type": "Salt",
+    "Optimum pH Level": "6.5 - 8.0",
+    "Habitat": "Tropical coastal waters",
+    "Predators": "Large Fish",
+    "Diet": "Carnivore",
+    "Favorite Food": "Plankton",
+    "Common Name": "Sea Dragon",
+    "Average Clutch Size": "250",
+    "Slogan": "Inhabits tropical coastal waters of Australia!",
+    "Colour": "BrownGreyYellowRedBlackWhiteTanGreenOrange",
+    "Skin Type": "Scales",
+    "Lifespan": "2 - 10 years",
+    "Length": "20cm - 24cm (10in - 12in)",
+    "Name": "Sea Dragon",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean",
+        "Oceania"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Perciformes",
+    "Family": "Sciaenidae",
+    "Scientific Name": "Sciaenidae",
+    "Prey": "Mollusks, insects, and fish",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "The drum fish makes a croaking sound with its swimming bladder!",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Habitat changes",
+    "Most Distinctive Feature": "The croaking noise",
+    "Other Name(s)": "Drum or croaker",
+    "Gestation Period": "A few days",
+    "Predators": "Birds, fish, and humans",
+    "Diet": "Carnivore",
+    "Type": "Fish",
+    "Common Name": "Drum fish",
+    "Number Of Species": "275",
+    "Colour": "BrownRedBlackWhiteSilver",
+    "Skin Type": "Scales",
+    "Lifespan": "Up to 50 years",
+    "Weight": "Up to 225 pounds",
+    "Length": "Up to 6.6 feet",
+    "Name": "Drum Fish",
+    "Status": "Not Evaluated",
+    "locations": [
+        "Ocean"
+    ]
+}

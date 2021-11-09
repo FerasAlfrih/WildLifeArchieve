@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Testudines",
+    "Family": "Chelydridae",
+    "Genus": "Chelydra",
+    "Scientific Name": "Chelydridae",
+    "Main Prey": "Fish, Birds, Frogs",
+    "Habitat": "Slow rivers, lakes and marshland",
+    "Predators": "Human, Raccoon, Alligator",
+    "Diet": "Omnivore",
+    "Average Litter Size": "35",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fish",
+    "Type": "Reptile",
+    "Slogan": "Only found in North America!",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Scales",
+    "Top Speed": "2.4 mph",
+    "Lifespan": "20-32 years",
+    "Weight": "16-136kg (35-300lbs)",
+    "Name": "Snapping Turtle",
+    "Status": "Near Threatened",
+    "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+    ]
+}

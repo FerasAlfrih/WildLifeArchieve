@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Terriers were once the greatest dogs in the world.",
+    "Temperament": "Protective, loyal, lively, intelligent, playful, fearless",
+    "Water type": "Saltwater",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyRedBlueBlackWhiteBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "13-15years",
+    "Weight": "6 - 80lbs",
+    "Name": "Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe",
+        "North-America",
+        "Oceania"
+    ]
+}

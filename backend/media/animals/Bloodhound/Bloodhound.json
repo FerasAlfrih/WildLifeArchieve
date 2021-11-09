@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Kind, patient and noble",
+    "Training": "Should be trained from an early age due to their large size",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Common Name": "Bloodhound",
+    "Slogan": "Affectionate, gentle and even-tempered!",
+    "Group": "Hound",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Hair",
+    "Name": "Bloodhound",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Peramelemorphia",
+    "Family": "Peramelidae",
+    "Genus": "Perameles",
+    "Scientific Name": "Perameles",
+    "Main Prey": "Insects, Fruit, Seeds",
+    "Name Of Young": "Joey",
+    "Distinctive Feature": "Pointed snout and long, thin tail",
+    "Habitat": "Forest, rainforest and jungle",
+    "Predators": "Foxes, Snakes, Wildcats",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Mammal",
+    "Slogan": "Bandicoot Many species are endangered or extinct!",
+    "Colour": "BrownGreyBlackWhiteGoldTan",
+    "Skin Type": "Fur",
+    "Top Speed": "15 mph",
+    "Lifespan": "3-7 years",
+    "Weight": "0.2kg - 1.6kg (0.4lbs - 3.5lbs)",
+    "Length": "28cm - 81cm (11in - 32in)",
+    "Name": "Bandicoot",
+    "Status": "Endangered",
+    "locations": [
+        "Oceania"
+    ]
+}

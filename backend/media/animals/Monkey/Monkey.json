@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Cebidae",
+    "Scientific Name": "Macaca Fascicularis",
+    "Main Prey": "Fruit, Seeds, Insects",
+    "Habitat": "Tropical forests, grasslands and mountainous plains",
+    "Predators": "Birds, Snakes, Wildcats",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "There are around 260 known species!",
+    "Colour": "BrownGreyYellowBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Top Speed": "35 mph",
+    "Lifespan": "10-30 years",
+    "Weight": "0.1-30kg (0.22-60lbs)",
+    "Name": "Monkey",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Oceania",
+        "South-America"
+    ]
+}

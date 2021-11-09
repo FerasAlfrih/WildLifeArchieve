@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Welsh Terrier has the strength and tenacity to take on foxes and badgers.",
+    "Temperament": "Friendly, curious, and hard-working",
+    "Diet": "Omnivore",
+    "Colour": "BlackTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "22 lbs",
+    "Name": "Welsh Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

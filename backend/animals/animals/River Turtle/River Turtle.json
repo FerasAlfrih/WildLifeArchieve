@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Testudines",
+    "Main Prey": "Aquatic Plants, Fruits, Fish, Molluscs",
+    "Fun Fact": "Inhabits freshwater habitats around the world!",
+    "Habitat": "Slow-moving rivers, streams and ponds",
+    "Predators": "Fox, Dog, Human",
+    "Diet": "Omnivore",
+    "Average Litter Size": "35",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Aquatic Plants",
+    "Type": "Reptile",
+    "Slogan": "Inhabits freshwater habitats around the world!",
+    "Colour": "BrownYellowBlackGreen",
+    "Skin Type": "Shell",
+    "Top Speed": "2.4 mph",
+    "Lifespan": "10-30 years",
+    "Weight": "0.5-8kg (1.1-18lbs)",
+    "Name": "River Turtle",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

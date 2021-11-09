@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Class": "Insecta",
+    "Order": "Phasmatodea",
+    "Scientific Name": "Phasmatodea",
+    "Main Prey": "Leaves, Plants, Berries",
+    "Habitat": "Forest, jungles and woodland",
+    "Predators": "Birds, Rodents, Reptiles",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1,000",
+    "Favorite Food": "Leaves",
+    "Common Name": "Stick Insect",
+    "Number Of Species": "3000",
+    "Location": "Worldwide",
+    "Slogan": "There are more than 3,000 different species!",
+    "Colour": "BrownGreyTanGreen",
+    "Skin Type": "Shell",
+    "Name": "Stick Insect",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

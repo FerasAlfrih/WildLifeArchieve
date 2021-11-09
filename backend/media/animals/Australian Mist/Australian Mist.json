@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "The Australian Mist (or spotted Australian mist) was bred in Australia in the 1700s to produce a short-haired cat with a spotted coat.",
+    "Other Name(s)": "Spotted Mist",
+    "Temperament": "Affectionate, gentle and trustworthy",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Australian Mist",
+    "Slogan": "First bred in the 1700s!",
+    "Group": "Shorthair",
+    "Colour": "BrownBlueGoldChocolateLilacCaramelPeach",
+    "Skin Type": "Hair",
+    "Lifespan": "15-18 years",
+    "Weight": "8 to 15 pounds",
+    "Name": "Australian Mist",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

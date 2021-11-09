@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Hymenoptera",
+    "Family": "Formicidae",
+    "Scientific Name": "Formicidae",
+    "Main Prey": "Leaves, Fungi, Insects",
+    "Habitat": "Soil and cavities in wood and plants",
+    "Predators": "Insects, Echidna, Anteater",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1,000",
+    "Favorite Food": "Leaves",
+    "Common Name": "Ant",
+    "Number Of Species": "12000",
+    "Location": "Worldwide",
+    "Slogan": "First evolved 100 million years ago!",
+    "Colour": "BrownRedBlack",
+    "Skin Type": "Shell",
+    "Length": "2mm - 25mm (0.08in - 1in)",
+    "Name": "Ant",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

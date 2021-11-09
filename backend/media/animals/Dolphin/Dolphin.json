@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Cetacean",
+    "Family": "Delphinidae",
+    "Main Prey": "Fish, Squid, Crustaceans",
+    "Group Behavior": "Pod",
+    "Fun Fact": "Dolphins can travel in superpods of more than 1,000 individuals!",
+    "Distinctive Feature": "A beaklike snout and rounded \"melon\" or forehead",
+    "Water Type": "Brackish",
+    "Habitat": "All of the world's oceans, rivers in Asia and South America",
+    "Predators": "Sharks, orcas",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Pod",
+    "Favorite Food": "Squid",
+    "Type": "Mammal",
+    "Slogan": "Can reach speeds of up to 25 mph!",
+    "Colour": "GreyYellowBlackWhitePink",
+    "Skin Type": "Smooth",
+    "Top Speed": "25 mph",
+    "Lifespan": "20 to 45 years",
+    "Weight": "100 to 300 kg (220 to 660 lbs)",
+    "Length": "2m - 4m (6.5ft - 13ft)",
+    "Name": "Dolphin",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

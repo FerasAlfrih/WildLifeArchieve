@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Scorpaeniformes",
+    "Family": "Psychrolutidae",
+    "Genus": "Psychrolutes",
+    "Scientific Name": "Psychrolutes marcidus",
+    "Prey": "Crustaceans, anything it finds",
+    "Other Name(s)": "Sculpin",
+    "Habitat": "Deep ocean waters",
+    "Predators": "Humans",
+    "Diet": "Omnivore",
+    "Lifestyle": "Sedentary",
+    "Common Name": "Blobfish or Smooth-Head Blobfish",
+    "Location": "Oceans near Australia, New Zealand, Japan, and California",
+    "Slogan": "One of the ugliest creatures in existence!",
+    "Group": "Fish",
+    "Colour": "GreyWhitePink",
+    "Skin Type": "Hair",
+    "Weight": "9kg (20 lbs)",
+    "Length": "30.48cm – 71.12cm (12in-28in)",
+    "Name": "Blobfish",
+    "Status": "Critically Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

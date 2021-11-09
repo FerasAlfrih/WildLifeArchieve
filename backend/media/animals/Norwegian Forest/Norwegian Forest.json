@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "Has a long, thick double coat of fur!",
+    "Other Name(s)": "skogkatt",
+    "Temperament": "Intelligent, loving and affectionate",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Wegie",
+    "Slogan": "Has a long, thick double coat of fur!",
+    "Group": "Longhair",
+    "Colour": "BrownRedBlueWhiteGoldCreamSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "14 - 16 years",
+    "Weight": "12 - 20 pounds (adult male), 8 - 18 pounds (adult female)",
+    "Name": "Norwegian Forest",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

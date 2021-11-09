@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Proboscidea",
+    "Family": "Elephantidae",
+    "Genus": "Elephas",
+    "Scientific Name": "Elephas maximus indicus",
+    "Main Prey": "Grass, Fruit, Roots",
+    "Distinctive Feature": "Long trunk and large feet",
+    "Habitat": "Rainforest and tropical woodland",
+    "Predators": "Human, Tiger",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Found throughout south-east Asia!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Leather",
+    "Top Speed": "27 mph",
+    "Lifespan": "55 - 70 years",
+    "Weight": "3,000kg - 5,000kg (6,500lbs - 11,000lbs)",
+    "Height": "2m - 3m (7ft - 10ft)",
+    "Name": "Indian Elephant",
+    "Status": "Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

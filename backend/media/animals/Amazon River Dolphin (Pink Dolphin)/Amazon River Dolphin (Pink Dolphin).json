@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Cetacea",
+    "Family": "Platanistoidea",
+    "Genus": "Platanistidae",
+    "Scientific Name": "Platanistoidea",
+    "Main Prey": "Fish, Prawns, Frogs",
+    "Habitat": "Large tropical rivers and estuaries",
+    "Predators": "Human",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "School",
+    "Favorite Food": "Fish",
+    "Type": "Mammal",
+    "Slogan": "Also known as the 'Pink Dolphin'",
+    "Colour": "GreyPink",
+    "Skin Type": "Smooth",
+    "Top Speed": "18 mph",
+    "Lifespan": "12-18 years",
+    "Weight": "100-200kg (220-440lbs)",
+    "Name": "Amazon River Dolphin (Pink Dolphin)",
+    "Status": "Endangered",
+    "locations": [
+        "South-America"
+    ]
+}

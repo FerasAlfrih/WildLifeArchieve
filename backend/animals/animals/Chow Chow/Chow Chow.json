@@ -1,0 +1,25 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Chow Chow's lineage is hundred of years old.",
+    "Most Distinctive Feature": "The adult Cho Chow have a blue tongue",
+    "Temperament": "Not sociable or outgoing, sometimes aggressive, and often suspicious of strangers",
+    "Diet": "Omnivore",
+    "Common Name": "Chow Chow",
+    "Slogan": "Loyal and affectionate to it's family!",
+    "Group": "North",
+    "Colour": "FawnRedBlueBlackCream",
+    "Skin Type": "Hair",
+    "Lifespan": "9-15 years",
+    "Weight": "32kg (70lbs)",
+    "Name": "Chow Chow",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Hominidae",
+    "Genus": "Gorilla",
+    "Scientific Name": "Gorilla Gorilla",
+    "Main Prey": "Leaves, Fruit, Flowers",
+    "Habitat": "Rainforest and dense jungle",
+    "Predators": "Human, Leopard, Crocodile",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Leaves",
+    "Type": "Mammal",
+    "Slogan": "There are two sub-species!",
+    "Colour": "GreyBlack",
+    "Skin Type": "Hair",
+    "Top Speed": "25 mph",
+    "Lifespan": "35 - 50 years",
+    "Weight": "100kg - 200kg (220lbs - 440lbs)",
+    "Height": "1.4m - 1.7m (4.7ft - 5.5ft)",
+    "Name": "Western Gorilla",
+    "Status": "Critically Endangered",
+    "locations": [
+        "Africa"
+    ]
+}

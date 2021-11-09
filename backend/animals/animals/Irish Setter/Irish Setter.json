@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Irish Setter",
+    "Slogan": "Can live for up to 16 years!",
+    "Group": "Gun Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "16 years",
+    "Weight": "32kg (70lbs)",
+    "Name": "Irish Setter",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

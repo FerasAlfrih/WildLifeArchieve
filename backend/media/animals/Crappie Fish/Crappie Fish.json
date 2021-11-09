@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Perciformes",
+    "Family": "Centrarchidae",
+    "Genus": "Pomoxis",
+    "Prey": "Zooplankton, insect, crustaceans, and fish.",
+    "Group Behavior": "School",
+    "Fun Fact": "The crappie is one of the most popular freshwater fish in North America.",
+    "Estimated Population Size": "Unknown.",
+    "Biggest Threat": "Fishing.",
+    "Most Distinctive Feature": "The speckled body. ",
+    "Other Name(s)": "White perch, paper mouths, strawberry bass, and more.",
+    "Gestation Period": "2-3 days.",
+    "Water Type": "Fresh",
+    "Optimum pH Level": "6-7.5 ",
+    "Habitat": "Rivers, ponds, pools, and lakes. ",
+    "Diet": "Omnivore",
+    "Type": "Ray-finned fish.",
+    "Number Of Species": "2",
+    "Colour": "BlackWhiteGreenSilver",
+    "Skin Type": "Scales",
+    "Name": "Crappie Fish",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

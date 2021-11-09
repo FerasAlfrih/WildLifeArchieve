@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Pug",
+    "Slogan": "Fun and sociable, yet stubborn!",
+    "Group": "Mastiff",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "8kg (18lbs)",
+    "Name": "Pug",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

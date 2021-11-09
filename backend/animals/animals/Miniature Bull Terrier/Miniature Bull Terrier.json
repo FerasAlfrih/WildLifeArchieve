@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "This dog has a very happy-go-lucky temperament.",
+    "Temperament": "Happy-go-lucky, active, and energetic",
+    "Diet": "Omnivore",
+    "Colour": "FawnRedBlackWhiteTanBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "11-14 years",
+    "Weight": "35 lbs",
+    "Name": "Miniature Bull Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

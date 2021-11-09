@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Porifera",
+    "Class": "Demospongiae",
+    "Scientific Name": "Demospongiae",
+    "Main Prey": "Plankton, Mollusks, Crustaceans",
+    "Group Behavior": "Colony",
+    "Fun Fact": "Some people use sponges as sponges",
+    "Estimated Population Size": "unknown",
+    "Biggest Threat": "Climate change, habitat destruction",
+    "Most Distinctive Feature": "Surface pores",
+    "Habitat": "oceans, seas, lakes",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1,000s",
+    "Lifestyle": "Sedentary",
+    "Type": "Metazoa",
+    "Common Name": "Sponge",
+    "Location": "Worldwide",
+    "Slogan": "There are more than 9,000 known species!",
+    "Colour": "BrownYellowRedBlueGreenOrange",
+    "Skin Type": "Porous",
+    "Lifespan": "15-30 years",
+    "Weight": "20lbs",
+    "Length": "0.25m - 2m (0.8f - 6ft)",
+    "Name": "Sponge",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

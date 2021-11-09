@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivors",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Brussels Griffon prefers to live with another dog so they have a companion to play with.",
+    "Temperament": "Friendly, cheerful, curious, charming and affectionate.",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1-3 puppies",
+    "Colour": "BrownRedBlueBlackTanBeige",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "7-12 pounds",
+    "Height": "7-8 inches",
+    "Name": "Brussels Griffon",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

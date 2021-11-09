@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Caudata",
+    "Family": "Ambystomatidae",
+    "Genus": "Ambystoma",
+    "Scientific Name": "Ambystoma mexicanum",
+    "Main Prey": "Worms, Insects, Molluscs",
+    "Group Behavior": "Solitary",
+    "Distinctive Feature": "Feathery gills and flattened-shaped head",
+    "Habitat": "High altitude freshwater lakes",
+    "Predators": "Birds, Fish",
+    "Diet": "Carnivore",
+    "Average Litter Size": "500",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Worms",
+    "Type": "Amphibian",
+    "Slogan": "Found only in one complex of lakes!",
+    "Colour": "BrownGreyBlackWhitePink",
+    "Skin Type": "Permeable",
+    "Top Speed": "10 mph",
+    "Lifespan": "10 - 20 years",
+    "Weight": "60g - 200g (2oz - 7oz)",
+    "Length": "15cm - 45cm (6in - 18in)",
+    "Name": "Axolotl",
+    "Status": "Endangered",
+    "locations": [
+        "Central-America"
+    ]
+}

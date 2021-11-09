@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "Originated from temple cats in Thailand!",
+    "Other Name(s)": "Meezer",
+    "Temperament": "Intelligent, calm and sociable",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Siamese",
+    "Slogan": "Originated from temple cats in Thailand!",
+    "Group": "Shorthair",
+    "Colour": "BrownGreyBlueBlackWhiteCreamLilac",
+    "Skin Type": "Hair",
+    "Lifespan": "12-20 years",
+    "Weight": "Six to 12 pounds",
+    "Name": "Siamese",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Mesobatrachia",
+    "Family": "Pelobatidae",
+    "Genus": "Pelobates",
+    "Scientific Name": "Mesobatrachia",
+    "Main Prey": "Fly, Ants, Spiders",
+    "Habitat": "Marshland prairies and open floodplains",
+    "Predators": "Birds, Fish, Snakes",
+    "Diet": "Omnivore",
+    "Average Litter Size": "250",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fly",
+    "Type": "Amphibian",
+    "Slogan": "They spend most of their time underground!",
+    "Colour": "BrownGreyTan",
+    "Skin Type": "Permeable Scales",
+    "Top Speed": "10 mph",
+    "Lifespan": "4-8 years",
+    "Weight": "50-100g (1.7-3.5oz)",
+    "Name": "Spadefoot Toad",
+    "Status": "Least Concern",
+    "locations": [
+        "Europe",
+        "North-America"
+    ]
+}

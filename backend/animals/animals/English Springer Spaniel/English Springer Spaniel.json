@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "English Springer Spaniel",
+    "Slogan": "Friendly and eager to please!",
+    "Group": "Gun Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "25kg (55lbs)",
+    "Name": "English Springer Spaniel",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Curly coated retrievers are excellent swimmers.",
+    "Diet": "Omnivore",
+    "Common Name": "Curly Coated Retriever",
+    "Slogan": "A lively and fun-loving breed!",
+    "Group": "Gun Dog",
+    "Colour": "BrownBlack",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "95 lbs",
+    "Name": "Curly Coated Retriever",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

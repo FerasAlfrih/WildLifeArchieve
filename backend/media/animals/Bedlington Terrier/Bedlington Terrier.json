@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "The city of Bedlington, England named their soccer team the Terriers after this breed!",
+    "Temperament": "Bold, confident and playful",
+    "Training": "Should be trained from an early age due to their hyperactive nature",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Bedlington Terrier",
+    "Slogan": "Highly active and intelligent dogs!",
+    "Group": "Terrier",
+    "Colour": "BrownRedBlueBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Name": "Bedlington Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Perciformes",
+    "Family": "Anarhichadidae",
+    "Scientific Name": "Anarhichadidae",
+    "Prey": "Crabs, clams, sea urchins, starfish, and others",
+    "Group Behavior": "Solitary/Pairs",
+    "Fun Fact": "The wolffish has impressive canines with a powerful bite force!",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Habitat destruction and accidental catches",
+    "Most Distinctive Feature": "The long eel-like body and sharp teeth",
+    "Other Name(s)": "Sea wolf",
+    "Gestation Period": "Three to nine months",
+    "Habitat": "Coastal waters",
+    "Predators": "Sharks and humans",
+    "Diet": "Carnivore",
+    "Type": "Fish",
+    "Common Name": "Wolffish",
+    "Number Of Species": "5",
+    "Colour": "BrownGreyBlueWhiteGreen",
+    "Skin Type": "Scales",
+    "Lifespan": "At least 12 years",
+    "Weight": "Up to 50 pounds",
+    "Length": "Up to 7.5 feet",
+    "Name": "Wolffish",
+    "Status": "Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactlya",
+    "Family": "Bovidae",
+    "Genus": "Oryx",
+    "Scientific Name": "Oryx Dammah",
+    "Prey": "N/A",
+    "Fun Fact": "The scimitar-horned oryx can go up to 10 months without drinking water",
+    "Biggest Threat": "Human hunting, loss of habitat",
+    "Habitat": "Desert and savanna woodlands",
+    "Predators": "Lions, leopards, golden jackals, hyenas",
+    "Diet": "Herbivore",
+    "Lifestyle": "Diurnalnomadic",
+    "Common Name": "Scimitar-horned oryx",
+    "Location": "Norther Africa",
+    "Slogan": "Believed to be the inspiration for unicorn myths!",
+    "Group": "Mammal",
+    "Top Speed": "MPH mph",
+    "Lifespan": "15-20 years",
+    "Weight": "200 to 460 lbs",
+    "Name": "Scimitar-horned Oryx",
+    "Status": "Extinct in the Wild",
+    "locations": [
+        "Africa"
+    ]
+}

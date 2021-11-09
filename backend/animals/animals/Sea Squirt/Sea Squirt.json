@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Scientific Name": "Urochordata",
+    "Main Prey": "Plankton, Algae, Nutrients In Water",
+    "Water type": "Saltwater",
+    "Habitat": "Coastal Waters",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1,000",
+    "Favorite Food": "Plankton",
+    "Common Name": "Sea Squirt",
+    "Number Of Species": "3000",
+    "Location": "Worldwide",
+    "Slogan": "There are more than 3,000 known species!",
+    "Colour": "BrownYellowRedBlueWhiteGreenOrangePink",
+    "Skin Type": "Permeable",
+    "Weight": "100-200g (3.5-7oz)",
+    "Name": "Sea Squirt",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

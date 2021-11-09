@@ -1,0 +1,16 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": " Carnivora",
+    "Family": " Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Both parents of the Giant Schnoodle are hypoallergenic, making this one of the Doodle breeds that's safest for dander-sensitive owners.",
+    "Diet": "Omnivore",
+    "Name": "Giant Schnoodle",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

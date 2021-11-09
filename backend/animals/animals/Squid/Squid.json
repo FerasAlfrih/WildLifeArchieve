@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Mollusca",
+    "Class": "Cephalopoda",
+    "Order": "Teuthida",
+    "Family": "Oegopsina",
+    "Scientific Name": "Teuthida",
+    "Main Prey": "Fish, Crabs, Shrimp",
+    "Habitat": "Cooler and temperate waters",
+    "Predators": "Human, Seal, Whales",
+    "Diet": "Carnivore",
+    "Average Litter Size": "5",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fish",
+    "Type": "Cephalopod",
+    "Slogan": "Some species are known to have 10 arms!",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Smooth",
+    "Top Speed": "18 mph",
+    "Lifespan": "5-30 years",
+    "Weight": "0.3-500kg (0.6-1,102lbs)",
+    "Name": "Squid",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

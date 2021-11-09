@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "Australian terriers originally came from Tasmania. They're a mix between Cairn, Yorkshire, Skye, Irish, and Dandie Dinmont terriers.",
+    "Temperament": "Courageous, energetic and confident",
+    "Training": "Should be trained from an early age and respond best to fun and challenging training methods",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Australian Terrier",
+    "Slogan": "Spirited, alert and courageous!",
+    "Group": "Terrier",
+    "Colour": "BlackGoldTan",
+    "Skin Type": "Hair",
+    "Name": "Australian Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

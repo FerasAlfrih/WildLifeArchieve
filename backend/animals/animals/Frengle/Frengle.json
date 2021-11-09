@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Frengles have a haunting howl very similar to their Beagle parent.",
+    "Temperament": "Sweet and energetic",
+    "Diet": "Omnivore",
+    "Colour": "BrownBrindleCream",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to 15 years",
+    "Weight": "28 lbs",
+    "Name": "Frengle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

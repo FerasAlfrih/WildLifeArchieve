@@ -1,0 +1,25 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "An ancient breed of domestic cat!",
+    "Temperament": "Loving, playful and clever",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Common Name": "Egyptian Mau",
+    "Slogan": "An ancient breed of domestic cat!",
+    "Group": "Shorthair",
+    "Colour": "GreyBlueWhiteSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "12-16 years",
+    "Weight": "8-14lbs",
+    "Name": "Egyptian Mau",
+    "Status": "Not Listed",
+    "locations": [
+        "Africa"
+    ]
+}

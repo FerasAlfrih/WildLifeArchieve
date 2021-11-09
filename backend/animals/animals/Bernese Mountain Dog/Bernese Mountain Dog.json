@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Temperament": "Intelligent, friendly and alert",
+    "Training": "Should be trained from an early age due to their large size",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Common Name": "Bernese Mountain Dog",
+    "Slogan": "Very loyal, faithful and affectionate!",
+    "Group": "Sennenhund",
+    "Colour": "BlackWhiteTan",
+    "Skin Type": "Hair",
+    "Name": "Bernese Mountain Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Lepidoptera",
+    "Main Prey": "Leaves, Plants, Flowers",
+    "Habitat": "Quiet forests and pastures",
+    "Predators": "Birds, Wasps, Mammals",
+    "Diet": "Herbivore",
+    "Favorite Food": "Leaves",
+    "Common Name": "Caterpillar",
+    "Number Of Species": "21000",
+    "Location": "Worldwide",
+    "Slogan": "The larvae of a moth or butterfly!",
+    "Colour": "YellowRedBlueBlackGreenOrange",
+    "Skin Type": "Hair",
+    "Name": "Caterpillar",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

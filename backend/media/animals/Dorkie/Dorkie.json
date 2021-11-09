@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Dorkies are so laid-back they sometimes need extra incentive to exercise each day.",
+    "Temperament": "Laid-back and even-tempered",
+    "Diet": "Omnivore",
+    "Colour": "BlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10 - 13 years",
+    "Weight": "12 pounds",
+    "Name": "Dorkie",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

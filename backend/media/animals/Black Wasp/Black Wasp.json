@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Hymenoptera",
+    "Family": "Sphecidae",
+    "Genus": "Sphex",
+    "Scientific Name": "Sphex pensylvanicus",
+    "Prey": "Grasshoppers, cicadas, locusts, katydids, and other fleshy insects",
+    "Name Of Young": "Larva",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "The great black wasp is a species of digger wasp.",
+    "Diet": "Omnivore",
+    "Location": "North America",
+    "Colour": "Black",
+    "Skin Type": "Exoskeleton",
+    "Length": "20–35 mm (0.8–1.4 in)",
+    "Name": "Black Wasp",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

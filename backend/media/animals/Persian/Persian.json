@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "The Persian cat is a famous breed with an instantly recognizable appearance.",
+    "Other Name(s)": "Persian longhair",
+    "Temperament": "Intelligent, loving and affectionate",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Persian",
+    "Slogan": "Thought to have originated in the Middle East!",
+    "Group": "Longhair",
+    "Colour": "RedBlueBlackCreamOrangeChocolateLilacWhite-Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "10-17 years",
+    "Weight": "7-12 lbs",
+    "Name": "Persian",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

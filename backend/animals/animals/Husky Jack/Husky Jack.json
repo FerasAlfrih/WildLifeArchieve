@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Due to the mix of genes, a Husky Jack’s coat may be a variety of colors including black, gray, white, red, sable, or mixed colors.",
+    "Temperament": "Social, energetic, and loyal",
+    "Diet": "Omnivore",
+    "Colour": "GreyRedBlackWhiteLight-Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "11 to 16 years",
+    "Weight": "40 pounds",
+    "Name": "Husky Jack",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

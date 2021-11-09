@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Dogue De Bordeaux",
+    "Slogan": "Extremely loyal and devoted to it's master!",
+    "Group": "Mastiff",
+    "Skin Type": "Hair",
+    "Lifespan": "8 years",
+    "Weight": "45kg (100lbs)",
+    "Name": "Dogue De Bordeaux",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Atelidae",
+    "Genus": "Ateles",
+    "Scientific Name": "Simia Paniscus",
+    "Main Prey": "Fruit, Nuts, Leaves",
+    "Habitat": "Tropical jungle and rainforest",
+    "Predators": "Human, Eagles, Jaguar",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Found in the tropical jungles of South America!",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Hair",
+    "Top Speed": "35 mph",
+    "Lifespan": "15-27 years",
+    "Weight": "6.4-12kg (14-26lbs)",
+    "Name": "Spider Monkey",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "South-America"
+    ]
+}

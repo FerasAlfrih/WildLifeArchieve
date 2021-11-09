@@ -1,0 +1,20 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Loves to participate in activities.",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyYellowBlack",
+    "Skin Type": "Hair",
+    "Lifespan": "10-12 years",
+    "Weight": "90 lbs",
+    "Name": "Labmaraner",
+    "Status": "Least Concern",
+    "locations": [
+        "Europe"
+    ]
+}

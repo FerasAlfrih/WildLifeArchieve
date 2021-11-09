@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Pelecaniformes",
+    "Family": "Ardeidae",
+    "Genus": "Ardea",
+    "Scientific Name": "Ardea herodias",
+    "Main Prey": "fish",
+    "Fun Fact": "Their wingspan is larger than an eagle’s; both males and females help hatch the eggs; rich in symbolism",
+    "Most Distinctive Feature": "6-7 foot wingspan",
+    "Incubation Period": "30 days",
+    "Litter Size": "2-7 eggs",
+    "Habitat": "Marshes",
+    "Predators": "Bears and raccoons, crows and ravens, eagles",
+    "Diet": "Carnivore",
+    "Type": "bird",
+    "Common Name": "Great Blue Heron",
+    "Location": "North America",
+    "Colour": "GreyBlue",
+    "Skin Type": "Feathers",
+    "Weight": "5-6 pounds",
+    "Length": "38 inches",
+    "Name": "Great Blue Heron",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+    ]
+}

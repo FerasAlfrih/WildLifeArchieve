@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Puma",
+    "Scientific Name": "Felis Concolor",
+    "Main Prey": "Deer, Elk, Beavers",
+    "Litter Size": "3",
+    "Habitat": "Forest and mountainous regions",
+    "Predators": "Human, Grizzly Bear",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Origin": "3",
+    "Slogan": "Has no real natural predators!",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "30 mph",
+    "Lifespan": "10-20 years",
+    "Weight": "29-90kg (64-198lbs)",
+    "Name": "Mountain Lion",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+    ]
+}

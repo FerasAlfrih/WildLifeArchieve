@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "This dog is also known as a Bassetdor or a Basset Lab.",
+    "Temperament": "Friendly, outgoing, and loyal",
+    "Diet": "Omnivore",
+    "Colour": "BrownWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10-13 years",
+    "Weight": "70 lbs",
+    "Name": "Bassador",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Acipenseriformes",
+    "Family": "Acipenseridae",
+    "Genus": "Huso",
+    "Scientific Name": "Huso huso",
+    "Prey": "Fish",
+    "Group Behavior": "Solitary/Group",
+    "Fun Fact": "The beluga sturgeon is one of the largest bony fish in the world!",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Overfishing",
+    "Most Distinctive Feature": "The bony armor",
+    "Other Name(s)": "Great sturgeon",
+    "Gestation Period": "A few days",
+    "Water type": "Saltwater",
+    "Habitat": "Rivers, estuaries, and seas",
+    "Diet": "Carnivore",
+    "Type": "Fish",
+    "Common Name": "Beluga",
+    "Colour": "GreyBlueWhiteDark Brown",
+    "Skin Type": "Skin",
+    "Lifespan": "More than 50 years",
+    "Weight": "Up to 3,500 pounds",
+    "Length": "Up to 20 feet",
+    "Name": "Beluga Sturgeon",
+    "Status": "Critically Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

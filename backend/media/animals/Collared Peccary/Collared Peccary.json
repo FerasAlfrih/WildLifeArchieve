@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Atriodactyla",
+    "Family": "Tayassuidae",
+    "Genus": "Pecari",
+    "Scientific Name": "Pecari tajacu",
+    "Main Prey": "Insects and small lizards",
+    "Habitat": "Deserts and Tropical Rainforests",
+    "Predators": "Coyotes, Mountain Lions and Jaguars",
+    "Diet": "Omnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Bands of 6-12",
+    "Favorite Food": "Succulent Vegetation",
+    "Type": "Mammal",
+    "Slogan": "Form bands of up to 12 individuals!",
+    "Colour": "Dark Grey",
+    "Skin Type": "Bristled hairs",
+    "Lifespan": "10 years",
+    "Weight": "9kg - 27kg (20lbs- 60lbs)",
+    "Name": "Collared Peccary",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "South-America"
+    ]
+}

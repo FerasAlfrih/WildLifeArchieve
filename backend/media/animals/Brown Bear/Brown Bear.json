@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Ursidae",
+    "Genus": "Ursus",
+    "Scientific Name": "Ursus arctos",
+    "Main Prey": "Fish, Fruit, Insects",
+    "Distinctive Feature": "Powerful forearms and hibernate in the winter",
+    "Habitat": "Forest and mountainous regions",
+    "Predators": "Human, Wolf, Cougar",
+    "Diet": "Omnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fish",
+    "Type": "Mammal",
+    "Slogan": "A dominant predator in it's environment!",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "35 mph",
+    "Lifespan": "20 - 30 years",
+    "Weight": "136kg - 390kg (300lbs - 860lbs)",
+    "Height": "1.5m - 2.8m (5ft - 9.2ft)",
+    "Name": "Brown Bear",
+    "Status": "Endangered",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

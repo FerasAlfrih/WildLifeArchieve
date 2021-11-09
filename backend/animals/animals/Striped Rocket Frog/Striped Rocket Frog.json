@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Hylidae",
+    "Genus": "Litoria",
+    "Scientific Name": "Litoria nasuta",
+    "Main Prey": "Insects, Moths, Spiders",
+    "Fun Fact": "The striped rocket frog is one of the unique amphibious treasures of Australia.",
+    "Distinctive Feature": "Long legs and streamlined body",
+    "Water type": "Saltwater",
+    "Habitat": "Woodland swamps and ponds",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Average Clutch Size": "60",
+    "Slogan": "Long powerful hind legs!",
+    "Colour": "BrownBlackTanGreen",
+    "Skin Type": "Permeable",
+    "Top Speed": "5 mph",
+    "Lifespan": "10 - 15 years",
+    "Weight": "5g - 8g (0.17oz - 0.28oz)",
+    "Length": "5cm - 5.5cm (1.9in - 2.1in)",
+    "Name": "Striped Rocket Frog",
+    "Status": "Least Concern",
+    "locations": [
+        "Oceania"
+    ]
+}

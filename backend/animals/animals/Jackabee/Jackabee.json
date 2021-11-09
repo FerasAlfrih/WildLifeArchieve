@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Jackabee has an excellent sense of smell.",
+    "Temperament": "Friendly, intelligent, and hard-working",
+    "Water type": "Saltwater",
+    "Diet": "Omnivore",
+    "Colour": "BrownWhiteTanCreamBeige",
+    "Skin Type": "Hair",
+    "Lifespan": "12-16 years",
+    "Weight": "30 lbs",
+    "Name": "Jackabee",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Norfolk Terrier",
+    "Slogan": "Fearless but not aggressive!",
+    "Group": "Terrier",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "5kg (12lbs)",
+    "Name": "Norfolk Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

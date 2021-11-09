@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Order": "Siluriformes",
+    "Scientific Name": "Siluriformes",
+    "Main Prey": "Fish, Frogs, Worms",
+    "Distinctive Feature": "Flat, broad head and whiskers",
+    "Water Type": "Fresh",
+    "Optimum pH Level": "6.5 - 8.0",
+    "Habitat": "Fast-flowing rivers and lakes",
+    "Predators": "Large Fish, Birds, Mammals, Reptiles",
+    "Diet": "Carnivore",
+    "Favorite Food": "Fish",
+    "Average Clutch Size": "40",
+    "Slogan": "There are nearly 3,000 different species!",
+    "Colour": "BrownGreyYellowBlackWhiteTan",
+    "Skin Type": "Scales",
+    "Lifespan": "8 - 20 years",
+    "Length": "1cm - 270cm (0.4in - 106in)",
+    "Name": "Catfish",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Ocean",
+        "Oceania",
+        "South-America"
+    ]
+}

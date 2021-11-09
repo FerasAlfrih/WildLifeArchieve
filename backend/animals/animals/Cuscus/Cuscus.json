@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Marsupialia",
+    "Family": "Phalangeridae",
+    "Genus": "Phalanger",
+    "Scientific Name": "Phalanger maculatus",
+    "Main Prey": "Fruit, Leaves, Insects",
+    "Distinctive Feature": "Long tail and strong toes",
+    "Habitat": "Tropical rainforest and mangroves",
+    "Predators": "Snakes, Humans, Large birds of prey",
+    "Diet": "Herbivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Has a long, strong prehensile tail!",
+    "Colour": "BrownGreyBlackWhiteTanCream",
+    "Skin Type": "Fur",
+    "Top Speed": "15 mph",
+    "Lifespan": "8 - 12 years",
+    "Weight": "3kg - 6kg (6.5lbs - 13lbs)",
+    "Length": "15cm - 60cm (6in - 24in)",
+    "Name": "Cuscus",
+    "Status": "Near Threatened",
+    "locations": [
+        "Asia",
+        "Oceania"
+    ]
+}

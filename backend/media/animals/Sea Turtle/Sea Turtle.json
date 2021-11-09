@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Testudines",
+    "Family": "Chelonioidea",
+    "Main Prey": "Fish, Crabs, Seaweed, Jellyfish",
+    "Fun Fact": "The great migratory sea turtle roams the world’s open oceans, supremely well-adapted for an aquatic lifestyle.",
+    "Habitat": "Tropical coastal waters and beaches",
+    "Diet": "Omnivore",
+    "Average Litter Size": "100",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fish",
+    "Type": "Reptile",
+    "Slogan": "Always return to the same beach to lay eggs!",
+    "Colour": "BrownTanGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "2.4 mph",
+    "Lifespan": "60-80 years",
+    "Weight": "158-400kg (350-882lbs)",
+    "Name": "Sea Turtle",
+    "Status": "Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

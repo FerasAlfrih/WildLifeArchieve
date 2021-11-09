@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Anguidae",
+    "Genus": "Anguis",
+    "Scientific Name": "Anguis fragilis",
+    "Main Prey": "Insects, Slugs, Worms",
+    "Fun Fact": "Found widely throughout British gardens!",
+    "Distinctive Feature": "Long snake-like body and small eyes",
+    "Habitat": "Grassland and woodlands",
+    "Predators": "Cats, Dogs, Birds",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Reptile",
+    "Average Clutch Size": "8",
+    "Slogan": "Found widely throughout British gardens!",
+    "Colour": "BrownGreyYellowBlackTan",
+    "Skin Type": "Scales",
+    "Top Speed": "0.3 mph",
+    "Lifespan": "10 - 30 years",
+    "Weight": "20g - 100g (0.7oz - 3.5oz)",
+    "Length": "20cm - 50cm (8in - 20in)",
+    "Name": "Slow Worm",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Aureus",
+    "Main Prey": "Antelope, Reptiles, Insects",
+    "Habitat": "Grass plains and dry woodland",
+    "Predators": "Hyena, Leopard, Eagles",
+    "Diet": "Carnivore",
+    "Average Litter Size": "5",
+    "Lifestyle": "Pack",
+    "Favorite Food": "Antelope",
+    "Type": "Mammal",
+    "Slogan": "Can maintain speeds of 16 km/h!",
+    "Colour": "BrownGreyWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "20 mph",
+    "Lifespan": "8-15 years",
+    "Weight": "6.8-11kg (15-24lbs)",
+    "Name": "Jackal",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Europe"
+    ]
+}

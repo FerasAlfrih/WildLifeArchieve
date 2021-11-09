@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Poodle",
+    "Slogan": "Intelligent, alert and active!",
+    "Group": "Gun Dog",
+    "Colour": "BrownGreyRedBlueBlackWhiteCreamSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "16 years",
+    "Weight": "70lbs",
+    "Name": "Poodle",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

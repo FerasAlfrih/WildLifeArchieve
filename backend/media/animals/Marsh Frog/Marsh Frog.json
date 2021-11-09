@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Ranidae",
+    "Genus": "Pelophylax",
+    "Scientific Name": "Pelophylax ridibundus",
+    "Main Prey": "Insects, Moths, Spiders",
+    "Fun Fact": "Marsh frogs are the largest frogs that are native to Europe.",
+    "Distinctive Feature": "Large head and long hind legs",
+    "Habitat": "Ponds, lakes and rivers",
+    "Predators": "Fish, Toads, Birds",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Average Clutch Size": "1000",
+    "Slogan": "Has bright green skin!",
+    "Colour": "BrownYellowBlackWhiteGreen",
+    "Skin Type": "Permeable",
+    "Top Speed": "5 mph",
+    "Lifespan": "5 - 10 years",
+    "Weight": "12g - 15g (0.4oz - 0.5oz)",
+    "Length": "12cm - 17cm (4.7in - 7in)",
+    "Name": "Marsh Frog",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "A Morkie puppy can weigh as little as 4 ounces.",
+    "Temperament": "Affectionate but headstrong",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "10 - 16 years",
+    "Weight": "13lbs",
+    "Name": "Morkie",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

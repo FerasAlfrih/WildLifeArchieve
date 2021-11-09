@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The name \"koolie\" comes from the German mispronunciation of \"collie.\"",
+    "Temperament": "Quiet, energetic",
+    "Diet": "Omnivore",
+    "Colour": "RedBlueBlackWhiteChocolateMulti-colored",
+    "Skin Type": "Hair",
+    "Lifespan": "18 years",
+    "Weight": "55lbs",
+    "Name": "Koolie",
+    "Status": "Not Listed",
+    "locations": [
+        "Oceania"
+    ]
+}

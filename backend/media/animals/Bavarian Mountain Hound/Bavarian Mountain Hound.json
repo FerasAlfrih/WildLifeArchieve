@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Bavarian Mountain Dogs were only accepted into the American Kennel Club in 1996.",
+    "Temperament": "Courageous, intelligent and poised",
+    "Training": "Should be trained from an early age as it is a long and slow process",
+    "Diet": "Omnivore",
+    "Average Litter Size": "8",
+    "Common Name": "Bavarian Mountain Hound",
+    "Slogan": "Calm, quiet and poised!",
+    "Group": "Hound",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12 to15 years",
+    "Weight": "66 lbs",
+    "Name": "Bavarian Mountain Hound",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

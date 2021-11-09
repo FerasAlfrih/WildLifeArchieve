@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Siberian Husky",
+    "Slogan": "Is adequately warm in sub-zero temperatures!",
+    "Group": "North",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "27kg (60lbs)",
+    "Name": "Siberian Husky",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

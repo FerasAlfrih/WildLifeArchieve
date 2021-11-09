@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "These dogs were once used by farmers to keep foxes away from herds of sheep.",
+    "Temperament": "Smart and lively",
+    "Diet": "Omnivore",
+    "Colour": "RedBlueBlackBlonde",
+    "Skin Type": "Hair",
+    "Lifespan": "12 – 16 years",
+    "Weight": "17 lbs",
+    "Name": "Lakeland Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

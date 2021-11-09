@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Lamniformes",
+    "Family": "Megachasmidae",
+    "Genus": "Megachasma",
+    "Scientific Name": "Megachasma pelagios",
+    "Main Prey": "Plankton, jellyfish, shrimp, copepods",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "Swims with its mouth open to capture prey",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Incidental bycatch",
+    "Most Distinctive Feature": "Tremendously large mouth full of teeth",
+    "Other Name(s)": "Big mouth shark",
+    "Gestation Period": "Unknown",
+    "Habitat": "Oceans",
+    "Diet": "Carnivore",
+    "Type": "Cetorhinidae",
+    "Common Name": "Megamouth shark",
+    "Number Of Species": "1",
+    "Colour": "BrownBlackWhite",
+    "Skin Type": "Rough",
+    "Top Speed": "1.3 mph",
+    "Weight": "1,760lbs",
+    "Length": "13ft-18ft",
+    "Name": "Megamouth Shark",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

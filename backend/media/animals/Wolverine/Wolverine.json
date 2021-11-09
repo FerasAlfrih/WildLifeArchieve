@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Mustelidae",
+    "Genus": "Gulo",
+    "Scientific Name": "Gulo gulo",
+    "Main Prey": "Caribou, Moose, Sheep, Eggs",
+    "Fun Fact": "The wolverine is an aggressive carnivore that punches well above its weight",
+    "Habitat": "Mountainous regions and dense forest",
+    "Predators": "Human, Wolves, Bears",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Caribou",
+    "Type": "Mammal",
+    "Slogan": "Releases a strong smelling musk in defence!",
+    "Colour": "BrownBlackWhiteSandy",
+    "Skin Type": "Fur",
+    "Top Speed": "30 mph",
+    "Lifespan": "10-15 years",
+    "Weight": "10-31kg (22-70lbs)",
+    "Name": "Wolverine",
+    "Status": "Least Concern",
+    "locations": [
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

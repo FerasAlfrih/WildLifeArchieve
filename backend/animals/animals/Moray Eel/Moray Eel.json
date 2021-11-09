@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Anguilliformes",
+    "Family": "Muraenidae",
+    "Scientific Name": "Muraenidae",
+    "Main Prey": "Fish, Squid, Crustaceans",
+    "Water Type": "Salt",
+    "Optimum pH Level": "5-7",
+    "Habitat": "Coastal and deep waters",
+    "Predators": "Sharks, Humans, Barracuda",
+    "Diet": "Carnivore",
+    "Favorite Food": "Fish",
+    "Common Name": "Moray Eel",
+    "Average Clutch Size": "10000",
+    "Slogan": "Can grow to nearly 2 meters in length!",
+    "Colour": "BrownGreyYellowBlueBlackWhiteGreenOrange",
+    "Skin Type": "Scales",
+    "Lifespan": "10-30 years",
+    "Name": "Moray Eel",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

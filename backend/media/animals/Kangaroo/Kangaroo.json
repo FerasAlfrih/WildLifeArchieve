@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Diprotodontia",
+    "Family": "Macropodidae",
+    "Main Prey": "Grass, Seeds, Flowers",
+    "Fun Fact": "Females have a deep pouch on their front!",
+    "Habitat": "Dry forests, desert and grassland",
+    "Predators": "Human, Dingo",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Sociable",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Females have a deep pouch on their front!",
+    "Colour": "BrownGreyTan",
+    "Skin Type": "Fur",
+    "Top Speed": "35 mph",
+    "Lifespan": "4-10 years",
+    "Weight": "18-95kg (40-200lbs)",
+    "Name": "Kangaroo",
+    "Status": "Near Threatened",
+    "locations": [
+        "Oceania"
+    ]
+}

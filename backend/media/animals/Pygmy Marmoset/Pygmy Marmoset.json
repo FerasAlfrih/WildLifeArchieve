@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Callitrichidae",
+    "Genus": "Cebuella",
+    "Scientific Name": "Callithrix pygmaea",
+    "Main Prey": "Tree Sap, Fruit, Spiders, Insects",
+    "Habitat": "Outskirts of tropical rainforest",
+    "Predators": "Birds, Snakes, Wildcats",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Tree Sap",
+    "Type": "Mammal",
+    "Slogan": "The smallest species of monkey in the world!",
+    "Colour": "BrownGreyBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "24 mph",
+    "Lifespan": "8-12 years",
+    "Weight": "120-140g (4.2-4.9oz)",
+    "Name": "Pygmy Marmoset",
+    "Status": "Near Threatened",
+    "locations": [
+        "South-America"
+    ]
+}

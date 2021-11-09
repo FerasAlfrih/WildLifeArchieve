@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Alusky dogs are known for their sledding pulling skills.",
+    "Temperament": "Energetic and friendly",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyBlackWhiteSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 15 years",
+    "Weight": "100 lbs",
+    "Name": "Alusky",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

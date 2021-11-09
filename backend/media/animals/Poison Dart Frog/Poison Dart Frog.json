@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Dendrobatidae",
+    "Main Prey": "Insects, Ants, Spiders",
+    "Fun Fact": "Inhabits the jungles of Central and South America!",
+    "Habitat": "Tropical jungle and wet forests",
+    "Predators": "Snake",
+    "Diet": "Carnivore",
+    "Average Litter Size": "10",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Slogan": "Inhabits the jungles of Central and South America!",
+    "Colour": "YellowRedBlueGreenOrange",
+    "Skin Type": "Permeable",
+    "Top Speed": "10 mph",
+    "Lifespan": "2-4 years",
+    "Weight": "2-7g (0.07-0.25oz)",
+    "Name": "Poison Dart Frog",
+    "Status": "Near Threatened",
+    "locations": [
+        "Central-America",
+        "South-America"
+    ]
+}

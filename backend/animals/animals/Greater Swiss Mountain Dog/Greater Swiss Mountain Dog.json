@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "They are closely related to the Bernese Mountain Dog.",
+    "Diet": "Omnivore",
+    "Common Name": "Greater Swiss Mountain Dog",
+    "Slogan": "Protective and gentle by nature!",
+    "Group": "Sennenhund",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "59kg (130lbs)",
+    "Name": "Greater Swiss Mountain Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

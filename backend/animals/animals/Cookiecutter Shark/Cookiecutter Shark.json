@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Squaliformes",
+    "Family": "Dalatiidae",
+    "Genus": "Isistius",
+    "Prey": "large squid, gonostomatids, crustaceans",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "The cookiecutter shark takes its name because it leaves a cookie-shaped bite hole in its prey.",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Ocean pollution",
+    "Most Distinctive Feature": "Cookiecutter sharks glow",
+    "Other Name(s)": "Cigar shark",
+    "Water Type": "Salt",
+    "Habitat": "Ocean",
+    "Predators": "large sharks and bony fish",
+    "Diet": "Carnivore",
+    "Favorite Food": "Marlin, tuna, other sharks, stingrays, seals and whales",
+    "Type": "Dalatiidae",
+    "Common Name": "Cigar shark",
+    "Number Of Species": "2",
+    "Colour": "Brown",
+    "Skin Type": "Rough",
+    "Lifespan": "Up to 25 years",
+    "Length": "14-22 inches",
+    "Name": "Cookiecutter Shark",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

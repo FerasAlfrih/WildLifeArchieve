@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "They are so small that they can fit inside of a purse or bag.",
+    "Diet": "Omnivore",
+    "Common Name": "Chihuahua",
+    "Slogan": "Curious and devoted personality!",
+    "Group": "South",
+    "Skin Type": "Hair",
+    "Lifespan": "18 years",
+    "Weight": "2.7kg (6lbs)",
+    "Name": "Chihuahua",
+    "Status": "Not Listed",
+    "locations": [
+        "Central-America"
+    ]
+}

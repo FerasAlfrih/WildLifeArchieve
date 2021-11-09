@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Mollusca",
+    "Class": "Bivalvia",
+    "Order": "Cardiida",
+    "Family": "Cardiidae",
+    "Genus": "Tridacna",
+    "Scientific Name": "Tridacna gigas",
+    "Main Prey": "Algae, Phytoplantkon, Nutrients In Water",
+    "Fun Fact": "Can reach nearly 4ft in length!",
+    "Habitat": "Saltwater seafloors",
+    "Predators": "Eels, Snails, Starfish",
+    "Diet": "Omnivore",
+    "Average Litter Size": "Millions",
+    "Favorite Food": "Algae",
+    "Common Name": "Giant Clam",
+    "Number Of Species": "100",
+    "Location": "Indian and Pacific Oceans",
+    "Slogan": "Can reach nearly 4ft in length!",
+    "Colour": "BrownYellowRedBlueGreenOrangePink",
+    "Skin Type": "Shell",
+    "Weight": "100-200kg (220-440lbs)",
+    "Name": "Giant Clam",
+    "Status": "Vulnerable",
+    "locations": [
+        "Ocean"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Cypriniformes",
+    "Prey": "Worms, other invertebrates",
+    "Group Behavior": "School",
+    "Fun Fact": "Have sharp spines below their eyes",
+    "Biggest Threat": "overfishing, habitat destruction",
+    "Most Distinctive Feature": "Whiskers",
+    "Other Name(s)": "Clown loach, kuhli loach, hillstream loach",
+    "Gestation Period": "24 hours",
+    "Optimum pH Level": "5.0 – 8",
+    "Habitat": "Rivers",
+    "Diet": "Omnivore",
+    "Type": "Cobitidae",
+    "Common Name": "Loach",
+    "Number Of Species": "1249",
+    "Skin Type": "Scales",
+    "Lifespan": "3-14 years",
+    "Weight": "0.3lbs-6.6lbs (0.1-3kg)",
+    "Length": "2in-20in (5cm-64cm)",
+    "Name": "Loach",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia",
+        "Europe",
+        "North-America"
+    ]
+}

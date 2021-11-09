@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Chilopoda",
+    "Main Prey": "Insects, Spiders, Worms",
+    "Fun Fact": "There are about 3,000 documented species!",
+    "Habitat": "Decomposing matter on forest floor",
+    "Diet": "Carnivore",
+    "Average Litter Size": "60",
+    "Favorite Food": "Insects",
+    "Common Name": "Centipede",
+    "Number Of Species": "3000",
+    "Location": "Worldwide",
+    "Slogan": "There are about 3,000 documented species!",
+    "Colour": "YellowRedBlackOrange",
+    "Skin Type": "Shell",
+    "Name": "Centipede",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

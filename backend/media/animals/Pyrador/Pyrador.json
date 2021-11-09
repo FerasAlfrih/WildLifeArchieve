@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Most popular as a companion pet",
+    "Temperament": "Loyal, protective, affectionate, alert, intelligent",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyYellowBlackTanChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "10-12 years",
+    "Weight": "100 lbs",
+    "Name": "Pyrador",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

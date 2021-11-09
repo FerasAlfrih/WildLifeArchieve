@@ -1,0 +1,15 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Iguanidae",
+    "Genus": "Cyclura",
+    "Scientific Name": "Cyclura lewisi",
+    "Diet": "Omnivore",
+    "Name": "Blue Iguana",
+    "Status": "Endangered",
+    "locations": [
+        "Central-America"
+    ]
+}

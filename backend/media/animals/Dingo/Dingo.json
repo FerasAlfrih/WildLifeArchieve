@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus Dingo",
+    "Main Prey": "Rabbit, Lizards, Rodents",
+    "Distinctive Feature": "Pricked ears and a long bushy tail",
+    "Habitat": "Desert, wet and dry forests",
+    "Predators": "Human, Large reptiles",
+    "Diet": "Carnivore",
+    "Average Litter Size": "6",
+    "Lifestyle": "Pack",
+    "Favorite Food": "Rabbit",
+    "Type": "Mammal",
+    "Slogan": "Natively found on the Australian continent!",
+    "Colour": "BrownGreyYellowRedBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "30 mph",
+    "Lifespan": "7 - 15 years",
+    "Weight": "13kg - 20kg (28lbs - 44lbs)",
+    "Length": "100cm - 125cm (39in - 49in)",
+    "Name": "Dingo",
+    "Status": "Near Threatened",
+    "locations": [
+        "Oceania"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Caudata",
+    "Family": "Salamandroidea",
+    "Scientific Name": "Caudata",
+    "Main Prey": "Fish, Mice, Insects",
+    "Habitat": "Rainforest, streams and wetlands",
+    "Predators": "Fish, Snakes, Birds",
+    "Diet": "Carnivore",
+    "Average Litter Size": "300",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fish",
+    "Type": "Amphibian",
+    "Slogan": "There are more than 700 different species!",
+    "Colour": "BrownYellowRedBlackWhiteGreen",
+    "Skin Type": "Permeable Scales",
+    "Top Speed": "30 mph",
+    "Lifespan": "5-20 years",
+    "Weight": "0.1-65kg (0.2-143lbs)",
+    "Name": "Salamander",
+    "Status": "Near Threatened",
+    "locations": [
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "South-America"
+    ]
+}

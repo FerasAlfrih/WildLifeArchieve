@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Golden saints come in all kinds of colors. You can find them in tan, chocolate, yellow, brindled, spotted, and almost any other pattern you can think of.",
+    "Temperament": "Sweet, gentle, and playful",
+    "Diet": "Omnivore",
+    "Colour": "BrownYellowRedBlackWhiteBrindleCreamChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "8-13 years",
+    "Weight": "220lbs",
+    "Name": "Golden Saint",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

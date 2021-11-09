@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Sphenisciformes",
+    "Family": "Spheniscidae",
+    "Scientific Name": "Aptenodytes Forsteri",
+    "Main Prey": "Fish, Crabs, Squid",
+    "Distinctive Feature": "Short, sharp beak and slight webbed feet",
+    "Wingspan": "60cm - 130cm (23.6in - 21in)",
+    "Habitat": "Cold seas and rocky land",
+    "Predators": "Leopard Seals, Sharks, Killer Whale",
+    "Diet": "Omnivore",
+    "Lifestyle": "Group",
+    "Favorite Food": "Fish",
+    "Type": "Bird",
+    "Average Clutch Size": "1",
+    "Slogan": "Spends 75% of it's time hunting for food!",
+    "Colour": "GreyYellowBlackWhite",
+    "Skin Type": "Feathers",
+    "Top Speed": "40 mph",
+    "Lifespan": "20 - 30 years",
+    "Weight": "1kg - 35kg (2.2lbs - 75lbs)",
+    "Height": "40cm - 110cm (15.7in - 43in)",
+    "Name": "Penguin",
+    "Status": "Near Threatened",
+    "locations": [
+        "Antarctica",
+        "Ocean"
+    ]
+}

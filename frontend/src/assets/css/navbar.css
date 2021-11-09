@@ -1,0 +1,6 @@
+.dropdown-item {
+  color: cornsilk;
+}
+.dropdown-item :hover {
+  color: seagreen;
+}

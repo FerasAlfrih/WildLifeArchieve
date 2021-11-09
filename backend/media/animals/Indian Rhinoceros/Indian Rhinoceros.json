@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Perissodactyla",
+    "Family": "Rhinocerotidae",
+    "Genus": "Rhinoceros",
+    "Scientific Name": "Rhinoceros Unicornis",
+    "Main Prey": "Grass, Fruit, Berries, Leaves",
+    "Habitat": "Tropical bushland, grassland and savannas",
+    "Predators": "Human, Wild cats",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Also known as the one-horned rhino!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Leather",
+    "Top Speed": "30 mph",
+    "Lifespan": "45-50 years",
+    "Weight": "2,200kg - 3,000kg (4,900lbs - 6,600lbs)",
+    "Length": "1.7m - 2m (5.6ft - 6.6ft)",
+    "Name": "Indian Rhinoceros",
+    "Status": "Endangered",
+    "locations": [
+        "Asia"
+    ]
+}

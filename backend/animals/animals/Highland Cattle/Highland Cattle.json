@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Bos",
+    "Scientific Name": "Bos Taurus",
+    "Main Prey": "Grass, Leaves, Flowers",
+    "Habitat": "Mountainous and wet grasslands",
+    "Predators": "Human, Wolf, Coyote",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Natively found in the Scottish Highlands!",
+    "Colour": "BrownTanOrange",
+    "Skin Type": "Hair",
+    "Top Speed": "25 mph",
+    "Lifespan": "15-22 years",
+    "Weight": "400-1,000kg (882-2,204lbs)",
+    "Name": "Highland Cattle",
+    "Status": "Least Concern",
+    "locations": [
+        "Europe",
+        "North-America",
+        "Oceania"
+    ]
+}

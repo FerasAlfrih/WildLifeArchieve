@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "This breed is nicknamed the “Diehard” because of its iron will and steely determination.",
+    "Temperament": "Confident, independent, and alert",
+    "Diet": "Omnivore",
+    "Colour": "BlackBrindleBeige",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15 years",
+    "Weight": "22 lbs",
+    "Name": "Scottish Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

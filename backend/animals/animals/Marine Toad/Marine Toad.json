@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Bufonidae",
+    "Genus": "Bufo",
+    "Scientific Name": "Bufo Marinus",
+    "Main Prey": "Insects and Small Animals",
+    "Distinctive Feature": "Large body size and rough skin",
+    "Habitat": "Forests and fields close to water",
+    "Predators": "Dogs, Snakes, Birds",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Average Clutch Size": "15000",
+    "Slogan": "Produces a toxin used in arrow darts!",
+    "Colour": "BrownGreyBlackTanGreen",
+    "Skin Type": "Permeable",
+    "Top Speed": "5 mph",
+    "Lifespan": "10 - 15 years",
+    "Weight": "200g - 800g (7oz - 28oz)",
+    "Length": "10cm - 15cm (4in - 6in)",
+    "Name": "Marine Toad",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "Oceania",
+        "South-America"
+    ]
+}

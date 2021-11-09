@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Testudines",
+    "Family": "Testudinidae",
+    "Genus": "Gopherus",
+    "Scientific Name": "Gopherus Agassizii",
+    "Main Prey": "Grasses, Herbs, Flowers",
+    "Distinctive Feature": "Small size and patterned shell",
+    "Habitat": "Sandy desert plains and rocky hills",
+    "Predators": "Coyote, Birds, Gila Monster",
+    "Diet": "Herbivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Grasses",
+    "Type": "Reptile",
+    "Average Clutch Size": "7",
+    "Slogan": "Lives in burrows underground!",
+    "Colour": "BrownYellowBlackTan",
+    "Skin Type": "Scales",
+    "Top Speed": "0.3 mph",
+    "Lifespan": "25 - 60 years",
+    "Weight": "4kg - 7kg (8lbs - 15lbs)",
+    "Length": "25cm - 36cm (10in - 14in)",
+    "Name": "Desert Tortoise",
+    "Status": "Near Threatened",
+    "locations": [
+        "Central-America",
+        "North-America"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Shepweiler is an excellent guard dog.",
+    "Temperament": "Protective, loyal, and intelligent",
+    "Diet": "Omnivore",
+    "Colour": "BrownFawnRedBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 13 years",
+    "Weight": "115 lbs",
+    "Name": "Shepweiler",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

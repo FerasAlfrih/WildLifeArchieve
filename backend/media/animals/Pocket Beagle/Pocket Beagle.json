@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Queen Elizabeth I of England once owned several Pocket Beagles",
+    "Temperament": "Energetic, determined, friendly, and curious",
+    "Diet": "Omnivore",
+    "Colour": "GreyRedBlueBlackWhiteTanOrange",
+    "Skin Type": "Hair",
+    "Lifespan": "10 - 15 years",
+    "Weight": "15 lbs",
+    "Name": "Pocket Beagle",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

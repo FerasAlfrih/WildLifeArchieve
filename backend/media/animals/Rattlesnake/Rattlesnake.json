@@ -1,0 +1,18 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Viperidae",
+    "Genus": "Crotalus",
+    "Diet": "Omnivore",
+    "Slogan": "It's venom digests it's prey before it even swallows it!",
+    "Skin Type": "Hair",
+    "Name": "Rattlesnake",
+    "Status": "Least Concern",
+    "locations": [
+        "Central-America",
+        "North-America",
+        "South-America"
+    ]
+}

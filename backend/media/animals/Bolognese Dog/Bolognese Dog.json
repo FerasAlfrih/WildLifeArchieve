@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Temperament": "Devoted and lively, yet docile",
+    "Training": "Should be trained from an early age due to their hyperactive nature",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Common Name": "Bolognese Dog",
+    "Slogan": "From the northern Italian city of Bologna!",
+    "Group": "Gun Dog",
+    "Colour": "White",
+    "Skin Type": "Hair",
+    "Name": "Bolognese Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

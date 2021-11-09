@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Cypriniformes",
+    "Family": "Cyprinidae",
+    "Genus": "Barbus",
+    "Scientific Name": "Barbus Barbus",
+    "Main Prey": "Fish, Shrimp, Algae",
+    "Distinctive Feature": "Easily adaptable and rows of teeth",
+    "Water Type": "Fresh",
+    "Optimum pH Level": "6.0 - 7.5",
+    "Habitat": "Slow flowing rivers and lagoons",
+    "Predators": "Fish, Birds, Reptiles",
+    "Diet": "Omnivore",
+    "Favorite Food": "Fish",
+    "Common Name": "Barb",
+    "Average Clutch Size": "1500",
+    "Slogan": "There are over 2,000 known species!",
+    "Colour": "YellowRedBlackWhiteOrangeSilver",
+    "Skin Type": "Scales",
+    "Lifespan": "3 - 7 years",
+    "Length": "2.5cm - 7cm (1in - 3in)",
+    "Name": "Barb",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "South-America"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Puma",
+    "Scientific Name": "Felis Concolor",
+    "Main Prey": "Deer, Elk, Beavers",
+    "Distinctive Feature": "Powerful forearms and paws and muscular jaw",
+    "Water type": "Saltwater",
+    "Habitat": "Forest and mountainous regions",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "Largest feline in North America",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "30 mph",
+    "Lifespan": "10 - 20 years",
+    "Weight": "29kg - 90kg (64lbs - 198lbs)",
+    "Length": "1.5m - 2.75m (5ft - 9ft)",
+    "Name": "Cougar",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "These dogs are active and are often patient around children.",
+    "Temperament": "Active, friendly, energetic, intelligent, and playful",
+    "Diet": "Omnivore",
+    "Colour": "FawnRedBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 15 years",
+    "Weight": "30 lbs",
+    "Name": "Puggle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

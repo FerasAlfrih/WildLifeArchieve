@@ -1,0 +1,25 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "Mongrels often suffer from few health issues and live longer than purebreds.",
+    "Diet": "Omnivore",
+    "Slogan": "Has characteristics of two or more breeds!",
+    "Skin Type": "Hair",
+    "Name": "Mongrel",
+    "Status": "Not Listed",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

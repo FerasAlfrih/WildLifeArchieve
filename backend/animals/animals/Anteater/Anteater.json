@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Xenarthra",
+    "Family": "Myrmecophagidae",
+    "Genus": "Tamandua",
+    "Scientific Name": "Myrmecophaga Tridactyla",
+    "Main Prey": "Ants, Termites, Insects",
+    "Distinctive Feature": "Elongated snout and long sticky tongue",
+    "Habitat": "Forest and grasslands",
+    "Predators": "Puma, Snakes, Jaguar",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Ants",
+    "Type": "Mammal",
+    "Slogan": "Found throughout the Southern Hemisphere!",
+    "Colour": "BrownGreyBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "18 mph",
+    "Lifespan": "9 - 20 years",
+    "Weight": "18kg - 40kg (40lbs - 88lbs)",
+    "Length": "0.9m - 2.1m (3ft - 7ft)",
+    "Name": "Anteater",
+    "Status": "Near Threatened",
+    "locations": [
+        "Central-America",
+        "South-America"
+    ]
+}

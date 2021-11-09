@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Callitrichidae",
+    "Genus": "Leontopithecus",
+    "Scientific Name": "Leontopithecus rosalia",
+    "Main Prey": "Fruit, Insects, Small Mammals, Small Reptiles",
+    "Fun Fact": "Native to the eastern rainforests of Brazil!",
+    "Habitat": "Lowland tropical forest",
+    "Predators": "Hawks, Wild Cats, Snakes, Rats",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Native to the eastern rainforests of Brazil!",
+    "Colour": "BrownBlackGoldOrange",
+    "Skin Type": "Hair",
+    "Top Speed": "24 mph",
+    "Lifespan": "8-15 years",
+    "Weight": "550-700g (19-25oz)",
+    "Name": "Golden Lion Tamarin",
+    "Status": "Endangered",
+    "locations": [
+        "South-America"
+    ]
+}

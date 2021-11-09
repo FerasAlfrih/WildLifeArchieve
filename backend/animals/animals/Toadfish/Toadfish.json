@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Batrachoidiformes",
+    "Family": "Batrachoididae",
+    "Prey": "Sea worms, crustaceans, mollusks, other fish",
+    "Group Behavior": "Territorial",
+    "Fun Fact": "Can be heard out of water",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Hunting/trapping, pollution",
+    "Most Distinctive Feature": "Toadlike appearance",
+    "Other Name(s)": "Frogfish, dogfish",
+    "Gestation Period": "Varies",
+    "Water Type": "Salt",
+    "Habitat": "Worldwide",
+    "Predators": "Marine mammals, sea turtles, other fish",
+    "Diet": "Carnivore",
+    "Type": "Vertebrate",
+    "Common Name": "Frogfish",
+    "Number Of Species": "83",
+    "Colour": "Brown",
+    "Skin Type": "Smooth",
+    "Lifespan": "3-24 years",
+    "Weight": "0.25-5.1lbs (110g-2.3kg)",
+    "Length": "7.5-57cm (3-22in)",
+    "Name": "Toadfish",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

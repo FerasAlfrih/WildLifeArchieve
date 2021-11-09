@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Main Prey": "Grass, Shoots, Seeds",
+    "Distinctive Feature": "Long legs and curved antlers",
+    "Habitat": "Forest and grasslands",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Renew their horns every year!",
+    "Colour": "BrownRedTan",
+    "Skin Type": "Fur",
+    "Top Speed": "43 mph",
+    "Lifespan": "10 - 25 years",
+    "Weight": "500kg - 900kg (1,100lbs - 2,000lbs)",
+    "Height": "1m - 1.5m (3 - 5ft)",
+    "Name": "Antelope",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "North-America"
+    ]
+}

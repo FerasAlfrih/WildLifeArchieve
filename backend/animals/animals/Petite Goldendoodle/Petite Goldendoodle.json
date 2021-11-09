@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Like their purebred parents, these dogs love the water!",
+    "Temperament": "Energetic and friendly",
+    "Diet": "Omnivore",
+    "Colour": "BrownBlueBlackWhiteTanCreamSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 15 years",
+    "Weight": "20 lbs",
+    "Name": "Petite Goldendoodle",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

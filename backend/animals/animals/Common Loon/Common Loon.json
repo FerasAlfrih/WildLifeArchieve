@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Gaviiformes",
+    "Family": "Gaviidae",
+    "Genus": "Gavia",
+    "Scientific Name": "Gavia Immer",
+    "Main Prey": "Fish, Frogs, Insects",
+    "Distinctive Feature": "Large body size and eerie, yodel-like call",
+    "Wingspan": "100cm - 136cm (39in - 53.5in)",
+    "Habitat": "Freshwater lakes in cooler climates",
+    "Predators": "Human, Eagles, Osprey",
+    "Diet": "Omnivore",
+    "Lifestyle": "Flock",
+    "Favorite Food": "Fish",
+    "Type": "Bird",
+    "Average Clutch Size": "2",
+    "Slogan": "Also known as the Great Northern Diver",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Feathers",
+    "Lifespan": "15 - 25 years",
+    "Weight": "3kg - 5kg (6.6lbs - 11lbs)",
+    "Length": "63cm - 81cm (24.8in - 31.8in)",
+    "Name": "Common Loon",
+    "Status": "Least Concern",
+    "locations": [
+        "Europe",
+        "North-America"
+    ]
+}

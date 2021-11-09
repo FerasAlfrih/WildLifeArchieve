@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Panthera",
+    "Scientific Name": "Panthera Tigris Altaica",
+    "Main Prey": "Deer, Cattle, Wild Boar",
+    "Habitat": "Dense tropical forest",
+    "Predators": "Human",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "Also known as the Amur tiger!",
+    "Colour": "BlackWhiteOrange",
+    "Skin Type": "Fur",
+    "Top Speed": "60 mph",
+    "Lifespan": "18 - 25 years",
+    "Weight": "100kg - 350kg (220lbs - 770lbs)",
+    "Name": "Siberian Tiger",
+    "Status": "Endangered",
+    "locations": [
+        "Asia",
+        "Eurasia"
+    ]
+}

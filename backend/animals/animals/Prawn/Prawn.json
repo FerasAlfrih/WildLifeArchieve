@@ -1,0 +1,25 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Order": "Decapoda",
+    "Family": "Dendrobranchiata",
+    "Scientific Name": "Dendrobranchiata",
+    "Main Prey": "Fish, Insects, Plankton",
+    "Water type": "Saltwater",
+    "Optimum PH Level": "6.5 - 9.0",
+    "Habitat": "Rocky, coastal waters",
+    "Diet": "Omnivore",
+    "Average Litter Size": "100",
+    "Favorite Food": "Fish",
+    "Type": "Fresh, Brackish, Salt",
+    "Common Name": "Prawn",
+    "Slogan": "Closely related to crabs and lobsters!",
+    "Colour": "GreyBlackWhitePink",
+    "Skin Type": "Shell",
+    "Lifespan": "2 - 4 years",
+    "Name": "Prawn",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

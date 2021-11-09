@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Callitrichidae",
+    "Genus": "Saguinus",
+    "Scientific Name": "Saguinus midas",
+    "Main Prey": "Fruit, Insects, Rodents",
+    "Distinctive Feature": "Small body size and long, thin tail",
+    "Habitat": "Lowland tropical forest",
+    "Predators": "Hawks, Snakes, Wild Cats",
+    "Diet": "Omnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Troop",
+    "Favorite Food": "Fruit",
+    "Type": "Mammal",
+    "Slogan": "Red hair on hands on feet!",
+    "Colour": "BrownRedBlackGoldTan",
+    "Skin Type": "Fur",
+    "Top Speed": "24 mph",
+    "Lifespan": "8 - 15 years",
+    "Weight": "220g - 900g (7.7oz - 32oz)",
+    "Length": "18cm - 30cm (7in - 12in)",
+    "Name": "Red-handed Tamarin",
+    "Status": "Least Concern",
+    "locations": [
+        "South-America"
+    ]
+}

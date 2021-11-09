@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Myobatrachidae",
+    "Genus": "Heleioporus",
+    "Main Prey": "Insects, Worms, Spiders",
+    "Fun Fact": "Found close to marshes, streams and lakes!",
+    "Distinctive Feature": "Long limbs and rough, bumpy skin",
+    "Habitat": "Forests, rivers and marshes",
+    "Predators": "Foxes, Snakes, Birds",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Average Clutch Size": "200",
+    "Slogan": "Found close to marshes, streams and lakes!",
+    "Colour": "BrownGreyYellowBlackGreen",
+    "Skin Type": "Permeable",
+    "Top Speed": "5 mph",
+    "Lifespan": "10 - 15 years",
+    "Weight": "20g - 80g (0.7oz - 2.8oz)",
+    "Length": "6cm - 10cm (2.4in - 4in)",
+    "Name": "Burrowing Frog",
+    "Status": "Least Concern",
+    "locations": [
+        "Oceania"
+    ]
+}

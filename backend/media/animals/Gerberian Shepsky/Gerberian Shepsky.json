@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "German Shepherds, Siberian Huskies, and Gerberian Shepskies are all popular choices for police dogs.",
+    "Temperament": "Loyal, intelligent, and alert",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyBlackWhiteGoldTanCream",
+    "Skin Type": "Hair",
+    "Lifespan": "10-13 years",
+    "Weight": "88 lbs",
+    "Name": "Gerberian Shepsky",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

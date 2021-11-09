@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "An exceptionally agile jumper!",
+    "Other Name(s)": "Siberian Forest Cat",
+    "Temperament": "Affectionate, loving and loyal",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Common Name": "Siberian Cat",
+    "Slogan": "An exceptionally agile jumper!",
+    "Group": "Longhair",
+    "Colour": "BrownFawnBlueBlackWhiteCreamLilacGolden",
+    "Skin Type": "Hair",
+    "Lifespan": "11 to 15 years",
+    "Weight": "8 to 17 lbs.",
+    "Name": "Siberian",
+    "Status": "Not Listed",
+    "locations": [
+        "Eurasia"
+    ]
+}

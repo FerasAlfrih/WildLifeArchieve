@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Temperament": "Devoted, alert and fearless",
+    "Training": "Should be trained from an early age due to their independent nature",
+    "Diet": "Omnivore",
+    "Average Litter Size": "8",
+    "Common Name": "BullMastiff",
+    "Slogan": "Courageous, loyal and calm!",
+    "Group": "Mastiff",
+    "Colour": "BrownFawnBlackTanCream",
+    "Skin Type": "Hair",
+    "Name": "Bullmastiff",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

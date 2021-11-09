@@ -1,0 +1,17 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Shiba Inus are one of six native dog breeds from Japan.",
+    "Diet": "Omnivore",
+    "Skin Type": "Hair",
+    "Name": "Shiba Inu",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

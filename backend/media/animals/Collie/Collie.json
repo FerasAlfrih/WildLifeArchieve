@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Collie",
+    "Slogan": "Gentle and devoted!",
+    "Group": "Herd",
+    "Skin Type": "Hair",
+    "Lifespan": "13 years",
+    "Weight": "34kg (75lbs)",
+    "Name": "Collie",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

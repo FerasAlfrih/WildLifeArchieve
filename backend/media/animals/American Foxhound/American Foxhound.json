@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The American Foxhound is the state dog of Virginia.",
+    "Distinctive Feature": "Long legs and wide, flat ears",
+    "Temperament": "Mix of affectionate, loving, and stubborn",
+    "Training": "Medium",
+    "Diet": "Omnivore",
+    "Average Litter Size": "7",
+    "Type": "Hound",
+    "Common Name": "American Foxhound",
+    "Slogan": "Sweet, kind, loyal, and very loving!",
+    "Group": "Dog",
+    "Colour": "BlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 12 years",
+    "Name": "American Foxhound",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Pelecaniformes",
+    "Family": "Pelecanidae",
+    "Genus": "Pelecanus",
+    "Main Prey": "Fish, Crabs, Turtles",
+    "Fun Fact": "Can have a wingspan of up to 3 meters!",
+    "Distinctive Feature": "Pouch hanging from underside of beak and keen eyesight",
+    "Wingspan": "183cm - 350cm (72in - 138in)",
+    "Habitat": "Arid islands and coastal waters",
+    "Predators": "Human, Cat, Coyote",
+    "Diet": "Omnivore",
+    "Lifestyle": "Flock",
+    "Favorite Food": "Fish",
+    "Type": "Bird",
+    "Average Clutch Size": "6",
+    "Slogan": "Can have a wingspan of up to 3 meters!",
+    "Nesting Location": "Ground or tree, depending on the species",
+    "Colour": "GreyBlackWhite",
+    "Skin Type": "Feathers",
+    "Top Speed": "40 mph",
+    "Lifespan": "16 - 23 years",
+    "Weight": "2.7kg - 15kg (6lbs - 33lbs)",
+    "Height": "106cm - 183cm (42in - 72in)",
+    "Name": "Pelican",
+    "Status": "Least Concern",
+    "locations": [
+        "World Wide"
+    ]
+}

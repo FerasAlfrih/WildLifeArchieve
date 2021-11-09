@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Rodentia",
+    "Family": "Gliridae",
+    "Scientific Name": "Gliridae",
+    "Main Prey": "Fruits, Nuts, Insects",
+    "Distinctive Feature": "Long tail and thin, black whiskers",
+    "Habitat": "Dense woodlands and shrub land",
+    "Predators": "Owls, Snakes, Weasels",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Fruits",
+    "Type": "Mammal",
+    "Slogan": "Found in Europe, Africa and Asia!",
+    "Colour": "BrownGreyBlackWhiteGoldTan",
+    "Skin Type": "Fur",
+    "Top Speed": "8 mph",
+    "Lifespan": "2 - 5 years",
+    "Weight": "15g - 200kg (0.5oz - 7.1oz)",
+    "Length": "6cm - 19cm (2.4in - 7.5in)",
+    "Name": "Dormouse",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Eurasia",
+        "Europe"
+    ]
+}

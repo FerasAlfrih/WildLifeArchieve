@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus rufus",
+    "Main Prey": "Deer, Rodents, Raccoons",
+    "Name Of Young": "Cub",
+    "Distinctive Feature": "Reddish fur and thin white legs",
+    "Habitat": "Coastal prairie and marshland",
+    "Predators": "Wolves, Coyotes, Humans",
+    "Diet": "Carnivore",
+    "Average Litter Size": "5",
+    "Lifestyle": "Pack",
+    "Favorite Food": "Deer",
+    "Type": "Mammal",
+    "Slogan": "Only 100 in the wild!",
+    "Colour": "BrownGreyRedBlackWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "46 mph",
+    "Lifespan": "10 - 12 years",
+    "Weight": "18kg - 41kg (40lbs - 90lbs)",
+    "Length": "95cm - 120cm (37in - 47in)",
+    "Name": "Red Wolf",
+    "Status": "Critically Endangered",
+    "locations": [
+        "North-America"
+    ]
+}

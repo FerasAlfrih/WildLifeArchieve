@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Fun Fact": "Drevers got their name from a naming contest in 1947.",
+    "Diet": "Omnivore",
+    "Common Name": "Drever",
+    "Slogan": "Uncommon outside of Europe!",
+    "Group": "Hound",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "15kg (33lbs)",
+    "Name": "Drever",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

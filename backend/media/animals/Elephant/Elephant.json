@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Proboscidea",
+    "Family": "Elephantidae",
+    "Main Prey": "Grass, Fruit, Roots",
+    "Fun Fact": "Spends around 22 hours a day eating!",
+    "Distinctive Feature": "Large body size and long trunk",
+    "Habitat": "Rainforest and flood plains",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Spends around 22 hours a day eating!",
+    "Colour": "Grey",
+    "Skin Type": "Leather",
+    "Top Speed": "25 mph",
+    "Lifespan": "55 - 70 years",
+    "Weight": "3,000kg - 5,400kg (6,500lbs - 12,000lbs)",
+    "Height": "2m - 3.6m (7ft - 12ft)",
+    "Name": "Elephant",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia"
+    ]
+}

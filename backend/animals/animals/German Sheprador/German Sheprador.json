@@ -1,0 +1,18 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Main Prey": "_",
+    "Fun Fact": "There is a chance that the German Sheprador may inherit a love for water from its parent.",
+    "Diet": "Omnivore",
+    "Migratory": "1",
+    "Name": "German Sheprador",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

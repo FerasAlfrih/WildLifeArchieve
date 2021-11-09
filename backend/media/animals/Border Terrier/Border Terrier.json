@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis Lupus",
+    "Temperament": "Affectionate, brave and intelligent",
+    "Training": "Should be trained from an early age due to their hyperactive nature",
+    "Diet": "Omnivore",
+    "Average Litter Size": "6",
+    "Common Name": "Border Terrier",
+    "Slogan": "Small, rough-coated breed of terrier!",
+    "Group": "Terrier",
+    "Colour": "BrownGreyFawnBlackTan",
+    "Skin Type": "Hair",
+    "Name": "Border Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Bucerotiformes",
+    "Family": "Upupidae",
+    "Genus": "Upupa",
+    "Name Of Young": "Chicks or hatchlings",
+    "Group Behavior": "Largely solitary",
+    "Fun Fact": "The Hoopoe genus is the only living member of its family!",
+    "Estimated Population Size": "5-10 million",
+    "Most Distinctive Feature": "Crest of feathers on the head",
+    "Wingspan": "44cm – 48cm (17in - 19in)",
+    "Habitat": "Forests, plains, and savannas",
+    "Diet": "Omnivore",
+    "Favorite Food": "Ants, grasshoppers, beetles, crickets, and other insects",
+    "Common Name": "Hoopoe",
+    "Location": "Europa, Asia, and Africa",
+    "Slogan": "Stunning bird with a stinky way to deter predators!",
+    "Group": "Birds",
+    "Skin Type": "Feathers",
+    "Lifespan": "Around 10 years in the wild",
+    "Weight": "46g – 89g (1.6oz – 3.1oz)",
+    "Length": "25cm - 32cm (10in – 12.6in)",
+    "Age of Sexual Maturity": "A few months",
+    "Name": "Hoopoe",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Europe"
+    ]
+}

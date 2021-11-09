@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Capra",
+    "Scientific Name": "Capra aegagrus hircus",
+    "Name Of Young": "kid",
+    "Group Behavior": "Herd",
+    "Fun Fact": "The Nubian is a relatively large, proud, and graceful dairy goat that traces its ancestry to India and Egypt.",
+    "Estimated Population Size": "924 million",
+    "Gestation Period": "150 days",
+    "Litter Size": "2",
+    "Diet": "Herbivore",
+    "Number Of Species": "1",
+    "Colour": "BlackWhiteTanChestnut",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years in captivity, 12 years in the wild",
+    "Weight": "135lbs",
+    "Age of Sexual Maturity": "six months",
+    "Name": "Nubian Goat",
+    "Status": "Not Evaluated",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Neapolitan Mastiff dogs have a rather famous history, dating back to the Roman Empire and Julius Caesar.",
+    "Diet": "Omnivore",
+    "Common Name": "Neapolitan Mastiff",
+    "Slogan": "Fearless and extremely protective of it's home!",
+    "Group": "Mastiff",
+    "Colour": "BlueBlackBrindleTawnyBlack-Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "10 years",
+    "Weight": "200 lbs",
+    "Name": "Neapolitan Mastiff",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

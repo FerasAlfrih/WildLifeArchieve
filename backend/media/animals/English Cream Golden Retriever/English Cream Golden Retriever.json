@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Although their coats can get incredibly light in color, golden retrievers never have purely white coats.",
+    "Temperament": "Intelligent and obedient",
+    "Diet": "Omnivore",
+    "Colour": "GoldCream",
+    "Skin Type": "Hair",
+    "Lifespan": "10-12 years",
+    "Weight": "75 lbs",
+    "Name": "English Cream Golden Retriever",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

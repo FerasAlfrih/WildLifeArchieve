@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Testudines",
+    "Family": "Emydidae",
+    "Genus": "Chrysemys",
+    "Scientific Name": "Chrysemys picta",
+    "Prey": "insects, small fish, small mammals, crustaceans",
+    "Name Of Young": "hatchling",
+    "Group Behavior": "Group",
+    "Fun Fact": "Male painted turtles have longer nails.",
+    "Biggest Threat": "Habitat reduction",
+    "Most Distinctive Feature": "colorful stripes on legs and neck",
+    "Other Name(s)": "Western, eastern, midland, and southern painted turtle",
+    "Gestation Period": "80 days",
+    "Litter Size": "4-10",
+    "Habitat": "Ponds, streams, marshes",
+    "Predators": "Raccoons, otters, foxes",
+    "Diet": "Omnivore",
+    "Type": "Reptile",
+    "Common Name": "Painted turtle",
+    "Group": "large groups",
+    "Colour": "YellowRedBlackGreenOrange",
+    "Skin Type": "Hard Outer Shell",
+    "Top Speed": "3 mph",
+    "Name": "Painted Turtle",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "This breed is also known as the Bohemian Terrier (Bohemia was an historical Medieval kingdom and a region of the modern Czech Republic)",
+    "Temperament": "Alert, inquisitive, and adventuresome",
+    "Diet": "Omnivore",
+    "Colour": "GreyBlueLight-Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "12 – 15 years",
+    "Weight": "24 lbs",
+    "Name": "Cesky Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

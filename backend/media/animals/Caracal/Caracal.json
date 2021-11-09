@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Caracal",
+    "Scientific Name": "Caracal Caracal",
+    "Main Prey": "Hares, Mice, Antelope",
+    "Distinctive Feature": "Long, black ear tufts and short fur",
+    "Habitat": "Dry woodland and savannah",
+    "Predators": "Human, Hyena, Lions",
+    "Diet": "Carnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Hares",
+    "Type": "Mammal",
+    "Slogan": "Has 20 different muscles in it's ears!",
+    "Colour": "BrownBlackTan",
+    "Skin Type": "Fur",
+    "Top Speed": "50 mph",
+    "Lifespan": "12 - 15 years",
+    "Weight": "11kg - 18kg (24lbs - 40lbs)",
+    "Height": "65cm - 90cm (2ft - 3ft)",
+    "Name": "Caracal",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia"
+    ]
+}

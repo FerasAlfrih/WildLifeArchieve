@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Dasyuromorphia",
+    "Family": "Myrmecobiidae",
+    "Genus": "Myrmecobius",
+    "Scientific Name": "Myrmecobius Fasciatus",
+    "Main Prey": "Termites, Ants, Insects",
+    "Habitat": "Eucalyptus woodland and grassland",
+    "Predators": "Snakes, Foxes, Birds of Prey",
+    "Diet": "Omnivore",
+    "Average Litter Size": "4",
+    "Lifestyle": "Sociable",
+    "Favorite Food": "Termites",
+    "Type": "Mammal",
+    "Slogan": "There are less than 1,000 left in the wild!",
+    "Colour": "BrownGreyRedBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "15 mph",
+    "Lifespan": "4-8 years",
+    "Weight": "280-550g (9.9-19oz)",
+    "Name": "Numbat",
+    "Status": "Endangered",
+    "locations": [
+        "Oceania"
+    ]
+}

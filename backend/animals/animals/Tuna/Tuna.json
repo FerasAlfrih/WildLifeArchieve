@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Scombriformes",
+    "Family": "Scombridae",
+    "Prey": "Fish, crustaceans, cephalopods, and mollusks",
+    "Group Behavior": "School",
+    "Fun Fact": "The tuna has a sleek body that enables it to swim quickly through the water",
+    "Estimated Population Size": "Millions",
+    "Biggest Threat": "Overfishing",
+    "Most Distinctive Feature": "The metallic blue, silvery color",
+    "Other Name(s)": "Tunny",
+    "Gestation Period": "A few days",
+    "Habitat": "Oceans",
+    "Predators": "[\"15979\"]",
+    "Diet": "Omnivore",
+    "Type": "Ray-finned fish",
+    "Common Name": "Tuna",
+    "Number Of Species": "15",
+    "Colour": "YellowBlueBlackWhiteSilver",
+    "Skin Type": "Smooth",
+    "Top Speed": "50 mph",
+    "Lifespan": "Up to 40 years",
+    "Weight": "Up to 2,000lbs",
+    "Length": "Up to 4m (14ft)",
+    "Name": "Tuna",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Newfypoos have a thick oily coat that can be hard to groom.",
+    "Temperament": "Friendly, docile, lovable, even-tempered, and kind.",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Hair",
+    "Lifespan": "10-12 years",
+    "Weight": "150lbs",
+    "Name": "Newfypoo",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Cypriniformes",
+    "Family": "Cyprinidae",
+    "Prey": "Aquatic plants, insects, crustaceans, worms, and zooplankton",
+    "Group Behavior": "School",
+    "Fun Fact": "The carp is one of the most popular pond fishes in the world",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Pollution and habitat change",
+    "Most Distinctive Feature": "The small whiskers",
+    "Gestation Period": "3-8 days",
+    "Water Type": "Fresh",
+    "Habitat": "Lakes, rivers, and ponds",
+    "Predators": "Birds, aquatic mammals, and other fish",
+    "Diet": "Omnivore",
+    "Lifestyle": "School",
+    "Type": "Ray-finned fish",
+    "Common Name": "Carp",
+    "Colour": "BrownBlueBlackWhiteGreenOrangeSilver",
+    "Skin Type": "Scales",
+    "Lifespan": "Up to 40 years in captivity",
+    "Weight": "Up to 49lbs",
+    "Length": "35cm (14in) on average",
+    "Name": "Carp",
+    "Status": "Least Concern",
+    "locations": [
+        "Asia"
+    ]
+}

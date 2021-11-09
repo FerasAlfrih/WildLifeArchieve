@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Cervidae",
+    "Genus": "Alces",
+    "Scientific Name": "Alces Alces",
+    "Main Prey": "Grass, Twigs, Pondweed",
+    "Water type": "Saltwater",
+    "Habitat": "Forest areas close to the Arctic tundra",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Renews it's enormous antlers every year!",
+    "Colour": "BrownGreyTan",
+    "Skin Type": "Hair",
+    "Top Speed": "20 mph",
+    "Lifespan": "10-16 years",
+    "Weight": "270-720kg (600-1,580lbs)",
+    "Name": "Moose",
+    "Status": "Least Concern",
+    "locations": [
+        "Eurasia",
+        "Europe",
+        "North-America"
+    ]
+}

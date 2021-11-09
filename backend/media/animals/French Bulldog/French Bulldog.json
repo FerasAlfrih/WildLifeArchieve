@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "These dogs are very talkative. They use a variety of sounds to “talk” to their owners",
+    "Temperament": "Affectionate, friendly, attention-demanding",
+    "Diet": "Omnivore",
+    "Common Name": "French Bulldog",
+    "Slogan": " French bulldogs are known to be very sensitive, harboring emotions that they love to express",
+    "Group": "Mastiff",
+    "Colour": "FawnWhiteTanBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "14 years",
+    "Weight": "28 lbs",
+    "Name": "French Bulldog",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

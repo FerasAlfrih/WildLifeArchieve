@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Family": "Varanidae",
+    "Genus": "Varanus",
+    "Main Prey": "Rodents, Snakes, Lizards",
+    "Fun Fact": "Some species are thought to carry a weak venom!",
+    "Habitat": "River banks and coastal forests",
+    "Diet": "Carnivore",
+    "Average Litter Size": "10",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Rodents",
+    "Type": "Reptile",
+    "Slogan": "Some species are thought to carry a weak venom!",
+    "Colour": "BrownGreyTanGreen",
+    "Skin Type": "Scales",
+    "Top Speed": "28 mph",
+    "Lifespan": "8-30 years",
+    "Weight": "1-166kg (2.2-366lbs)",
+    "Name": "Monitor Lizard",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Oceania"
+    ]
+}

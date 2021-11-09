@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The German Sheppit is well-suited for guarding and police work.",
+    "Temperament": "Loyal, protective, and smart",
+    "Diet": "Omnivore",
+    "Colour": "GreyFawnBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "10 - 12 years",
+    "Weight": "90 lbs",
+    "Name": "German Sheppit",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

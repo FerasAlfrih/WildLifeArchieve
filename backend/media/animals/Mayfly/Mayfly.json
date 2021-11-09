@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Ephemeroptera",
+    "Scientific Name": "Ephemeroptera",
+    "Main Prey": "Algae, Larvae, Aquatic Plants",
+    "Habitat": "Forest and woodland close to water",
+    "Predators": "Birds, Rodents, Reptiles",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1,000",
+    "Favorite Food": "Algae",
+    "Common Name": "Mayfly",
+    "Number Of Species": "2500",
+    "Location": "Worldwide",
+    "Slogan": "There are 2,500 known species worldwide!",
+    "Colour": "BrownGreyYellowBlackTanGreen",
+    "Skin Type": "Shell",
+    "Name": "Mayfly",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

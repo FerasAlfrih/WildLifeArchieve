@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Primates",
+    "Family": "Hominidae",
+    "Genus": "Gorilla",
+    "Scientific Name": "Gorilla berengei",
+    "Main Prey": "Leaves, Seeds, Herbs",
+    "Habitat": "Tropical forest and jungles in mountainous regions",
+    "Predators": "Human, Leopard",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Social",
+    "Favorite Food": "Leaves",
+    "Type": "Mammal",
+    "Slogan": "The largest primate in the world!",
+    "Colour": "BrownGreyBlack",
+    "Skin Type": "Hair",
+    "Top Speed": "25 mph",
+    "Lifespan": "35 - 50 years",
+    "Weight": "204kg - 227kg (450lbs - 500lbs)",
+    "Height": "1.5m - 1.8m (5ft - 6ft)",
+    "Name": "Eastern Gorilla",
+    "Status": "Critically Endangered",
+    "locations": [
+        "Africa"
+    ]
+}

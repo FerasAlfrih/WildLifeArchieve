@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Orectolobiformes",
+    "Family": "Rhincodontidae",
+    "Genus": "Rhincodon",
+    "Scientific Name": "Rhincodon Typus",
+    "Main Prey": "Krill, Plankton, Crab, Fish",
+    "Habitat": "Warm coastal waters and open ocean",
+    "Predators": "Human, Sharks, Killer Whale",
+    "Diet": "Carnivore",
+    "Average Litter Size": "12",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Krill",
+    "Type": "Fish",
+    "Slogan": "The largest species of fish in the world!",
+    "Colour": "BrownGreyBlue",
+    "Skin Type": "Smooth",
+    "Top Speed": "10 mph",
+    "Lifespan": "60-70 years",
+    "Weight": "13,607-18,144kg (15-20tons)",
+    "Name": "Whale Shark",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Sphenisciformes",
+    "Family": "Spheniscidae",
+    "Genus": "Spheniscus",
+    "Scientific Name": "Spheniscus humboldti",
+    "Main Prey": "Krill, Fish, Shrimp",
+    "Distinctive Feature": "Pink base of beak and black and white markings",
+    "Habitat": "Rocky Ocean Islands",
+    "Predators": "Leopard Seal, Killer Whale, Sharks",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Colony",
+    "Favorite Food": "Krill",
+    "Type": "Bird",
+    "Slogan": "Found on the South American coast!",
+    "Colour": "GreyBlackWhite",
+    "Skin Type": "Feathers",
+    "Lifespan": "15 - 20 years",
+    "Weight": "2kg - 5kg (4.4lbs - 11lbs)",
+    "Height": "60cm - 68cm (24in - 27in)",
+    "Name": "Humboldt Penguin",
+    "Status": "Vulnerable",
+    "locations": [
+        "Ocean",
+        "South-America"
+    ]
+}

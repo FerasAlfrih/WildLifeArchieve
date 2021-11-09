@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Main Prey": "Insects, Worms, Small Birds",
+    "Fun Fact": "Geckos can climb up vertical surfaces",
+    "Water type": "Saltwater",
+    "Habitat": "Rocky deserts and mountainous regions",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Reptile",
+    "Slogan": "There are thought to be over 2,000 species!",
+    "Colour": "BrownYellowBlueBlackWhiteTanGreenOrange",
+    "Skin Type": "Scales",
+    "Top Speed": "30 mph",
+    "Lifespan": "2-9 years",
+    "Weight": "18g (0.5oz)",
+    "Name": "Gecko",
+    "Status": "Near Threatened",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Oceania",
+        "South-America"
+    ]
+}

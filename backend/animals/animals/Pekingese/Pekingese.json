@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Diet": "Omnivore",
+    "Common Name": "Pekingese",
+    "Slogan": "Thought to be over 2,000 years old!",
+    "Group": "Working Dog",
+    "Skin Type": "Hair",
+    "Lifespan": "13 years",
+    "Weight": "6kg (14lbs)",
+    "Name": "Pekingese",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Chondrichthyes",
+    "Order": "Carcharhiniformes",
+    "Family": "Carcharhinidae",
+    "Genus": "Galeocerdo",
+    "Scientific Name": "Galeocerdo Cuvier",
+    "Main Prey": "Squid, Fish, Turtles",
+    "Habitat": "Tropical coastal waters",
+    "Predators": "Human",
+    "Diet": "Carnivore",
+    "Average Litter Size": "35",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Squid",
+    "Type": "Fish",
+    "Slogan": "The fourth biggest species of shark in the world!",
+    "Colour": "BrownGreyBlackWhite",
+    "Skin Type": "Smooth",
+    "Top Speed": "20 mph",
+    "Lifespan": "30-40 years",
+    "Weight": "385-635kg (850-1,400lbs)",
+    "Name": "Tiger Shark",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

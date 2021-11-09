@@ -1,0 +1,19 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Fun Fact": "A toy terrier dog and is elegant and tri-colored.",
+    "Temperament": "friendly, energetic, playful",
+    "Diet": "Omnivore",
+    "Skin Type": "Fur",
+    "Lifespan": "12-15 years",
+    "Weight": "4-8 lbs",
+    "Name": "Biewer Terrier",
+    "Status": "Least Concern",
+    "locations": [
+        "World Wide"
+    ]
+}

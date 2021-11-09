@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Diprotodontia",
+    "Family": "Macropodidae",
+    "Genus": "Macropus",
+    "Scientific Name": "Macropus",
+    "Main Prey": "Grasses, Fruits, Seeds, Leaves",
+    "Habitat": "Forest and shrubland",
+    "Predators": "Dingo, Fox, Large reptiles",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grasses",
+    "Type": "Mammal",
+    "Slogan": "There are roughly 30 different species!",
+    "Colour": "BrownGreyRedWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "30 mph",
+    "Lifespan": "12-15 years",
+    "Weight": "1-20kg (2.2-44lbs)",
+    "Name": "Wallaby",
+    "Status": "Least Concern",
+    "locations": [
+        "Oceania"
+    ]
+}

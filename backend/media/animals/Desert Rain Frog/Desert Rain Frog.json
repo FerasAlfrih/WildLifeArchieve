@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Family": "Brevicipitidae",
+    "Genus": "Breviceps",
+    "Scientific Name": "Breviceps macrops",
+    "Fun Fact": "The desert rain frog doesn't hop",
+    "Estimated Population Size": "unknown",
+    "Biggest Threat": "Humans",
+    "Most Distinctive Feature": "Large body, small limbs",
+    "Other Name(s)": "Boulenger's short-headed, frogweb-footed rain frog",
+    "Litter Size": "12–40",
+    "Habitat": "Sand dunes",
+    "Predators": "Birds, Larger Mammals",
+    "Diet": "Omnivore",
+    "Favorite Food": "Insects, larve",
+    "Type": "Amphibian",
+    "Colour": "YellowLight-Brown",
+    "Skin Type": "Permeable",
+    "Lifespan": "2 to 15 years",
+    "Weight": "Up to 0.4 oz",
+    "Length": "2–2.5 inches",
+    "Name": "Desert Rain Frog",
+    "Status": "Vulnerable",
+    "locations": [
+        "Africa"
+    ]
+}

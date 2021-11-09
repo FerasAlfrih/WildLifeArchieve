@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Chihuahua is the smallest dog breed in the world.",
+    "Temperament": "Charming, intelligent, and friendly",
+    "Diet": "Omnivore",
+    "Colour": "GreyFawnBlackWhiteSilver",
+    "Skin Type": "Hair",
+    "Lifespan": "15 to 20 years",
+    "Weight": "12 lbs",
+    "Name": "Deer Head Chihuahua",
+    "Status": "Not Listed",
+    "locations": [
+        "Central-America"
+    ]
+}

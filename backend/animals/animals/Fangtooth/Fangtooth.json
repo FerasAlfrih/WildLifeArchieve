@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Beryciformes",
+    "Family": "Anoplogastridae",
+    "Genus": "Anoplogaster",
+    "Scientific Name": "Anoplogaster",
+    "Prey": "Scallops, coral",
+    "Group Behavior": "Solitary/Group",
+    "Fun Fact": "Has the largest teeth compared to body size of any known fish",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Tuna, marlin, small sharks",
+    "Most Distinctive Feature": "Protruding jaw and fangs",
+    "Other Name(s)": "Common fangtooth",
+    "Gestation Period": "Unknown",
+    "Water type": "Saltwater",
+    "Habitat": "Deep ocean",
+    "Diet": "Carnivore",
+    "Type": "Beryciform",
+    "Colour": "BrownGreyYellowBlack",
+    "Skin Type": "Scales",
+    "Weight": "75lbs",
+    "Length": "1.05m - 2.20m (3.4ft - 7.3ft)",
+    "Name": "Fangtooth",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Caudata",
+    "Family": "Ambystomatidae",
+    "Genus": "Ambystoma",
+    "Scientific Name": "Ambystoma tigrinum",
+    "Main Prey": "Insects, Worms, Small Frogs",
+    "Fun Fact": "Found across the North American wetlands!",
+    "Habitat": "Wetlands, rivers and streams",
+    "Predators": "Raccoon, Coati, River Turtles",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Insects",
+    "Type": "Amphibian",
+    "Average Clutch Size": "50",
+    "Slogan": "Found across the North American wetlands!",
+    "Colour": "BrownGreyYellowBlackGreen",
+    "Skin Type": "Permeable",
+    "Top Speed": "10 mph",
+    "Lifespan": "10-15 years",
+    "Weight": "113-227g (4-8oz)",
+    "Name": "Tiger Salamander",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America",
+        "Ocean"
+    ]
+}

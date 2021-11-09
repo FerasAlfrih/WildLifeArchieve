@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Struthioniformes",
+    "Family": "Struthionidae",
+    "Genus": "Struthio",
+    "Scientific Name": "Struthio camelus",
+    "Main Prey": "Grass, Roots, Seeds, Flowers",
+    "Fun Fact": "The ostrich is among the largest types of birds in the world.",
+    "Distinctive Feature": "Small wings and long neck and legs",
+    "Wingspan": "1.5m - 2m (4.9ft - 6.5ft)",
+    "Habitat": "Desert and savanna areas",
+    "Diet": "Omnivore",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Bird",
+    "Average Clutch Size": "10",
+    "Slogan": "The largest bird in the world!",
+    "Nesting Location": "Ground",
+    "Colour": "BrownGreyBlackWhitePink",
+    "Skin Type": "Feathers",
+    "Top Speed": "42 mph",
+    "Lifespan": "50 - 70 years",
+    "Weight": "63kg - 130kg (140lbs - 290lbs)",
+    "Height": "1.8m - 2.7m (6ft - 9ft)",
+    "Name": "Ostrich",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa"
+    ]
+}

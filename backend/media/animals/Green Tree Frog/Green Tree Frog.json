@@ -1,0 +1,32 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Amphibia",
+    "Order": "Anura",
+    "Prey": "Flies, mosquitoes, crickets, moths and other small insects",
+    "Name Of Young": "Tadpole",
+    "Group Behavior": "Social",
+    "Fun Fact": "Green tree frogs breathe through their skin",
+    "Estimated Population Size": "Unknown",
+    "Biggest Threat": "Habitat destruction; air pollution",
+    "Most Distinctive Feature": "They’re amphibians, but they live in trees",
+    "Other Name(s)": "The Australian green tree frog is also known as White’s tree frog or dumpy tree frog",
+    "Habitat": "Forested wetlands and marshlands",
+    "Predators": "Birds and snakes",
+    "Diet": "Carnivore",
+    "Type": "Amphibian",
+    "Number Of Species": "2",
+    "Location": "Australia and North America Southeast Asia",
+    "Colour": "Green",
+    "Skin Type": "Permeable",
+    "Lifespan": "With proper care, members of the Australian species can live 15 years in terrariums. The typical lifespan of the American species in captivity is six years.",
+    "Weight": "A few ounces",
+    "Length": "Members of the Australian species measure 4 inches long on average; members of the American species measure 2.5 inches long on average",
+    "Age of Sexual Maturity": "2 years",
+    "Name": "Green Tree Frog",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America",
+        "Oceania"
+    ]
+}

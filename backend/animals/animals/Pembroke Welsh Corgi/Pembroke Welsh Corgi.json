@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Pembroke Welsh Corgi is a favorite breed of Queen Elizabeth II",
+    "Most Distinctive Feature": "Low-set body, large erect ears, and stubby tail",
+    "Temperament": "Affectionate, fun-loving, independent, intelligent",
+    "Litter Size": "6-8",
+    "Diet": "Omnivore",
+    "Colour": "FawnRedBlackWhiteTan",
+    "Skin Type": "Hair",
+    "Lifespan": "12-15",
+    "Weight": "22-30 lbs",
+    "Height": "10-12 inches",
+    "Name": "Pembroke Welsh Corgi",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,27 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Reptilia",
+    "Order": "Squamata",
+    "Fun Fact": "There are around 3,000 known species worldwide",
+    "Diet": "Carnivore",
+    "Lifestyle": "Solitary",
+    "Type": "Reptile",
+    "Slogan": "There are around 3,000 known species worldwide",
+    "Skin Type": "Hair",
+    "Top Speed": "20 mph",
+    "Lifespan": "30 years",
+    "Weight": "150kg (330lbs)",
+    "Name": "Snake",
+    "Status": "Not Listed",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Galliformes",
+    "Family": "Phasianidae",
+    "Genus": "Tetraoninae",
+    "Scientific Name": "Tetraoninae",
+    "Main Prey": "Insects, Nuts, Seeds, Berries",
+    "Distinctive Feature": "Long tail feathers and feathered legs and toes",
+    "Wingspan": "45cm - 101cm (22in - 40in)",
+    "Habitat": "Forest, shrubland and grassy plains",
+    "Predators": "Fox, Lynx, Birds Of Prey",
+    "Diet": "Omnivore",
+    "Lifestyle": "Flock",
+    "Favorite Food": "Insects",
+    "Type": "Bird",
+    "Average Clutch Size": "8",
+    "Slogan": "Feathered legs and toes!",
+    "Colour": "BrownYellowRedBlueBlackWhiteGreen",
+    "Skin Type": "Feathers",
+    "Top Speed": "6 mph",
+    "Lifespan": "1 - 10 years",
+    "Weight": "0.3kg - 6.5kg (0.6lbs - 14lbs)",
+    "Length": "31cm - 95cm (12in - 37in)",
+    "Name": "Grouse",
+    "Status": "Least Concern",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Cetacea",
+    "Family": "Balaenopteridae",
+    "Genus": "Balaenoptera",
+    "Scientific Name": "Balaenoptera Physalus",
+    "Main Prey": "Krill, Fish, Squid",
+    "Distinctive Feature": "Pointed snout and two blowholes on top of head",
+    "Habitat": "Deep offshore waters",
+    "Predators": "Human, Large Sharks",
+    "Diet": "Carnivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Krill",
+    "Type": "Mammal",
+    "Slogan": "Found throughout ocean waters worldwide!",
+    "Colour": "GreyBlueBlackWhite",
+    "Skin Type": "Smooth",
+    "Top Speed": "25 mph",
+    "Lifespan": "50 - 60 years",
+    "Weight": "1,800kg - 70,000kg (4,000lbs - 150,000lbs)",
+    "Length": "6.5m - 24m (21ft - 79ft)",
+    "Name": "Fin Whale",
+    "Status": "Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

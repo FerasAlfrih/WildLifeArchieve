@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Coleoptera",
+    "Family": "Meloidae",
+    "Prey": "Plant leaves, parts of flowers, pollen and plant nectar. Some blister beetle larvae consume grasshopper eggs and feed on immature bees",
+    "Fun Fact": "Blister Beetles are attracted to lights at night.",
+    "Distinctive Feature": "A broad head that's wider than its neck.",
+    "Habitat": "warm or temperate habitats",
+    "Diet": "Omnivore",
+    "Lifestyle": "NocturnalDiurnal",
+    "Number Of Species": "7500",
+    "Colour": "GreyYellowRedBlueBlackGreenOrange",
+    "Lifespan": "1 to 3+ months",
+    "Length": "1 cm to 2.5 cm",
+    "Name": "Blister Beetle",
+    "Status": "Least Concern",
+    "locations": [
+        "North-America"
+    ]
+}

@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Insecta",
+    "Order": "Isoptera",
+    "Scientific Name": "Isoptera",
+    "Main Prey": "Organic plant matter, Wood, Grass",
+    "Habitat": "Forests and areas with high humidity",
+    "Predators": "Birds, Reptiles, Mammals",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1,000",
+    "Favorite Food": "Organic plant matter",
+    "Common Name": "Termite",
+    "Number Of Species": "2800",
+    "Location": "Tropical Regions",
+    "Slogan": "Their mounds can be up to 9 meters tall!",
+    "Colour": "BrownRedBlackWhite",
+    "Skin Type": "Shell",
+    "Name": "Termite",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa",
+        "Asia",
+        "Central-America",
+        "Eurasia",
+        "Europe",
+        "North-America",
+        "Oceania",
+        "South-America"
+    ]
+}

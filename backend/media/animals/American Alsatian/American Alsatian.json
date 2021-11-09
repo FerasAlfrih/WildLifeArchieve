@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Calm, friendly, and loyal",
+    "Diet": "Carnivore",
+    "Common Name": "American Alsatian",
+    "Colour": "BlackGoldCreamSilver",
+    "Skin Type": "Hair",
+    "Weight": "66-88 pounds",
+    "Height": "24-26 inches",
+    "Name": "American Alsatian",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

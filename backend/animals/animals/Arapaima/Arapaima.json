@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Osteoglossiformes",
+    "Family": "Arapaimidae",
+    "Genus": "Arapaima",
+    "Prey": "fish, insects, seeds",
+    "Group Behavior": "Solitary",
+    "Fun Fact": "One of the largest freshwater fish",
+    "Biggest Threat": "Overfishing, habitat destruction",
+    "Distinctive Feature": "Red tail",
+    "Other Name(s)": "Pirarucu",
+    "Water Type": "Fresh",
+    "Optimum pH Level": "6.0 - 6.5",
+    "Predators": "humans, caimans",
+    "Diet": "Omnivore",
+    "Type": "Bonytongue",
+    "Common Name": "Arapaima",
+    "Number Of Species": "4",
+    "Colour": "RedBlackGreenLight-Brown",
+    "Skin Type": "Scales",
+    "Lifespan": "20 years",
+    "Weight": "200kg-220kg (440lbs - 485lbs)",
+    "Length": "10ft-15ft (3m-4.5m)",
+    "Name": "Arapaima",
+    "Status": "Data Deficient",
+    "locations": [
+        "South-America"
+    ]
+}

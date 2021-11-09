@@ -1,0 +1,33 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Casuariiformes",
+    "Family": "Casuariidae",
+    "Genus": "Casuarius",
+    "Main Prey": "Insects, Grass, Fungi",
+    "Fun Fact": "Can jump 5 feet in the air from a standing position!",
+    "Distinctive Feature": "Sharp claws and horn-like crest",
+    "Wingspan": "Wings are tiny",
+    "Incubation Period": "49 to 52 days",
+    "Habitat": "Wet tropical forests",
+    "Predators": "Dingo, Crocodile, Humans",
+    "Diet": "Omnivore",
+    "Lifestyle": "Solitary",
+    "Type": "Bird",
+    "Average Clutch Size": "5",
+    "Slogan": "Can reach speeds of 30mph!",
+    "Nesting Location": "The ground",
+    "Age of Molting": "9 months",
+    "Colour": "YellowBlueBlackTan",
+    "Skin Type": "Feathers",
+    "Top Speed": "31 mph",
+    "Lifespan": "40 - 60 years",
+    "Weight": "25kg - 58.5kg (55lbs - 129lbs)",
+    "Height": "1.5m - 2m (59in - 79in)",
+    "Name": "Cassowary",
+    "Status": "Least Concern",
+    "locations": [
+        "Oceania"
+    ]
+}

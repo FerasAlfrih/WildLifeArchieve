@@ -1,0 +1,23 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Likes to bark a lot!",
+    "Diet": "Omnivore",
+    "Common Name": "Finnish Spitz",
+    "Slogan": "Likes to bark a lot!",
+    "Group": "North",
+    "Colour": "RedGold",
+    "Skin Type": "Hair",
+    "Lifespan": "15 years",
+    "Weight": "33lbs",
+    "Name": "Finnish Spitz",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

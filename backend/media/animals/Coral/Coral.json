@@ -1,0 +1,26 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Cnidaria",
+    "Class": "Anthozoa",
+    "Order": "Octocorallia",
+    "Family": "Alcyonacea",
+    "Scientific Name": "Anthozoa",
+    "Main Prey": "Plankton, Fish, Shrimp",
+    "Distinctive Feature": "Variety of colours and full of holes for species to hind in",
+    "Habitat": "Tropical Oceans",
+    "Predators": "Starfish, Marine slugs and snails",
+    "Diet": "Omnivore",
+    "Average Litter Size": "1,000s",
+    "Favorite Food": "Plankton",
+    "Common Name": "Coral",
+    "Number Of Species": "70000",
+    "Location": "Tropical Oceans",
+    "Slogan": "Thought to be around 70,000 different species!",
+    "Skin Type": "Porous",
+    "Lifespan": "15 - 30 years",
+    "Name": "Coral",
+    "Status": "Near Threatened",
+    "locations": [
+        "Ocean"
+    ]
+}

@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The bite of a Russian Bear Dog is stronger than a lion’s bite.",
+    "Temperament": "Bold and Fearless",
+    "Diet": "Omnivore",
+    "Colour": "BrownGreyBlackCream",
+    "Skin Type": "Hair",
+    "Lifespan": "10 to 12 years",
+    "Weight": "170 pounds",
+    "Height": "23 to 30 inches",
+    "Name": "Russian Bear Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Eurasia"
+    ]
+}

@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "Ownership of this dog was once restricted to the Hungarian nobility",
+    "Temperament": "Brave, loyal, and fearless",
+    "Diet": "Omnivore",
+    "Colour": "White",
+    "Skin Type": "Hair",
+    "Lifespan": "10 – 12 years",
+    "Weight": "115 lbs",
+    "Name": "Kuvasz",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Viverridae",
+    "Genus": "Hemigalus",
+    "Scientific Name": "Hemigalus Derbyanus",
+    "Main Prey": "Rodents, Snakes, Frogs",
+    "Distinctive Feature": "Elongated body and snout with sharp, pointed teeth",
+    "Habitat": "Tropical rainforest",
+    "Predators": "Lions, Snakes, Leopards",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Rodents",
+    "Type": "Mammal",
+    "Slogan": "Markings give it camouflage!",
+    "Colour": "BrownGreyYellowBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Lifespan": "15 - 20 years",
+    "Weight": "1.4kg - 4.5kg (3lbs - 10lbs)",
+    "Height": "43cm - 71cm (17in - 28in)",
+    "Name": "Banded Palm Civet",
+    "Status": "Vulnerable",
+    "locations": [
+        "Asia"
+    ]
+}

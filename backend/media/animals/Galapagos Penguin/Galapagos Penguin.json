@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Aves",
+    "Order": "Sphenisciformes",
+    "Family": "Spheniscidae",
+    "Genus": "Spheniscus",
+    "Scientific Name": "Spheniscus Mendiculus",
+    "Main Prey": "Krill, Fish, Shrimp",
+    "Distinctive Feature": "Small body size and fully black head",
+    "Habitat": "Rocky Ocean Islands",
+    "Predators": "Leopard Seal, Killer Whale, Sharks",
+    "Diet": "Carnivore",
+    "Average Litter Size": "2",
+    "Lifestyle": "Colony",
+    "Favorite Food": "Krill",
+    "Type": "Bird",
+    "Slogan": "Found around the Equator!",
+    "Colour": "GreyBlackWhite",
+    "Skin Type": "Feathers",
+    "Lifespan": "15 - 20 years",
+    "Weight": "2kg - 4kg (4.4lbs - 8.8lbs)",
+    "Height": "48cm - 50cm (19in - 20in)",
+    "Name": "Galapagos Penguin",
+    "Status": "Endangered",
+    "locations": [
+        "Ocean"
+    ]
+}

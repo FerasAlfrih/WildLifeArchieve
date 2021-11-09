@@ -1,0 +1,25 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Felidae",
+    "Genus": "Felis",
+    "Scientific Name": "Felis catus",
+    "Fun Fact": "Adoring, elegant and affectionate!",
+    "Temperament": "Intelligent, friendly and affectionate",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Common Name": "Burmese",
+    "Slogan": "Adoring, elegant and affectionate!",
+    "Group": "Shorthair",
+    "Colour": "BrownBlueBlackCreamLilacGinger",
+    "Skin Type": "Hair",
+    "Lifespan": "13 years on average",
+    "Weight": "6 to 12 lbs.",
+    "Name": "Burmese",
+    "Status": "Not Listed",
+    "locations": [
+        "Asia"
+    ]
+}

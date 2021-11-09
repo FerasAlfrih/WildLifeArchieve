@@ -1,0 +1,22 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "The Greenland Dog can live in temperatures as cold as -35 to -75 degrees Fahrenheit.",
+    "Diet": "Omnivore",
+    "Common Name": "Greenland Dog",
+    "Slogan": "Strong and speedy breed of dog!",
+    "Colour": "GreyBlack",
+    "Skin Type": "Hair",
+    "Lifespan": "12 years",
+    "Weight": "30kg (66lbs)",
+    "Name": "Greenland Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "North-America"
+    ]
+}

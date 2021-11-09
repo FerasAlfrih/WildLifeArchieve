@@ -1,0 +1,29 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Perciformes",
+    "Family": "Sphyraenidae",
+    "Genus": "Sphyraena",
+    "Scientific Name": "Sphyraena",
+    "Main Prey": "Fish, Plankton, Invertebrates",
+    "Distinctive Feature": "Large body size and powerful jaws",
+    "Water Type": "Salt",
+    "Optimum pH Level": "5 - 7",
+    "Habitat": "Coastal lagoons and coral reefs",
+    "Predators": "Sharks, Humans, Killer Whales",
+    "Diet": "Carnivore",
+    "Favorite Food": "Fish",
+    "Common Name": "Barracuda",
+    "Average Clutch Size": "1000",
+    "Slogan": "Can grow to nearly 2 meters long!",
+    "Colour": "BrownGreyBlueBlack",
+    "Skin Type": "Smooth",
+    "Lifespan": "10 - 15 years",
+    "Length": "0.5m - 2m (20in - 79in)",
+    "Name": "Barracuda",
+    "Status": "Least Concern",
+    "locations": [
+        "Ocean"
+    ]
+}

@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Bovidae",
+    "Genus": "Aepyceros",
+    "Scientific Name": "Aepyceros Melampus",
+    "Main Prey": "Grass, Seeds, Flowers",
+    "Habitat": "Wooded savanna and dense bushland",
+    "Predators": "Hyena, Lion, Crocodile",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Grass",
+    "Type": "Mammal",
+    "Slogan": "Able to jump over 10 feet high",
+    "Colour": "BrownWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "30 mph",
+    "Lifespan": "12-15 years",
+    "Weight": "37-75kg (81.6-165lbs)",
+    "Name": "Impala",
+    "Status": "Least Concern",
+    "locations": [
+        "Africa"
+    ]
+}

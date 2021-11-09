@@ -1,0 +1,30 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Mustelidae",
+    "Genus": "Taxidiinae",
+    "Scientific Name": "Taxidea Taxus",
+    "Main Prey": "Worms, Roots, Fruit",
+    "Distinctive Feature": "Flattened body and long claws",
+    "Habitat": "Woodland and hedgerows",
+    "Predators": "Human, Eagle, Wildcats",
+    "Diet": "Omnivore",
+    "Average Litter Size": "3",
+    "Lifestyle": "Solitary",
+    "Favorite Food": "Worms",
+    "Type": "Mammal",
+    "Slogan": "Can reach speeds of 30 km/h!",
+    "Colour": "BrownBlackWhite",
+    "Skin Type": "Fur",
+    "Top Speed": "18 mph",
+    "Lifespan": "4 - 10 years",
+    "Weight": "11kg - 14kg (24lbs - 30lbs)",
+    "Length": "40cm - 75cm (16in - 29in)",
+    "Name": "Badger",
+    "Status": "Near Threatened",
+    "locations": [
+        "Europe"
+    ]
+}

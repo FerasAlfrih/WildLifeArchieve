@@ -1,0 +1,28 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Artiodactyla",
+    "Family": "Camelidae",
+    "Genus": "Lama",
+    "Scientific Name": "Lama Glama",
+    "Main Prey": "Leaves, Grass, Shoots",
+    "Habitat": "Mountainous deserts and grasslands",
+    "Predators": "Human, Puma, Coyote",
+    "Diet": "Herbivore",
+    "Average Litter Size": "1",
+    "Lifestyle": "Herd",
+    "Favorite Food": "Leaves",
+    "Type": "Mammal",
+    "Slogan": "Natively found in the Andes Mountain range!",
+    "Colour": "BrownBlackWhiteTan",
+    "Skin Type": "Fur",
+    "Top Speed": "28 mph",
+    "Lifespan": "15-20 years",
+    "Weight": "130-204kg (280-450lbs)",
+    "Name": "Llama",
+    "Status": "Least Concern",
+    "locations": [
+        "South-America"
+    ]
+}

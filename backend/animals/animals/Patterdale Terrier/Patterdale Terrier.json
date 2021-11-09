@@ -1,0 +1,21 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Fun Fact": "A Patterdale Terrier’s small body structure allows it to squeeze into fox burrows.",
+    "Temperament": "Strong and active",
+    "Diet": "Omnivore",
+    "Colour": "RedBlueBlackTanChocolate",
+    "Skin Type": "Hair",
+    "Lifespan": "10-12 years",
+    "Weight": "13 lbs",
+    "Name": "Patterdale Terrier",
+    "Status": "Not Listed",
+    "locations": [
+        "Europe"
+    ]
+}

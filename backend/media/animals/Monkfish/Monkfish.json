@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Actinopterygii",
+    "Order": "Lophiiformes",
+    "Family": "Lophiidae",
+    "Genus": "Lophius",
+    "Prey": "Crustaceans, fish, seabirds, otters ",
+    "Main Prey": "Fish ",
+    "Fun Fact": "The poor man's lobster! ",
+    "Biggest Threat": "Overfishing ",
+    "Most Distinctive Feature": "Large mouth and unique \"lure\" to attract prey ",
+    "Other Name(s)": "goosefish, angler, fishing frogs, Lotte ",
+    "Water Type": "Salt",
+    "Average Spawn Size": "1 million ",
+    "Habitat": "Oceans. Generally found at 20 to 1,000 meter depths. ",
+    "Predators": "Sharks, swordfish, large skate species ",
+    "Diet": "Carnivore",
+    "Number Of Species": "7",
+    "Slogan": "Called \"The Poor Man's Lobster!\" ",
+    "Colour": "Brown",
+    "Skin Type": "Hair",
+    "Lifespan": "Different species live from 10 to 30 years",
+    "Weight": "The angler can weigh up to 127 pounds!",
+    "Length": "Up to 78 inches",
+    "Name": "Monkfish",
+    "Status": "Least Concern",
+    "locations": [
+        "World Wide"
+    ]
+}

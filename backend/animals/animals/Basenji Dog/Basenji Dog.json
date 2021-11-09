@@ -1,0 +1,24 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Chordata",
+    "Class": "Mammalia",
+    "Order": "Carnivora",
+    "Family": "Canidae",
+    "Genus": "Canis",
+    "Scientific Name": "Canis lupus",
+    "Temperament": "Loyal, stubborn, and affectionate",
+    "Training": "Should be trained from an early age as their independent nature can make them stubborn",
+    "Diet": "Omnivore",
+    "Average Litter Size": "5",
+    "Common Name": "Basenji Dog",
+    "Slogan": "Alert, affectionate and energetic!",
+    "Colour": "BrownRedBlackWhiteTanBrindle",
+    "Skin Type": "Hair",
+    "Lifespan": "12-14 years",
+    "Weight": "24, lbs",
+    "Name": "Basenji Dog",
+    "Status": "Not Listed",
+    "locations": [
+        "Africa"
+    ]
+}

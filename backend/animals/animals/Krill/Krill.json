@@ -1,0 +1,31 @@
+{
+    "Kingdom": "Animalia",
+    "Phylum": "Arthropoda",
+    "Class": "Malacostraca",
+    "Order": "Euphausiacea",
+    "Scientific Name": "Euphausiacea",
+    "Prey": "Plankton",
+    "Group Behavior": "Swarm",
+    "Fun Fact": "The krill is perhaps the most important animal in the marine ecosystem!",
+    "Estimated Population Size": "Trillions",
+    "Biggest Threat": "Changing climate and habitat",
+    "Most Distinctive Feature": "The bioluminescent body",
+    "Gestation Period": "A few days",
+    "Water Type": "Salt",
+    "Habitat": "Coastal and deep ocean regions",
+    "Predators": "Whales, seals, birds, fish, and humans",
+    "Diet": "Omnivore",
+    "Favorite Food": "Both plants and animals, depending on the species",
+    "Type": "Crustacean",
+    "Common Name": "Krill",
+    "Colour": "GreyBlue",
+    "Skin Type": "Hard Outer Shell",
+    "Lifespan": "Up to six years",
+    "Weight": "Less than an ounce",
+    "Length": "Up to 2.4 inches",
+    "Name": "Krill",
+    "Status": "Not Evaluated",
+    "locations": [
+        "Ocean"
+    ]
+}
